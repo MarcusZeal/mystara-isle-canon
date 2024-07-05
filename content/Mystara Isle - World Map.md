@@ -1,4 +1,7 @@
-![[mystara_isle.svg]]
+---
+title: Mystara Isle Map
+draft: false
+---
 
 ```leaflet
 id: Mystara Isle
