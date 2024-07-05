@@ -1,3 +1,4 @@
+![[dawnham_passage.svg]]
 
 
 ```leaflet

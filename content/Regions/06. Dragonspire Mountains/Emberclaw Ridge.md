@@ -1,4 +1,4 @@
-
+![[emberclaw_ridge.svg]]
 
 
 ```leaflet

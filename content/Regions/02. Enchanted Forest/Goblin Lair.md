@@ -1,4 +1,4 @@
-
+![[goblin_lair.svg]]
 
 ```leaflet
 id: Mystara Isle

@@ -25,6 +25,8 @@ Despite its prosperity, Eboncrest is not without its challenges. The city's rapi
 
 For adventurers, Eboncrest offers a wealth of possibilities. Whether it's delving into the ancient mysteries of Old Town, participating in the lively commerce of Redrise, or embarking on a journey from the docks into the wider world, Eboncrest is a place where legends are born and destinies are forged.
 
+![[eboncrest.svg]]
+
 ```leaflet
 id: Mystara Isle
 

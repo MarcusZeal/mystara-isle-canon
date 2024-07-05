@@ -1,4 +1,4 @@
-
+![[copper_rise.svg]]
 
 
 ```leaflet

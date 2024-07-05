@@ -1,6 +1,9 @@
 
 **North Lodge**: Nestled just north of the Enchanted Forest, North Lodge is a humble farming village where our adventurers' journey begins. It's so small and secluded that even the four major cities are unaware of its existence. The people of North Lodge are self-sufficient, valuing privacy and simplicity in their quiet lives.
 
+![[north_lodge.svg]]
+
+
 ```leaflet
 id: Mystara Isle
 

@@ -1,4 +1,4 @@
-
+![[hidden_cave.svg]]
 
 ```leaflet
 id: Mystara Isle

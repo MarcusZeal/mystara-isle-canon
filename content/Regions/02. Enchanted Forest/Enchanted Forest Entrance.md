@@ -1,4 +1,4 @@
-
+![[EF_entrance.svg]]
 
 ```leaflet
 id: Mystara Isle

@@ -1,4 +1,4 @@
-
+![[copper_hill.svg]]
 
 ```leaflet
 id: Mystara Isle

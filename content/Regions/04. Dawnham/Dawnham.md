@@ -6,6 +6,8 @@ Dawnham's defenses are robust, with strong walls and vigilant guards protecting 
 
 The people of Dawnham are resilient and resourceful, accustomed to the constant threats from the south. They value bravery and cunning, traits essential for survival in this perilous region. While Dawnham is a place of opportunity and growth, it also serves as a gateway to some of the isle's most dangerous territories, making it a focal point for adventurers seeking both fortune and glory.
 
+![[dawnham.svg]]
+
 ```leaflet
 id: Mystara Isle
 

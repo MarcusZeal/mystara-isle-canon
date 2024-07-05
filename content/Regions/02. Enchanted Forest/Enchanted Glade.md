@@ -1,4 +1,4 @@
-
+![[enchanted_glade.svg]]
 
 ```leaflet
 id: Mystara Isle

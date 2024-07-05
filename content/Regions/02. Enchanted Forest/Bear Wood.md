@@ -1,4 +1,4 @@
-
+![[bear_wood.svg]]
 
 ```leaflet
 id: Mystara Isle
