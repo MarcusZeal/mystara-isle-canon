@@ -32,13 +32,30 @@ export const LeafletMap: QuartzTransformerPlugin<Options> = (opts?: Options) => 
       }
 
       if (typeof src === "string") {
-        return src.replace(/```leaflet-map([\s\S]*?)```/g, (match: string, p1: string) => {
+        return src.replace(/<code data-language="leaflet"[\s\S]*?<\/code>/g, (match: string) => {
           const mapId = `leaflet-map-${Math.random().toString(36).substr(2, 9)}`
+
+          // Extract the configuration from the code snippet
+          const config: any = {}
+          const lines = match.split("\n")
+          lines.forEach((line) => {
+            const match = line.match(/<span[^>]*>([^:]+):\s*([^<]+)<\/span>/)
+            if (match) {
+              config[match[1].trim()] = match[2].trim()
+            }
+          })
+
+          const lat = parseFloat(config.lat) || 51.505
+          const long = parseFloat(config.long) || -0.09
+          const zoom = parseFloat(config.defaultZoom) || 13
+
           return `
-<div id="${mapId}" style="height: 500px;"></div>
+<div id="${mapId}" style="height: ${config.height || "500px"}; width: ${
+            config.width || "100%"
+          };"></div>
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    const map = L.map("${mapId}").setView([51.505, -0.09], 13);
+    const map = L.map("${mapId}").setView([${lat}, ${long}], ${zoom});
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '© OpenStreetMap contributors'
     }).addTo(map);
