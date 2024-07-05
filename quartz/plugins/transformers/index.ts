@@ -1,3 +1,4 @@
+export { LeafletMap } from "./leafletMap"
 export { FrontMatter } from "./frontmatter"
 export { GitHubFlavoredMarkdown } from "./gfm"
 export { Citations } from "./citations"

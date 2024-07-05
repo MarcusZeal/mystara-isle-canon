@@ -5,11 +5,14 @@ export default (() => {
     return (
       <div data-shortcode>
         <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-        <div id="map" style={{ height: "250px", width: "100%" }}></div>
+        <aside>
+          <h3>Map Goes Here</h3>
+          <div id="map" style={{ height: "250px", width: "100%" }}></div>
+        </aside>
         <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
         <script>
           {`
-            document.addEventListener("DOMContentLoaded", function () {
+            document.addEventListener(DOMContentLoaded, function () {
               function parseShortcode(shortcode) {
                 const config = {};
                 const lines = shortcode.split('\\n').map(line => line.trim()).filter(line => line);
@@ -54,9 +57,9 @@ export default (() => {
                   const markers = data.mapMarkers.find(markerData => markerData.id === mapConfig.id).markers;
                   initializeMap(mapConfig, markers);
                 })
-                .catch(error => console.error("Error fetching pin data:", error));
+                .catch(error => console.error('Error fetching pin data:', error));
 
-              document.addEventListener("nav", () => {
+              document.addEventListener('nav', () => {
                 initializeMap(mapConfig, markers);
               });
 

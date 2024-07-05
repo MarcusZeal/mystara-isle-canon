@@ -56,6 +56,7 @@ const config: QuartzConfig = {
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"],
       }),
+      Plugin.LeafletMap({ dataUrl: "/includes/data.json" }),
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
