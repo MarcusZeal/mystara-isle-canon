@@ -1,28 +1,11 @@
+import mapData from "../../../content/includes/data.json"
 import { QuartzTransformerPlugin } from "../types"
-import visit from "unist-util-visit"
-import fetch from "node-fetch"
 
 interface Options {
   dataUrl: string
 }
 
-let mapData: any = null
-
-async function fetchData(url: string) {
-  try {
-    const response = await fetch(url)
-    mapData = await response.json()
-  } catch (error) {
-    console.error("Error fetching data.json:", error)
-  }
-}
-
 export const LeafletMap: QuartzTransformerPlugin<Options> = (opts?: Options) => {
-  const dataUrl = opts?.dataUrl ?? "includes/data.json"
-
-  // Fetch data on initialization
-  fetchData(dataUrl)
-
   return {
     name: "LeafletMap",
     textTransform(ctx, src) {
@@ -60,16 +43,13 @@ export const LeafletMap: QuartzTransformerPlugin<Options> = (opts?: Options) => 
       attribution: '© OpenStreetMap contributors'
     }).addTo(map);
 
-    ${mapData
-      .map(
-        (pin: { lat: number; lng: number; name: string }) => `
-    L.marker([${pin.lat}, ${pin.lng}]).addTo(map)
-      .bindPopup("${pin.name}")
-      .openPopup();
-    `,
-      )
-      .join("")}
-  });
+    ${mapData.mapMarkers
+      .find((map) => map.id === "Mystara Isle")
+      ?.markers.map(
+        (pin) =>
+          `L.marker([${pin.loc[0]}, ${pin.loc[1]}]).addTo(map).bindPopup("${pin.link}").openPopup();`,
+      )}
+  
 </script>
           `
         })
