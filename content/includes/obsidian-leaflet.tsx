@@ -55,7 +55,7 @@ export const replaceLeafletBlock = () => {
     const mapContainer = `<div id="${mapContainerId}" style="height: ${parsedBlock.config.height}; width: ${parsedBlock.config.width};"></div>`
     document.body.innerHTML = document.body.innerHTML.replace(parsedBlock.fullMatch, mapContainer)
 
-    fetch("data.json")
+    fetch("/includes/data.json")
       .then((response) => response.json())
       .then((data) => {
         const mapData = data.mapMarkers.find((map: any) => map.id === parsedBlock.config.id)

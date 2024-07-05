@@ -1,23 +1,11 @@
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import {
-  parseLeafletBlock,
-  initializeMap,
-  replaceLeafletBlock,
-} from "../../content/includes/obsidian-leaflet"
 
 export default (() => {
   function LeafletMap(props: QuartzComponentProps) {
-    const { fileData } = props
-    const shortcode = fileData?.frontmatter?.leaflet
-
-    if (!shortcode) {
-      return null
-    }
-
     return (
-      <div data-shortcode={shortcode}>
+      <div data-shortcode>
         <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-        <div id="map" style={{ height: "1000px", width: "100%" }}></div>
+        <div id="map" style={{ height: "250px", width: "100%" }}></div>
         <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
         <script>
           {`
