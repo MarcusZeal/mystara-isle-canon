@@ -1,3 +1,312 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+:root {
+  --h1-size: 34px;
+  --h2-size: calc(var(--h1-size) - 4px);
+  --h3-size: calc(var(--h1-size) - 8px);
+  --h4-size: calc(var(--h1-size) - 12px);
+  --h5-size: calc(var(--h1-size) - 14px);
+  --h6-size: calc(var(--h1-size) - 16px);
+  --header-weight: 700;
+  --h1-weight: var(--header-weight);
+  --h2-weight: var(--header-weight);
+  --h3-weight: var(--header-weight);
+  --h4-weight: var(--header-weight);
+  --h5-weight: var(--header-weight);
+  --h6-weight: var(--header-weight);
+  --font: "Calisto MT", "Palatino Black", "Book Antiqua", "Georgia", "Suez One", serif;
+  --h1-font: var(--font);
+  --h2-font: var(--font);
+  --h3-font: var(--font);
+  --h4-font: var(--font);
+  --h5-font: var(--font);
+  --h6-font: var(--font);
+  --heading-formatting: var(--inactive);
+  --h1-color: var(--headers);
+  --h2-color: var(--headers);
+  --h3-color: var(--headers);
+  --h4-color: var(--headers);
+  --h5-color: var(--headers);
+  --h6-color: var(--headers);
+  --header-text-align: left;
+  --h1-text-align: var(--header-text-align);
+  --h2-text-align: var(--header-text-align);
+  --h3-text-align: var(--header-text-align);
+  --h4-text-align: var(--header-text-align);
+  --h5-text-align: var(--header-text-align);
+  --h6-text-align: var(--header-text-align);
+  --header-padding: 0;
+  --h1-padding: var(--header-padding);
+  --h2-padding: var(--header-padding);
+  --h3-padding: var(--header-padding);
+  --h4-padding: var(--header-padding);
+  --h5-padding: var(--header-padding);
+  --h6-padding: var(--header-padding);
+  --heading-spacing: 10px;
+  --heading-spacing-top: var(--heading-spacing);
+  --heading-spacing-bottom: var(--heading-spacing);
+  --header-background: transparent;
+  --h1-background: var(--header-background);
+  --h2-background: var(--header-background);
+  --h3-background: var(--header-background);
+  --h4-background: var(--header-background);
+  --h5-background: var(--header-background);
+  --h6-background: var(--header-background);
+  --h1-border-color: var(--theme-rainbow-1);
+  --h2-border-color: var(--theme-rainbow-2);
+  --h3-border-color: var(--theme-rainbow-3);
+  --h4-border-color: var(--theme-rainbow-4);
+  --h5-border-color: var(--theme-rainbow-5);
+  --h6-border-color: var(--theme-rainbow-6);
+  --h1-border-width: 0;
+  --h2-border-width: 0;
+  --h3-border-width: 0;
+  --h4-border-width: 0;
+  --h5-border-width: 0;
+  --h6-border-width: 0;
+  --header-border-line-color: var(--table);
+  --h1-border-line-color: var(--header-border-line-color);
+  --h2-border-line-color: var(--header-border-line-color);
+  --h3-border-line-color: var(--header-border-line-color);
+  --h4-border-line-color: var(--header-border-line-color);
+  --h5-border-line-color: var(--header-border-line-color);
+  --h6-border-line-color: var(--header-border-line-color);
+  --h1-border-left-color: var(--h1-border-line-color);
+  --h2-border-left-color: var(--h2-border-line-color);
+  --h3-border-left-color: var(--h3-border-line-color);
+  --h4-border-left-color: var(--h4-border-line-color);
+  --h5-border-left-color: var(--h5-border-line-color);
+  --h6-border-left-color: var(--h6-border-line-color);
+  --h1-border-right-color: var(--h1-border-line-color);
+  --h2-border-right-color: var(--h2-border-line-color);
+  --h3-border-right-color: var(--h3-border-line-color);
+  --h4-border-right-color: var(--h4-border-line-color);
+  --h5-border-right-color: var(--h5-border-line-color);
+  --h6-border-right-color: var(--h6-border-line-color);
+  --header-shadow: transparent;
+  --h1-shadow: var(--header-shadow);
+  --h2-shadow: var(--header-shadow);
+  --h3-shadow: var(--header-shadow);
+  --h4-shadow: var(--header-shadow);
+  --h5-shadow: var(--header-shadow);
+  --h6-shadow: var(--header-shadow);
+  --header-border-line-width: 100%;
+  --h1-border-line-width: 100%;
+  --h2-border-line-width: 85%;
+  --h3-border-line-width: 65%;
+  --h4-border-line-width: 44%;
+  --h5-border-line-width: 25%;
+  --h6-border-line-width: 0;
+  --header-border-line-left: none;
+  --header-border-line-height: 4px;
+  --h1-border-line-height: var(--header-border-line-height);
+  --h2-border-line-height: var(--header-border-line-height);
+  --h3-border-line-height: var(--header-border-line-height);
+  --h4-border-line-height: var(--header-border-line-height);
+  --h5-border-line-height: var(--header-border-line-height);
+  --h6-border-line-height: var(--header-border-line-height);
+  --header-border-line-align: none;
+  --header-arrow-icon-size: 10px;
+  --header-arrow-icon-color: var(--collapse-icon-color);
+
+  --hvr-active: rgba(182, 28, 28, 0.5);
+  --highlight: #c20a0a35;
+  --outer-bar: #fbe2c5;
+  --dark-sidebar: #f6e3cd;
+  --side-bar: #fff6e4;
+  --note: #fff9f0;
+  --note-rgb: 255, 252, 240;
+  --accent-color: 199, 89, 89;
+  --accent: #c75959;
+  --lite-accent: #a35158;
+  --dark-accent: #cd645e;
+  --deep-dark-accent: #2e1010;
+  --accent2: #000000;
+  --accent2-lite: #df6262;
+  --headers: #c14343;
+  --text: #412f2f;
+  --code-text: #681010;
+  --inactive: #e2b7a3;
+  --file-icon-color: #ebbd92;
+  --folder-open: var(--text);
+  --bg: var(--dark-sidebar);
+  --code-bg: #f3e6d2;
+  --aside-bg: #faf2e9;
+  --embed-bg: var(--aside-bg);
+  --td: #fae0be60;
+  --table: var(--outline);
+  --hr: var(--table);
+  --lines: var(--inactive);
+  --outline: #fbb4577e;
+  --hr-image: url("data:image/svg+xml,%3Csvg width='100%25' height='100%25' viewBox='0 0 100 7' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xml:space='preserve' xmlns:serif='http://www.serif.com/' style='fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;'%3E%3Crect id='Artboard1' x='0' y='0' width='100' height='7' style='fill:none;'/%3E%3Cpath d='M50,2.5L100,3.5L50,4L0,3.5L50,2.5Z' style='fill:rgb(200, 57, 57);'/%3E%3C/svg%3E")
+    no-repeat center center;
+  --header-weight: 500;
+  --font: "its-Draconis", "Draconis", Inter;
+  --font-monospace: "its-Fira Code", "Fira Code", Inter;
+  --font-default: "its-Bookerly", "Bookerly", Inter;
+  --font-text: var(--font-default);
+  --vault-name-font-size: 25px;
+  --hr-icon-symbol: "";
+  --hr-icon-font: var(--its);
+  --hr-icon-symbol: ;
+  --hr-image-height: 5px;
+  --hr-image-width: 100%;
+  --hr-thickness: 0;
+  --embed-h: #c93c3c;
+  --h2-color: sandybrown;
+  --h3-color: #a11111;
+  --h1-border-line-color: var(--embed-h);
+  --h2-border-line-color: var(--h2-color);
+  --h3-border-line-color: var(--h3-color);
+  --h1-border-right-color: linear-gradient(to right, var(--h1-border-line-color), transparent);
+  --h2-border-right-color: linear-gradient(to right, var(--h2-border-line-color), transparent);
+  --h3-border-right-color: linear-gradient(to right, var(--h3-border-line-color), transparent);
+  --h4-border-right-color: linear-gradient(to right, var(--header-border-line-color), transparent);
+  --h5-border-right-color: linear-gradient(to right, var(--header-border-line-color), transparent);
+  --h6-border-right-color: linear-gradient(to right, var(--header-border-line-color), transparent);
+  --h1-border-left-color: linear-gradient(to left, var(--h1-border-line-color), transparent);
+  --h2-border-left-color: linear-gradient(to left, var(--h2-border-line-color), transparent);
+  --h3-border-left-color: linear-gradient(to left, var(--h3-border-line-color), transparent);
+  --h4-border-left-color: linear-gradient(to left, var(--header-border-line-color), transparent);
+  --h5-border-left-color: linear-gradient(to left, var(--header-border-line-color), transparent);
+  --h6-border-left-color: linear-gradient(to left, var(--header-border-line-color), transparent);
+  --icon-color: var(--text);
+  --drop-shadow: var(--td);
+  --paper-edges: 0 0 60px var(--outline) inset;
+  --paper-edges-m: 0 0 100px var(--outline) inset;
+  --paper-edges-note: 0 0 60px var(--outline) inset;
+  --paper-edges-ui: 0 0 25px var(--outline) inset;
+  --tab-container-background: transparent;
+  --tab-titlebar-color: transparent;
+  --pane-background: transparent;
+  --file-header-background: transparent;
+  --kanban-card-title-background: var(--td);
+  --kanban-card-metadata-background: var(--note);
+  --scrollbar-width: 15px;
+}
+
+:root[saved-theme="light"] body {
+  background: var(--note);
+  box-shadow: var(--paper-edges-m);
+  min-height: 100vh;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--headers);
+  font-family: var(--font);
+}
+
+/* ===== Scrollbar CSS ===== */
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #c14343 #ffffff;
+}
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 16px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #ffffff;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #c14343;
+  border-radius: 10px;
+  border: 3px solid #ffffff;
+}
+
+a {
+  color: var(--headers);
+}
+
+ul#explorer-ul {
+  max-height: 800px;
+}
+
+h2,
+.is-live-preview .HyperMD-header-2 {
+  box-shadow: var(--h2-shadow);
+}
+h2::before,
+h2::after {
+  content: "";
+  display: block;
+  background: var(--h2-border-right-color);
+  width: var(--h2-border-line-width);
+  height: var(--h2-border-line-height);
+  margin: var(--header-border-line-align);
+}
+h2::before {
+  display: var(--header-border-line-left);
+  background: var(--h2-border-left-color);
+}
+
+h3 {
+  box-shadow: var(--h3-shadow);
+}
+h3::before,
+h3::after {
+  content: "";
+  display: block;
+  background: var(--h3-border-right-color);
+  width: var(--h3-border-line-width);
+  height: var(--h3-border-line-height);
+  margin: var(--header-border-line-align);
+}
+h3::before {
+  display: var(--header-border-line-left);
+  background: var(--h3-border-left-color);
+}
+
+h4 {
+  box-shadow: var(--h4-shadow);
+}
+h4::before,
+h4::after {
+  content: "";
+  display: block;
+  background: var(--h4-border-right-color);
+  width: var(--h4-border-line-width);
+  height: var(--h4-border-line-height);
+  margin: var(--header-border-line-align);
+}
+h4::before {
+  display: var(--header-border-line-left);
+  background: var(--h4-border-left-color);
+}
+nav.breadcrumb-container {
+  position: relative;
+}
+
+nav.breadcrumb-container:after {
+  content: "";
+  background: var(--hr-image);
+  height: 30px;
+  width: 100%;
+  display: block;
+  position: absolute;
+  top: 25px;
+}
+footer {
+  margin-bottom: 0px;
+  padding-bottom: 4rem;
+}
+
+.center li::marker {
+  content: "◆";
+  color: var(--accent);
+  font-size: 1.2em;
+}
+.center li p {
+  padding-left: 10px;
+}

@@ -26,12 +26,21 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(
+      Component.Explorer({
+        sortFn: (a, b) => {
+          const orderA = Number(a.file?.frontmatter?.order) || 0
+          const orderB = Number(b.file?.frontmatter?.order) || 0
+          return orderA - orderB
+        },
+      }),
+    ),
   ],
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.MobileOnly(Component.Explorer()),
   ],
 }
 

@@ -2,26 +2,40 @@
 title: Welcome to Mystara Isle.
 draft: false
 ---
-Welcome to Mystara Isle.
+
+**Welcome to Mystara Isle.**
 
 From the mage spires in Kylastrin to the druidic heritages of the Balgaran Forest; Mystara Isle is a mysterious and dangerous island with a rich history and diverse landscapes.
 
 ### Key Locations
 
-- **North Lodge**: Nestled just north of the Enchanted Forest, North Lodge is a humble farming village where our adventurers' journey begins. It's so small and secluded that even the four major cities are unaware of its existence. The people of North Lodge are self-sufficient, valuing privacy and simplicity in their quiet lives.
-- **Eldoria Forest (Enchanted Forest)**: To the south of North Lodge lies Eldoria Forest, a vast, mystical woodland teeming with magical creatures, ancient trees, and hidden secrets. Often referred to as the Enchanted Forest, it’s a place where reality and fantasy blur.
-- **Dragonspire Mountains**: Towering to the east, the Dragonspire Mountains are rumored to house ancient dragons and untold treasures. The mages of old built the city of Kylastrin far to the east of these peaks, but traveling through the mountains is considered a death sentence due to their perilous nature.
-- **Eboncrest**: Situated in the heart of Mystara, Eboncrest is a bustling city where all roads to the east and west converge, avoiding the deadly Dragonspire Mountains. The Wyrmstail River splits the city in two, eventually draining into the vast Deep Blue.
-- **Dawnham**: Dawnhall is a bustling city on a coastal peninsula, strategically located south of the Enchanted Forest, east of Copper Hill, and west of Eboncrest. Known for its vibrant markets and strong defenses, the city faces constant threats from beasts, bandits, and pirates in the wilds to the south. This resilient hub of trade and culture is a key destination for adventurers seeking fortune and glory on Mystara Isle.
-- **Crimson Sands**: South of the Dragonspire Mountains and east of Eboncrest stretches the Crimson Sands, a vast, inhospitable desert. Few dare to traverse these sands, and even fewer reach Ironheart, the desert coastal city far to the southeast.
-- **Ironheart**: Known for its military prowess, Ironheart is surrounded by the Deep Blue and the Crimson Sands. It is not a city of hospitality or scenic beauty; instead, its sole focus is on creating the strongest warriors in Mystara, both on land and sea.
-- **Bluewing**: Between Ironheart and Kylastrin lies the village of Bluewing, shrouded in mystery. Little is known about this village, except its name, whispered among travelers.
-- **Kylastrin**: The city of mages, Kylastrin, is home to those who excel in magical prowess. Located to the east of the Dragonspire Mountains and north of the Crimson Sands, Kylastrin is closed to all but those seeking to deepen their connection to the Weave.
-- **Copper Hill**: A friendly coastal village known for its hospitality, Copper Hill offers a warm welcome to travelers with its bustling inn and abundant crops. Many prefer its cozy inn over the ones in larger cities when traveling to Dawnham.
-- **Sunfield**: Little is known about Sunfield. Rumors suggest that whatever calamity took Balgaran also befell Sunfield, but news travels slowly on Mystara Isle.
-- **The City of Balgaran**: Once a proud and populous city, Balgaran fell to an unknown catastrophe, possibly a plague. In just a few days, the city of 20,000 was decimated. Now, its ruins are haunted by the undead, the only remnants of its former glory.
-- **Balgaran Forest**: Located on the westernmost coast, Balgaran Forest is home to reclusive druids. Due to its proximity to the fallen city of Balgaran, many suspect the druids of being responsible for the city's mysterious downfall.
-- **Silverlake**: A serene, enchanted lake reputed for its healing properties and guarded by water spirits. Though its exact location has been lost to time, some believe it lies within the depths of Balgaran Forest to the far west.
+- **[[North Lodge]]**: Nestled just north of the Enchanted Forest, North Lodge is a humble farming village where our adventurers' journey begins. It's so small and secluded that even the four major cities are unaware of its existence. The people of North Lodge are self-sufficient, valuing privacy and simplicity in their quiet lives.
+
+- **[[Eldoria Forest (Enchanted Forest)]]**: To the south of North Lodge lies Eldoria Forest, a vast, mystical woodland teeming with magical creatures, ancient trees, and hidden secrets. Often referred to as the Enchanted Forest, it’s a place where reality and fantasy blur.
+
+- **[[Eboncrest]]**: Situated in the heart of Mystara, Eboncrest is a bustling city where all roads to the east and west converge, avoiding the deadly Dragonspire Mountains. The Wyrmstail River splits the city in two, eventually draining into the vast Deep Blue.
+
+- **[[Dawnham]]**: Dawnhall is a bustling city on a coastal peninsula, strategically located south of the Enchanted Forest, east of Copper Hill, and west of Eboncrest. Known for its vibrant markets and strong defenses, the city faces constant threats from beasts, bandits, and pirates in the wilds to the south. This resilient hub of trade and culture is a key destination for adventurers seeking fortune and glory on Mystara Isle.
+
+- **[[Dragonspire Mountains]]**: Towering to the east, the Dragonspire Mountains are rumored to house ancient dragons, vicious gargoyles, beasts of untold strength, and unimaginable treasures. The mages of old built the city of Kylastrin far to the east of these peaks, but traveling through the mountains is considered a death sentence due to their perilous nature.
+
+- **[[Crimson Sands]]**: South of the Dragonspire Mountains and east of Eboncrest stretches the Crimson Sands, a vast, inhospitable desert. Few dare to traverse these sands, and even fewer reach Ironheart, the desert coastal city far to the southeast.
+
+- **[[Ironheart]]**: Known for its military prowess, Ironheart is surrounded by the Deep Blue and the Crimson Sands. It is not a city of hospitality or scenic beauty; instead, its sole focus is on creating the strongest warriors in Mystara, both on land and sea.
+
+- **[[Bluewing]]**: Between Ironheart and Kylastrin lies the village of Bluewing, shrouded in mystery. Little is known about this village, except its name, whispered among travelers.
+
+- **[[Kylastrin]]**: The city of mages, Kylastrin, is home to those who excel in magical prowess. Located to the east of the Dragonspire Mountains and north of the Crimson Sands, Kylastrin is closed to all but those seeking to deepen their connection to the Weave.
+
+- **[[Copper Hill]]**: A friendly coastal village known for its hospitality, Copper Hill offers a warm welcome to travelers with its bustling inn and abundant crops. Many prefer its cozy inn over the ones in larger cities when traveling to Dawnham.
+
+- **[[Sunfield]]**: Little is known about Sunfield. Rumors suggest that whatever calamity took Balgaran also befell Sunfield, but news travels slowly on Mystara Isle.
+
+- **[[The City of Balgaran]]**: Once a proud and populous city, Balgaran fell to an unknown catastrophe, possibly a plague. In just a few days, the city of 20,000 was decimated. Now, its ruins are haunted by the undead, the only remnants of its former glory.
+
+- **[[Balgaran Forest]]**: Located on the westernmost coast, Balgaran Forest is home to reclusive druids. Due to its proximity to the fallen city of Balgaran, many suspect the druids of being responsible for the city's mysterious downfall.
+
+- **[[Silverlake]]**: A serene, enchanted lake reputed for its healing properties and guarded by water spirits. Though its exact location has been lost to time, some believe it lies within the depths of Balgaran Forest to the far west.
 
 ### Mystara Isle Backstory
 
