@@ -27,6 +27,17 @@ export default (() => {
             <link rel="preconnect" href="https://fonts.googleapis.com" />
             <link rel="preconnect" href="https://fonts.gstatic.com" />
             <link rel="stylesheet" href={googleFontHref(cfg.theme)} />
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-X1KQHN8MTL"></script>
+            <script
+              dangerouslySetInnerHTML={{
+                __html: `
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-X1KQHN8MTL');
+                `,
+              }}
+            />
           </>
         )}
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
