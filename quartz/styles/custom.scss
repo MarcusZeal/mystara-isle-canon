@@ -297,16 +297,40 @@ nav.breadcrumb-container:after {
   position: absolute;
   top: 25px;
 }
+
+hr {
+  background: var(--hr-image);
+  height: 30px;
+  width: 100%;
+}
+
 footer {
   margin-bottom: 0px;
   padding-bottom: 4rem;
 }
 
-.center li::marker {
+article.popover-hint li::marker {
   content: "◆";
   color: var(--accent);
   font-size: 1.2em;
 }
-.center li p {
+article.popover-hint {
   padding-left: 10px;
+}
+
+.folder-container div > button,
+.folder-container div > button span {
+  color: var(--accent);
+}
+
+article.popover-hint li {
+  padding: 0 0 5px 10px;
+}
+
+img.profile-image {
+  aspect-ratio: 1 / 1;
+  height: auto;
+  width: 100%;
+  flex: unset;
+  min-width: unset !important;
 }

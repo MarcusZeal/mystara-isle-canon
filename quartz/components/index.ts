@@ -19,6 +19,8 @@ import DesktopOnly from "./DesktopOnly"
 import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
+import ProfileImage from "./ProfileImage"
+import ZoneMap from "./ZoneMap"
 
 export {
   ArticleTitle,
@@ -42,4 +44,6 @@ export {
   RecentNotes,
   NotFound,
   Breadcrumbs,
+  ProfileImage,
+  ZoneMap,
 }

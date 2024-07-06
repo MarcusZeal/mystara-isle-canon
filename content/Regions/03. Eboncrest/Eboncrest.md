@@ -3,6 +3,7 @@ title: Eboncrest
 draft: false
 tags:
   - City
+zoneMap: "[[eboncrest.svg]]"
 ---
 
 Eboncrest stands as the central hub of Mystara Isle, a bustling city where all major roads converge, avoiding the treacherous Dragonspire Mountains. The city is strategically situated, making it a vital link between the eastern and western regions of the isle. The Wyrmstail River flows through the heart of Eboncrest, dividing the city into two vibrant halves before emptying into the expansive Deep Blue.
@@ -24,5 +25,3 @@ Eboncrest is a city of diversity and dynamism. Its streets are filled with peopl
 Despite its prosperity, Eboncrest is not without its challenges. The city's rapid growth has led to social tensions, and the constant influx of travelers brings with it both opportunity and risk. Crime and intrigue lurk in the shadows, making the city's underbelly as complex and unpredictable as its gleaming facade.
 
 For adventurers, Eboncrest offers a wealth of possibilities. Whether it's delving into the ancient mysteries of Old Town, participating in the lively commerce of Redrise, or embarking on a journey from the docks into the wider world, Eboncrest is a place where legends are born and destinies are forged.
-
-![[eboncrest.svg]]

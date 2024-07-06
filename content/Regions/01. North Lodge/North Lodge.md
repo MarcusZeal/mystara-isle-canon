@@ -5,6 +5,7 @@ tags:
   - Village
   - North-Lodge
 order: 1
+zoneMap: "[[north_lodge.svg]]"
 ---
 
 **North Lodge** is a quaint, secluded village situated just north of the mystical Eldoria Forest, also known as the Enchanted Forest. Despite its unassuming size, North Lodge is a place of quiet resilience and hidden depths, where the simplicity of village life belies the rich tapestry of stories and secrets that its residents hold.

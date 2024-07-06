@@ -4,6 +4,6 @@ draft: true
 order: 3
 tags:
   - Dragonspire-Mountains
+zoneMap: "[[emberclaw_ridge.svg]]"
 ---
 
-![[emberclaw_ridge.svg]]

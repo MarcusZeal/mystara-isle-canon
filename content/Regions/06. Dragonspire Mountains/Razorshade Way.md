@@ -4,6 +4,6 @@ draft: true
 order: 5
 tags:
   - Dragonspire-Mountains
+zoneMap: "[[razorshade_way.svg]]"
 ---
 
-![[razorshade_way.svg]]
