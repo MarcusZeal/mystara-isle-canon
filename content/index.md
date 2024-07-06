@@ -2,7 +2,6 @@
 title: Welcome to Mystara Isle.
 draft: false
 ---
-
 Welcome to Mystara Isle.
 
 From the mage spires in Kylastrin to the druidic heritages of the Balgaran Forest; Mystara Isle is a mysterious and dangerous island with a rich history and diverse landscapes.
