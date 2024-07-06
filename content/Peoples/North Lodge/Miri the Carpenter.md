@@ -12,7 +12,7 @@ profile: "[[miri-the-carpenter.webp]]"
 - **Role**: Carpenter
 - **Description**: Miri is a strong woman in her mid-40s with short, curly hair and a ready smile. Her hands are rough from years of woodworking, and she often wears practical clothing with a tool belt slung around her waist.
 - **Personality**: Cheerful, practical, and always willing to lend a hand. Miri has an infectious optimism and a knack for finding creative solutions to problems.
-- **Background**: Miri took over her father's carpentry business and has since built or repaired most of the structures in North Lodge. Her skills have made her an indispensable part of the village, and she takes great pride in her work.
+- **Background**: Miri took over her father's carpentry business and has since built or repaired most of the structures in [[North Lodge]]. Her skills have made her an indispensable part of the village, and she takes great pride in her work.
 - **Motivation**: Miri loves creating things that benefit the community. She enjoys teaching her craft to anyone interested and is always looking for ways to improve the village's infrastructure.
 
 #### Notable Traits:

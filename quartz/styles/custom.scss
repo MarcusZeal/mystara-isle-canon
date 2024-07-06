@@ -288,16 +288,6 @@ nav.breadcrumb-container {
   position: relative;
 }
 
-nav.breadcrumb-container:after {
-  content: "";
-  background: var(--hr-image);
-  height: 30px;
-  width: 100%;
-  display: block;
-  position: absolute;
-  top: 25px;
-}
-
 hr {
   background: var(--hr-image);
   height: 30px;

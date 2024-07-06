@@ -12,8 +12,8 @@ profile: "[[gareth-the-blacksmith.webp]]"
 - **Role**: Blacksmith
 - **Description**: Gareth is a burly man in his early 40s with a thick beard and muscular build. His hands are calloused from years of working with metal, and his face often bears a serious expression.
 - **Personality**: Hardworking, reliable, and somewhat gruff, but with a soft spot for children and animals.
-- **Background**: Gareth took over the forge ([[02. Gareth's Forge]]) from his father and has since become an indispensable part of the village, crafting tools and weapons for the villagers.
-- **Motivation**: Gareth takes pride in his work and cares deeply for the safety of North Lodge. He is always willing to help adventurers with repairs and new gear.
+- **Background**: Gareth took over the forge ([[Gareth's Forge]]) from his father and has since become an indispensable part of the village, crafting tools and weapons for the villagers.
+- **Motivation**: Gareth takes pride in his work and cares deeply for the safety of [[North Lodge]]. He is always willing to help adventurers with repairs and new gear.
 
 #### Notable Traits:
 
@@ -26,4 +26,4 @@ profile: "[[gareth-the-blacksmith.webp]]"
 - **Husband of [[Miri the Carpenter]]**: Gareth and Miri share a strong bond, often working together on projects that require both their skills. Their home and workshops are close to each other, reflecting their partnership in both life and work.
 - **Close Friend to [[Darius the Retired Soldier]]**: Gareth and Darius share a strong bond, often sparring together and discussing weaponry and tactics.
 - **Trusted by [[Elder Thalia]]**: Thalia values Gareth's strength and skills, often relying on him for advice and support.
-- **Frequent Visitor to [[03. The Resting Stag]]**: Gareth enjoys spending his evenings at Brom's inn, where he can relax and share stories with the villagers.
+- **Frequent Visitor to [[The Resting Stag]]**: Gareth enjoys spending his evenings at Brom's inn, where he can relax and share stories with the villagers.

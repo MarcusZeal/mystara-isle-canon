@@ -6,11 +6,9 @@ tags:
   - North-Lodge
 order: 20
 ---
-### Guardsmen and Guardswomen of North Lodge
-
 #### Overview
 
-The Guardsmen and Guardswomen of North Lodge are the dedicated protectors of the village, responsible for maintaining peace and ensuring the safety of its residents. Comprising a small but valiant group of individuals, the village guard is crucial to North Lodge’s defense against external threats, such as goblin raids and wild animal attacks, as well as keeping internal order.
+The Guardsmen and Guardswomen of [[North Lodge]] are the dedicated protectors of the village, responsible for maintaining peace and ensuring the safety of its residents. Comprising a small but valiant group of individuals, the village guard is crucial to North Lodge’s defense against external threats, such as goblin raids and wild animal attacks, as well as keeping internal order.
 
 #### Role and Responsibilities
 

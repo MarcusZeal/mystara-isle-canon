@@ -9,10 +9,10 @@ profile: "[[darius.webp]]"
 ---
 #### Darius the Retired Soldier
 
-- **Role**: Retired Soldier, Village Guard Trainer
+- **Role**: Retired Soldier, [[North Lodge Guards]] Trainer
 - **Description**: Darius is a sturdy man in his early 50s with graying hair and a rugged, weathered face marked by scars from countless battles. His posture is still military straight, and his eyes carry the weight of past conflicts.
 - **Personality**: Disciplined, stoic, and protective, but with a softer side that he shows to those he cares about. He has a dry sense of humor and a keen sense of justice.
-- **Background**: Darius served as a soldier for over three decades, primarily fighting in the elite ranks of Ironheart, the military city known for producing the strongest warriors in Mystara Isle. He participated in numerous campaigns and battles across the isle. After his last campaign, where he sustained severe injuries, he retired to North Lodge to find peace and purpose away from the constant turmoil of war.
+- **Background**: Darius served as a soldier for over three decades, primarily fighting in the elite ranks of [[Ironheart]], the military city known for producing the strongest warriors in Mystara Isle. He participated in numerous campaigns and battles across the isle. After his last campaign, where he sustained severe injuries, he retired to [[North Lodge]] to find peace and purpose away from the constant turmoil of war.
 - **Motivation**: Darius is driven by a sense of duty and a desire to protect the people of North Lodge. He has taken on the role of training the village's guards and anyone willing to learn self-defense, hoping to ensure the village's safety in his retirement.
 - **Skills and Abilities**: Expert in martial combat, strategy, and tactics. Proficient in various weapons, particularly the sword and shield. Experienced in survival skills and tracking.
 - **Current Role**: Darius spends his days training villagers in combat techniques, maintaining his own fitness, and occasionally assisting with defense plans. He is a respected figure in the village, often sought out for advice and guidance.

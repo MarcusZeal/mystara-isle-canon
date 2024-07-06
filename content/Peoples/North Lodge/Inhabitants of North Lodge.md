@@ -7,7 +7,7 @@ tags:
 order: 20
 ---
 
-North Lodge, while small, is a vibrant community made up of diverse individuals who contribute to the village's unique character and resilience. Beyond the notable figures and guards, the village is populated by various other inhabitants who play crucial roles in the daily life and overall well-being of the community.
+[[North Lodge]], while small, is a vibrant community made up of diverse individuals who contribute to the village's unique character and resilience. Beyond the notable figures and guards, the village is populated by various other inhabitants who play crucial roles in the daily life and overall well-being of the community.
 
 #### Farmers
 

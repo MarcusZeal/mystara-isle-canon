@@ -11,7 +11,7 @@ profile: "[[elder-thalia.webp]]"
 #### Elder Thalia
 
 - **Role**: Village Leader
-- **Description**: Elder Thalia is a wise and kind-hearted woman in her late 60s, with silver hair and warm, expressive eyes. She has guided North Lodge through many challenges with her deep knowledge of the land and its people.
+- **Description**: Elder Thalia is a wise and kind-hearted woman in her late 60s, with silver hair and warm, expressive eyes. She has guided [[North Lodge]] through many challenges with her deep knowledge of the land and its people.
 - **Personality**: Compassionate, wise, patient, and firm when needed.
 - **Background**: Thalia has lived in North Lodge her entire life, learning the ways of the forest and the village from her parents and grandparents. She is a repository of local lore and traditions.
 - **Motivation**: Thalia's primary concern is the safety and well-being of her villagers. She is always looking for ways to protect and improve the community.

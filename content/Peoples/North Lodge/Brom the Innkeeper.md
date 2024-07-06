@@ -9,10 +9,10 @@ profile: "[[brom-the-innkeeper.webp]]"
 ---
 #### Brom the Innkeeper
 
-- **Role**: Innkeeper of The Resting Stag
+- **Role**: Innkeeper of [[The Resting Stag]] in [[North Lodge]]
 - **Description**: Brom is a jovial man in his late 50s with a round belly and a booming laugh. He has a full head of gray hair and twinkling blue eyes.
 - **Personality**: Friendly, talkative, and always ready with a story or a joke.
-- **Background**: Brom has been running The Resting Stag for as long as anyone can remember. His inn is the heart of the village's social life.
+- **Background**: Brom has been running [[The Resting Stag]] for as long as anyone can remember. His inn is the heart of the village's social life.
 - **Motivation**: Brom loves meeting new people and hearing their stories. He takes pride in offering comfort and hospitality to travelers and villagers alike.
 
 #### Notable Traits:

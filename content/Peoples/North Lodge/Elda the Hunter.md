@@ -12,7 +12,7 @@ profile: "[[elda.webp]]"
 - **Role**: Hunter and Tracker
 - **Description**: Elda is a tall, athletic woman in her early 30s with short, dark hair and sharp, observant eyes. She moves with the grace of a predator and is often seen wearing practical, camouflage attire suited for the forest.
 - **Personality**: Independent, resourceful, and a bit aloof, but fiercely loyal to those she trusts. She has a dry wit and a keen sense of focus when on the hunt.
-- **Background**: Raised in the forest, Elda learned the ways of tracking and hunting from her parents. She provides meat for the village and helps track threats in the forest, making her an essential part of North Lodge's safety.
+- **Background**: Raised in the forest, Elda learned the ways of tracking and hunting from her parents. She provides meat for the village and helps track threats in the forest, making her an essential part of [[North Lodge]]'s safety.
 - **Motivation**: Elda is driven by a need to protect her home and the natural balance of the forest. She is wary of outsiders but willing to guide those who prove themselves.
 
 #### Notable Traits:
