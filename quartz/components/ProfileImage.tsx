@@ -15,11 +15,11 @@ const parseObsidianLink = (link: string): string => {
   return match ? match[1] : link
 }
 
-const ProfileImage: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
+const ProfileImage: QuartzComponent = ({ fileData, siteData }: QuartzComponentProps) => {
   const profileImage = fileData.frontmatter?.profile as string | undefined
   if (!profileImage) return null
 
-  const resolvedProfileImage = `/includes/People/${parseObsidianLink(profileImage)}`
+  const resolvedProfileImage = `https://marcuszeal.github.io/mystara-isle-canon/includes/People/${parseObsidianLink(profileImage)}`
 
   return (
     <img
