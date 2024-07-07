@@ -11,6 +11,7 @@ draft: true
 - **Tactics**:
   - The goblins will use their Nimble Escape ability to hide and attack from cover.
   - They may attempt to lure the players into a trap by retreating deeper into the cave.
+
 - **Objective**: Overcome the initial guards to gain entry into the cave.
 
 **Goblin Scout (4)**
