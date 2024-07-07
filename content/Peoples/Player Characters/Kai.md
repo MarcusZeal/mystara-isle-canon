@@ -1,11 +1,12 @@
 ---
-title: Syrain
+title: Kai
 draft: false
 tags:
   - Player
 order: 2
 profile: "[[kai.webp]]"
 ---
+
 It started off like any other day. I packed up my gear, ready to get to work. I was a fisherman from Kodiak, Alaska, trying to make ends meet. With little time left until my next rent payment, I went out even though there was a storm warning. I was told not to go, but nothing would stop me. As I sailed further from the shore, I noticed the sky darkening. Still, I pressed on.
 
 The waves grew stronger, crashing against my boat. I tried to keep the vessel steady, but the storm was too powerful. I lost control and was thrown into the sea.
