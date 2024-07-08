@@ -18,7 +18,7 @@ When speaking with travelers, the following zones jump out to you.
 - **[[03. Whispering Glade]]:** A tranquil, secluded glade where the wind seems to carry voices
   from the past. The whispers are said to be the voices of ancient spirits, offering guidance or warnings to those who listen. It’s a place of reflection and mystery, where the forest’s magic is palpable.
 
-- **[[04. Bear Wood]]**: A dense area of the forest known for its population of large, imposing bears. The thick underbrush and towering trees create a labyrinthine landscape where only the bravest or most foolhardy dare to venture. Bear Wood is a place of raw, untamed nature, where danger lurks behind every tree.
+- **[[Bear Wood]]**: A dense area of the forest known for its population of large, imposing bears. The thick underbrush and towering trees create a labyrinthine landscape where only the bravest or most foolhardy dare to venture. Bear Wood is a place of raw, untamed nature, where danger lurks behind every tree.
 
 - **[[05. Copper Rise]]**: A hilly region named for the veins of copper that run through the earth. The rise is dotted with small mines and abandoned tunnels, remnants of past efforts to extract the precious metal. The area is known for its stunning sunsets that cast a coppery glow over the landscape.
 

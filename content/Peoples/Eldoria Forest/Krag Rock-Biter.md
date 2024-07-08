@@ -15,7 +15,7 @@ profile: "[[goblin-fat.png]]"
 
 - **Name**: Krag Rock-Biter
 - **Role**: Goblin Leader
-- **Appearance**: Krag is a fierce-looking goblin with dark green skin and a muscular build. He has sharp, jagged teeth, with one particularly large fang that appears to have been chipped and worn down from gnawing on rocks, giving him his name. His eyes are a piercing yellow, and he wears a patchwork of leather armor adorned with trophies from his victims.
+- **Appearance**: Krag is a fierce-looking goblin with dark green skin and a muscular build. He has sharp, jagged teeth, with one particularly large fang that appears to have been chipped and worn down from gnawing on rocks, giving him his name. His eyes are a piercing red, and he wears a patchwork of leather armor.
 
 #### Personality
 

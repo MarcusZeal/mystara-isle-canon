@@ -79,3 +79,7 @@ order: 0
 **10. If we have time, maybe we go check out that forest!**
 
 - I have 5 encounters planned that would get the players on their path towards investigating the goblin threat. 
+
+Update: We had time. The heroes from earth made their way through the [[02. Enchanted Glade]] and met up with some [[Goblins]] at a cave entrance. 
+
+See [[Session 0 Encounters]].

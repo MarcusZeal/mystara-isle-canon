@@ -2,7 +2,10 @@
 title: Session 1e
 draft: true
 order: 1.1
+tags:
+  - scrapped
 ---
+These were the encounters planned if the players went full murder hobo.
 
 ### Encounter 1: Goblin Scouts at the Entrance
 
