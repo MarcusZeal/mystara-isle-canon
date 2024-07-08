@@ -7,6 +7,7 @@ tags:
 order: 10
 profile: "[[darius.webp]]"
 ---
+![[darius-the-retired-soldier.png]]
 #### Darius the Retired Soldier
 
 - **Role**: Retired Soldier, [[North Lodge Guards]] Trainer

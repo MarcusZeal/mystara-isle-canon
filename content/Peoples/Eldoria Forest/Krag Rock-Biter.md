@@ -6,8 +6,9 @@ tags:
   - Goblin
   - Enemy
 order: 1
+profile: "[[goblin-fat.png]]"
 ---
-
+![[goblin-fat.png]]
 ### Goblin Leader: Krag Rock-Biter
 
 #### Description
@@ -42,3 +43,4 @@ order: 1
 
 - **Map to Goblin Lair**: Upon his defeat, Krag carries a map that outlines the path to the main Goblin Lair deeper in Eldoria Forest. This map is crudely drawn but contains enough detail to guide the players to their next adventure.
 - **Intel on Goblin Plans**: Krag has a set of orders from a higher goblin authority, hinting at a larger plot that threatens not just North Lodge but potentially the entire region. This can provide a larger narrative hook for the campaign.
+

@@ -7,6 +7,7 @@ tags:
 order: 4
 profile: "[[brom-the-innkeeper.webp]]"
 ---
+![[Innkeeper - Male.png]]
 #### Brom the Innkeeper
 
 - **Role**: Innkeeper of [[The Resting Stag]] in [[North Lodge]]

@@ -7,6 +7,7 @@ tags:
 order: 7
 profile: "[[lila-the-herbalist.webp]]"
 ---
+![[lila-the-herbalist.png]]
 #### Lila the Herbalist
 
 - **Role**: Herbalist and Healer

@@ -7,6 +7,7 @@ tags:
 order: 3
 profile: "[[gareth-the-blacksmith.webp]]"
 ---
+![[Blacksmith.png]]
 #### Gareth the Blacksmith
 
 - **Role**: Blacksmith

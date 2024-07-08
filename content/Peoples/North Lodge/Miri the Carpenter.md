@@ -7,6 +7,7 @@ tags:
 order: 6
 profile: "[[miri-the-carpenter.webp]]"
 ---
+![[Carpenter - Female.png]]
 #### Miri the Carpenter
 
 - **Role**: Carpenter

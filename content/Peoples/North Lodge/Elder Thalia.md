@@ -8,6 +8,7 @@ tags:
 order: 1
 profile: "[[elder-thalia.webp]]"
 ---
+![[Village Elder.png]]
 #### Elder Thalia
 
 - **Role**: Village Leader

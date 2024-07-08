@@ -7,7 +7,7 @@ tags:
   - Enemy
 order: 2
 ---
-
+![[goblin-chieftan.png]]
 #### Description
 
 - **Name**: Grubnar Skull-Crusher
