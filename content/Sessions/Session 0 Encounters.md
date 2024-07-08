@@ -1,16 +1,17 @@
 ---
-title: Session 0
+title: Session 0e
 draft: false
 order: 0
 ---
+
 ### At [[The Resting Stag]] Inn
 
-As the players complete their character creation and background discussions at The Resting Stag inn, they are given their first quest to investigate the recent goblin attacks. 
+As the players complete their character creation and background discussions at The Resting Stag inn, they are given their first quest to investigate the recent goblin attacks.
 
-- Here the players learned that goblins had been attacking the village every night. 
-- Brom, Darius, and Miri are all convinced the goblins are a threat. 
+- Here the players learned that goblins had been attacking the village every night.
+- Brom, Darius, and Miri are all convinced the goblins are a threat.
 - [[Elder Thalia]] is unsure what would have caused this sudden shift in the forest.
-- [[Lila the Herbalist]] urges the players to not kill the goblins. Exclaiming that the goblins have never been a threat in the past. 
+- [[Lila the Herbalist]] urges the players to not kill the goblins. Exclaiming that the goblins have never been a threat in the past.
 
 ---
 
@@ -23,10 +24,11 @@ As the players complete their character creation and background discussions at T
   - They may attempt to surround a player, using their numbers to overwhelm.
 - **Objective**: Defeat the wolves and continue exploring the glade.
 - **Rewards**: Players can find 20 silver pieces and a torn piece of cloth with a mysterious symbol near the wolves' den.
-	- The symbol was discovered to be for a religious diety. [[The Anvil of Grumshar]]
-- [[Thistle the Kenku]] uses animal handling and convinces one to stay close by as a pet. 
+  - The symbol was discovered to be for a religious diety. [[The Anvil of Grumshar]]
+- [[Thistle the Kenku]] uses animal handling and convinces one to stay close by as a pet.
 
 **Wolf (5)**
+
 - AC: 13
 - HP: 11 each
 - Attack: Bite (+4 to hit, 2d4+2 piercing)
@@ -42,6 +44,7 @@ As the players complete their character creation and background discussions at T
 - **Rewards**: The players find a small pouch caught in the bear’s fur containing a healing potion and 15 silver pieces.
 
 **Brown Bear (1)**
+
 - AC: 11
 - HP: 34
 - Attack: Multiattack (one with its bite and one with its claws)
@@ -58,6 +61,7 @@ As the players complete their character creation and background discussions at T
 - **Rewards**: In the spiders' lair, players find a desiccated corpse with a pouch containing 30 silver pieces, a small emerald worth 50 gold pieces, and a scroll of web.
 
 **Giant Spider (3)**
+
 - AC: 14
 - HP: 26 each
 - Attack: Bite (+5 to hit, 1d8+3 piercing plus 2d8 poison damage)
@@ -79,4 +83,4 @@ As the players complete their character creation and background discussions at T
 - **Setup**: Near the edge of the glade, the players encounter a group of goblin scouts who are surveying the area. These goblins are part of the larger threat the players are investigating.
 - **Enemies**: 4 Goblin Scouts
 
-The players decided to not attack the goblins and instead convinced the goblins that they were, in fact, also goblins. 
+The players decided to not attack the goblins and instead convinced the goblins that they were, in fact, also goblins.
