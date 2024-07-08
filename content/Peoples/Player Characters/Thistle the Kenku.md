@@ -7,7 +7,7 @@ tags:
 order: 2
 profile: "[[kenku-thistle.png]]"
 ---
-![[kenku-thistle.png]]
+
 #### Background: Life on Earth
 
 Before his arrival in Mystara Isle, Thistle was an avid crafter and tinkerer on Earth. He had a natural talent for putting things together, whether it was assembling intricate models, fixing broken gadgets, or creating new inventions from spare parts. Crafting was more than a hobby; it was a way for him to express his creativity and ingenuity. His meticulous nature and problem-solving skills made him a sought-after handyman in his community.

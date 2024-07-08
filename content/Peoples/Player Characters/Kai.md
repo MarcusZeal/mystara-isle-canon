@@ -5,7 +5,7 @@ tags:
   - Player
   - Warlock
 order: 2
-profile: "[[kai.webp]]"
+profile: "[[kai.png]]"
 ---
 
 It started off like any other day. I packed up my gear, ready to get to work. I was a fisherman from Kodiak, Alaska, trying to make ends meet. With little time left until my next rent payment, I went out even though there was a storm warning. I was told not to go, but nothing would stop me. As I sailed further from the shore, I noticed the sky darkening. Still, I pressed on.

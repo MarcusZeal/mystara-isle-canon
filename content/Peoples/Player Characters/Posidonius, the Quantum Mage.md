@@ -5,7 +5,7 @@ tags:
   - Player
   - Wizard
 order: 2
-profile:
+profile: "[[redhorn.png]]"
 ---
 
 #### Background: Life on Earth
