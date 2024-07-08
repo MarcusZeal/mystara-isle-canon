@@ -53,3 +53,5 @@ order: 1
 - **Objective**: Deliver a climactic battle that tests the players' skills and teamwork. Provide crucial narrative hooks through the discovery of the map and orders, setting up future adventures.
 
 This detailed guidance helps to structure the first session, ensuring a smooth flow of narrative and gameplay while immersing the players in the world of Mystara Isle.
+
+

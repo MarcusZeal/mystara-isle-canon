@@ -1,6 +1,6 @@
 ---
 title: Goblins
-draft: true
+draft: false
 tags:
   - Race
 order: 2

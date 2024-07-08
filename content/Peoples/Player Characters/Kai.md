@@ -3,6 +3,7 @@ title: Kai
 draft: false
 tags:
   - Player
+  - Warlock
 order: 2
 profile: "[[kai.webp]]"
 ---

@@ -3,6 +3,7 @@ title: Luke (Garos)
 draft: false
 tags:
   - Player
+  - Fighter
 order: 2
 profile: "[[luke.jpg]]"
 ---
