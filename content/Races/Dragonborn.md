@@ -32,9 +32,10 @@ Dragonborn spirituality is closely tied to their draconic heritage. They worship
 
 **Key Deities**:
 
-- **Bahamut, the Platinum Dragon**: The god of justice, protection, and honor. Bahamut is the most revered deity among Dragonborn, symbolizing the ideals they strive to uphold.
-- **Tiamat, the Dragon Queen**: While not commonly worshipped, Tiamat represents the darker aspects of dragonkind—power, greed, and destruction. Some Dragonborn, particularly those with chromatic heritage, may revere her.
-- **Io, the Dragon God of Creation**: The progenitor of dragonkind and the balance between Bahamut and Tiamat. Io is respected for his role in the creation and balance of the world.
+- **[[Ignis, the Platinum Dragon]]**: The god of fire, justice, and protection. Ignis embodies the virtues of strength, honor, and the transformative power of fire.
+- **[[Gond, the God of Craft]]**: The god of invention, engineering, and craftsmanship. Gond is revered by inventors, artisans, and craftsmen for his guidance in creativity and innovation.
+- **[[Aerion, God of Air]]**: The god of winds, freedom, and exploration. Aerion is honored by travelers, adventurers, and those who value the boundless skies and the spirit of adventure.
+
 
 #### Primary Settlements
 

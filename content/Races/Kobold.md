@@ -3,6 +3,7 @@ title: Kobolds
 draft: false
 tags:
   - Race
+  - Kobold
 ---
 
 #### Overview
@@ -30,9 +31,11 @@ Kobolds worship a pantheon of draconic deities, revering dragons as the ultimate
 
 **Key Deities**:
 
-- **Tiamat, the Dragon Queen**: The primary deity of the kobolds, representing power, chaos, and destruction. Kobolds believe that by serving Tiamat, they gain strength and protection.
-- **Kurtulmak, the Kobold God of War and Stealth**: A deity revered for his cunning, strategy, and combat prowess. Kobolds pray to Kurtulmak for guidance in battle and protection from enemies.
-- **Gaknulak, the Kobold God of Traps and Ambushes**: Worshipped for his expertise in traps and surprise attacks. Kobolds dedicate their trap-making and ambush strategies to Gaknulak.
+- **[[Ignis, the Platinum Dragon]]**: The god of fire, justice, and protection. Ignis embodies the virtues of strength, honor, and the transformative power of fire.
+- **[[Gond, the God of Craft]]**: The god of invention, engineering, and craftsmanship. Gond is revered by inventors, artisans, and craftsmen for his guidance in creativity and innovation.
+- **[[Aerion, God of Air]]**: The god of winds, freedom, and exploration. Aerion is honored by travelers, adventurers, and those who value the boundless skies and the spirit of adventure.
+- **[[Gaeloria, Goddess of Earth]]**: The goddess of fertility, stability, and the natural world. Gaeloria is worshipped by those who seek her blessings for growth, harmony with nature, and the enduring strength of the earth.
+
 
 #### Tribes and Lifestyles
 

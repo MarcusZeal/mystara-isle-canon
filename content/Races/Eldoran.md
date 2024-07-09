@@ -31,10 +31,11 @@ The Eldorans worshipped a pantheon of deities representing the natural elements 
 
 ##### Key Deities:
 
-- **Gaeloria, Goddess of Earth**: Patron of growth, fertility, and stability.
-- **Aerion, God of Air**: Guardian of freedom, knowledge, and communication.
-- **Ignis, God of Fire**: Symbol of transformation, passion, and energy.
-- **Aquara, Goddess of Water**: Embodiment of adaptability, intuition, and healing.
+- **[[Aerion, God of Air]]**: The god of winds, freedom, and exploration. Aerion is honored by travelers, adventurers, and those who value the boundless skies and the spirit of adventure.
+- **[[Aquara, Goddess of Water]]**: The goddess of water, life, and healing. Aquara is venerated by those who live by or rely on water for sustenance and healing.
+- **[[Ignis, the Platinum Dragon]]**: The god of fire, justice, and protection. Ignis embodies the virtues of strength, honor, and the transformative power of fire.
+- **[[Gaeloria, Goddess of Earth]]**: The goddess of fertility, stability, and the natural world. Gaeloria is worshipped by those who seek her blessings for growth, harmony with nature, and the enduring strength of the earth.
+
 
 #### The Cataclysm and Downfall
 

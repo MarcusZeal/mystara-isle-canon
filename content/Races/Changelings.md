@@ -5,8 +5,6 @@ tags:
   - Race
 ---
 
-### Changeling Race Lore
-
 #### Overview
 
 Changelings are a mysterious and elusive race known for their ability to shape-shift and assume the appearance of others. Predominantly perceived as evil, changelings are feared and mistrusted by other races due to their deceptive nature and involvement in nefarious activities. While there are exceptions to this rule, most changelings use their abilities for personal gain and manipulation.
@@ -31,9 +29,8 @@ Changelings do not have a unified belief system or pantheon of deities. Their in
 
 **Common Deities**:
 
-- **Mask, the God of Thieves**: Some changelings worship Mask, the god of thieves and shadows, seeking his favor for their deceptive endeavors.
-- **Shar, the Mistress of the Night**: Others may revere Shar, the goddess of darkness and loss, finding solace in her embrace of shadows and secrets.
-- **Beshaba, the Lady of Misfortune**: A few changelings might pray to Beshaba, the goddess of misfortune, hoping to bring bad luck to their enemies.
+- **[[Mask, the God of Thieves]]**: The god of stealth, trickery, and shadows. Mask is worshipped by thieves, spies, and those who value cunning and guile, guiding them to use their wits and stealth to achieve their goals.
+- **[[Panzuriel, the Writhing One]]**: The god of oceans, secrets, and the deep. Panzuriel is primarily worshipped by [[Triton]] and coastal dwellers who seek his protection and guidance in the waters.
 
 #### Role in Mystara Isle
 

@@ -3,9 +3,8 @@ title: Triton
 draft: false
 tags:
   - Race
+  - Triton
 ---
-
-### Triton Race Lore
 
 #### Overview
 
@@ -32,10 +31,8 @@ Triton spirituality revolves around the worship of deities associated with the s
 
 **Key Deities**:
 
-- **Thassa, the Sea Mother**: The primary deity of the Tritons, representing the ocean, storms, and all marine life. Thassa is revered as the protector of the seas and the provider of life.
-- **Nylea, the Huntress of the Waves**: The goddess of hunting, nature, and the wilds. Triton hunters and warriors often pray to Nylea for success in their endeavors.
-- **Pelagia, the Keeper of Secrets**: The goddess of knowledge, secrets, and the deep ocean. Triton scholars and mages seek Pelagia's guidance in their quest for wisdom and understanding.
-- **Panzuriel, the Writhing One**: An evil, coniving god who often speaks in half truths, but never lies.
+- **[[Aquara, Goddess of Water]]**: The goddess of water, life, and healing. Aquara is venerated by those who live by or rely on water for sustenance and healing.
+- **[[Panzuriel, the Writhing One]]**: The god of oceans, secrets, and the deep. Panzuriel is primarily worshipped by those who dwell near or rely on the sea for their livelihoods, seeking his protection and guidance in the waters.
 
 #### Primary Settlements
 

@@ -31,10 +31,8 @@ Kenku society revolves around their ability to mimic sounds and voices perfectly
 Kenku spirituality is varied, reflecting their diverse experiences and adaptability. They often worship deities associated with trickery, knowledge, and craftsmanship.
 
 **Key Deities**:
-
-- **Mask, the God of Thieves**: Kenku often revere Mask, the god of thieves and shadows, seeking his favor for their clandestine endeavors.
-- **Gond, the God of Craft**: Some Kenku worship Gond, the god of craft and invention, as they excel in various skilled trades and craftsmanship.
-- **Oghma, the God of Knowledge**: Kenku scholars and spies may seek the guidance of Oghma, the god of knowledge, in their pursuit of information and secrets.
+- **[[Mask, the God of Thieves]]**: The god of stealth, trickery, and shadows. Mask is worshipped by thieves, spies, and those who value cunning and guile, guiding them to use their wits and stealth to achieve their goals.
+- **[[Gond, the God of Craft]]**: The god of invention, engineering, and craftsmanship. Gond is revered by inventors, artisans, and craftsmen for his guidance in creativity and innovation.
 
 #### Primary Settlements
 

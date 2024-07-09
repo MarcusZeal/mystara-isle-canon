@@ -24,7 +24,7 @@ As the players complete their character creation and background discussions at T
   - They may attempt to surround a player, using their numbers to overwhelm.
 - **Objective**: Defeat the wolves and continue exploring the glade.
 - **Rewards**: Players can find 20 silver pieces and a torn piece of cloth with a mysterious symbol near the wolves' den.
-  - The symbol was discovered to be for a religious diety. [[The Anvil of Grumshar]]
+  - The symbol was discovered to be for a religious diety. [[Grumshar, the Goblin God of Craft]]
 - [[Thistle the Kenku]] uses animal handling and convinces one to stay close by as a pet. He names it [[Squak]].
 
 **Wolf (5)**
