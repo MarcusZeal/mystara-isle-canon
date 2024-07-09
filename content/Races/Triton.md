@@ -3,8 +3,8 @@ title: Triton
 draft: false
 tags:
   - Race
-order: 7
 ---
+
 ### Triton Race Lore
 
 #### Overview
@@ -35,15 +35,17 @@ Triton spirituality revolves around the worship of deities associated with the s
 - **Thassa, the Sea Mother**: The primary deity of the Tritons, representing the ocean, storms, and all marine life. Thassa is revered as the protector of the seas and the provider of life.
 - **Nylea, the Huntress of the Waves**: The goddess of hunting, nature, and the wilds. Triton hunters and warriors often pray to Nylea for success in their endeavors.
 - **Pelagia, the Keeper of Secrets**: The goddess of knowledge, secrets, and the deep ocean. Triton scholars and mages seek Pelagia's guidance in their quest for wisdom and understanding.
-- **Panzuriel, the Writhing One**: An evil, coniving god who often speaks in half truths, but never lies. 
+- **Panzuriel, the Writhing One**: An evil, coniving god who often speaks in half truths, but never lies.
 
 #### Primary Settlements
 
 **Coralholm**:
+
 - **Description**: The capital city of the Tritons, Coralholm is an underwater marvel built from vibrant coral, stone, and bioluminescent materials. It is located deep beneath the waves, hidden from the surface.
 - **Culture**: Coralholm is the heart of Triton society, a place of learning, governance, and training. It is where the most skilled warriors, mages, and scholars reside.
 
 **Seaglass Haven**:
+
 - **Description**: A coastal city where Tritons interact with surface dwellers. Seaglass Haven is built into the cliffs and shoreline, blending seamlessly with the natural environment.
 - **Culture**: Tritons in Seaglass Haven serve as ambassadors and defenders of the coastal regions. They are more familiar with land-dweller customs and often act as intermediaries between the two worlds.
 

@@ -3,8 +3,8 @@ title: Changelings
 draft: true
 tags:
   - Race
-order: 7
 ---
+
 ### Changeling Race Lore
 
 #### Overview
@@ -64,4 +64,3 @@ Changelings are universally feared and distrusted by other races. Their ability 
 - **Eboncrest**: A major city where changelings infiltrate positions of power and engage in espionage and criminal activities.
 - **Dawnham**: Another urban center where changelings exploit the bustling trade and political intrigue.
 - **Ironheart**: Even the militaristic city of Ironheart is not immune to changeling infiltration, with changelings seeking to manipulate its strict hierarchy for their own ends.
-

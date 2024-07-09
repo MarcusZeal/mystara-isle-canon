@@ -3,8 +3,8 @@ title: Eldoran
 draft: false
 tags:
   - Race
-order: 3
 ---
+
 #### Overview
 
 The Eldorans were an ancient and highly advanced race, bearing similarities to the elves in both appearance and culture. They were known for their profound connection to nature, mastery of elemental magic, and sophisticated craftsmanship. The Eldorans flourished on Mystara Isle long before the great cataclysm, leaving behind a legacy of both wonder and tragedy.
@@ -20,7 +20,7 @@ Eldoran society was structured around harmony with nature and the pursuit of kno
 ##### Key Aspects of Eldoran Culture:
 
 - **Elemental Harmony**: The Eldorans had a deep understanding and control of elemental magic. Each Eldoran specialized in one of the four elements—earth, air, fire, or water—allowing them to shape their surroundings and perform incredible feats of magic.
-	- It is said that this connection with the elements was so strong for some that it fundamentally changed their physical characteristics.
+  - It is said that this connection with the elements was so strong for some that it fundamentally changed their physical characteristics.
 - **Wisdom and Learning**: Eldoran society placed a high value on wisdom and the pursuit of knowledge. They maintained vast libraries, academies, and research centers dedicated to understanding the mysteries of the universe and the arcane arts.
 - **Art and Craftsmanship**: Eldorans were master craftsmen, creating intricate and powerful artifacts. Their work was not only functional but also artistically stunning, often imbued with magical properties.
 - **Council of Elders**: The Eldorans were governed by a council of elders, wise and ancient members of their race who made decisions for the collective good. This council guided their people with foresight and deep understanding of the world.
@@ -48,7 +48,7 @@ The Eldorans' pursuit of knowledge led them to uncover an ancient prophecy foret
 
 #### Modern-Day Perception
 
-Today, the Eldorans are remembered with a mixture of awe and sorrow. Their contributions to magic and knowledge are revered, but their downfall serves as a cautionary tale about the dangers of hubris and unchecked ambition. 
+Today, the Eldorans are remembered with a mixture of awe and sorrow. Their contributions to magic and knowledge are revered, but their downfall serves as a cautionary tale about the dangers of hubris and unchecked ambition.
 
 Adventurers and scholars seek out Eldoran ruins to uncover their lost secrets and powerful artifacts, hoping to learn from their wisdom and avoid their tragic fate.
 

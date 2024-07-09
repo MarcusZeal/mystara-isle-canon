@@ -3,8 +3,8 @@ title: Dragonborn
 draft: false
 tags:
   - Race
-order: 6
 ---
+
 ![[dragonkin-art.png]]
 
 #### Overview
@@ -39,10 +39,12 @@ Dragonborn spirituality is closely tied to their draconic heritage. They worship
 #### Primary Settlements
 
 **Bluewing**:
+
 - **Description**: A mysterious and ancient city, Bluewing is shrouded in legend. Little is known about it, but it is said to be a place of great draconic power and wisdom.
 - **Culture**: Dragonborn in Bluewing are often scholars, mages, and sages. They focus on the study of ancient lore, magic, and the mysteries of their draconic heritage.
 
 **Ironheart**:
+
 - **Description**: A militaristic city known for its strict discipline and powerful warriors. Ironheart is surrounded by the Deep Blue and the Crimson Sands, creating a challenging environment that shapes its residents.
 - **Culture**: Dragonborn in Ironheart are fierce warriors and dedicated soldiers. The city is known for its military academies and training grounds, producing some of the finest fighters on Mystara Isle.
 
@@ -71,4 +73,4 @@ Dragonborn are respected and admired for their strength, honor, and discipline. 
 
 ### Player Note
 
-Dragonborn are an extension of https://www.dndbeyond.com/races/16-dragonborn from 5e. There should be no conflict between the notes on this page and the notes on that one. 
+Dragonborn are an extension of https://www.dndbeyond.com/races/16-dragonborn from 5e. There should be no conflict between the notes on this page and the notes on that one.

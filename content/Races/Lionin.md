@@ -3,8 +3,8 @@ title: Lionin
 draft: false
 tags:
   - Race
-order: 8
 ---
+
 ### Leonin Race Lore
 
 #### Overview
@@ -39,10 +39,12 @@ Leonin spirituality is centered around a pantheon of deities that embody the nat
 #### Primary Settlements
 
 **Ironheart**:
+
 - **Description**: A militaristic city known for its disciplined warriors and strategic importance. Ironheart is surrounded by the Deep Blue and the Crimson Sands, providing a challenging environment that shapes its residents.
 - **Culture**: Leonin in Ironheart are integrated into the city’s military structure, serving as esteemed soldiers and officers. They value the city’s emphasis on discipline and strength.
 
 **Other Major Cities**:
+
 - **Eboncrest**: Leonin in Eboncrest often work as protectors and enforcers of law, using their strong sense of justice to maintain order.
 - **Dawnham**: In Dawnham, Leonin are involved in trade and diplomacy, leveraging their integrity and honor to build strong relationships with other races.
 
@@ -70,5 +72,3 @@ Leonin are respected for their strength, honor, and sense of justice. They are s
 - **Dawnham**: A bustling trade city where Leonin are involved in diplomacy and commerce, building strong relationships with other races.
 
 ![[lionin-stats.jpg]]
-
-

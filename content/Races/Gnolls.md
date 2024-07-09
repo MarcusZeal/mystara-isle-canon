@@ -3,8 +3,8 @@ title: Gnolls
 draft: false
 tags:
   - Race
-order: 4
 ---
+
 #### Overview
 
 Gnolls are an anthropomorphic canine race found primarily in the vibrant fields of [[Sunfield]] and the rugged mountains east of the [[City of Balgaran]]. They are a diverse race, with appearances and temperaments that reflect the wide variety of canine breeds they resemble. Gnolls possess a rich and complex culture, deeply connected to their environment and traditions.
@@ -37,14 +37,17 @@ Gnolls are deeply spiritual, with a belief system centered around the worship of
 #### Tribes and Lifestyles
 
 **Sunfield Gnolls**:
+
 - **Pastoral Lifestyle**: Gnolls in Sunfield live a more settled, pastoral lifestyle, tending to herds and cultivating crops. They are known for their friendly and hospitable nature, welcoming travelers and traders.
 - **Communal Living**: Sunfield gnolls live in close-knit communities, often in harmony with other races. They value cooperation, mutual respect, and the sharing of resources.
 
 **Mountain Gnolls**:
+
 - **Nomadic Hunters**: Gnolls in the mountains lead a nomadic lifestyle, following herds and hunting game. They are more reclusive and wary of strangers, valuing their independence and survival skills.
 - **Warriors and Defenders**: These gnolls are fierce warriors, skilled in combat and known for their strength and resilience. They defend their territories fiercely, often seeing outsiders as potential threats.
 
 **Urban Gnolls**:
+
 - **Integrated Citizens**: Gnolls living in cities like Eboncrest and Dawnham adapt to the cultural norms of their surroundings. They often take on roles as traders, artisans, and laborers, contributing to the diverse tapestry of urban life.
 - **Cultural Ambassadors**: Urban gnolls serve as bridges between their tribal kin and other races, promoting understanding and cooperation.
 

@@ -3,7 +3,6 @@ title: Humans
 draft: false
 tags:
   - Race
-order: 1
 ---
 
 #### Overview
