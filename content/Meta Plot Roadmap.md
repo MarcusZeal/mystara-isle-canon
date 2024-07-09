@@ -1,5 +1,5 @@
 ---
-title: Meta Plot - Ark 1
+title: Meta Plot
 draft: true
 order: 0
 ---

@@ -17,4 +17,4 @@ In During [[Session 0 Encounters#Encounter 1 Wolf Pack Ambush]], [[Thistle the K
 
 ![[fluffy-wolf.png]]
 
-![[Pasted image 20240708010306.png]]
+![[wolf-stats.png]]

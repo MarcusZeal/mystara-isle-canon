@@ -35,7 +35,7 @@ Just as the players start to feel the weight of the journey, they are suddenly s
 - **Bite**: +6 to hit, reach 5 ft., one target. Hit: 2d8 + 4 piercing damage.
 - **Claws**: +6 to hit, reach 5 ft., one target. Hit: 1d8 + 4slashing damage.
 
-![[Pasted image 20240708170725.png]]
+![[barghest-stats.png]]
 
 
 #### Encounter Dialogue
