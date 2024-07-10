@@ -66,6 +66,5 @@ Tritons are respected and somewhat enigmatic to other races. Their dedication to
 ### Important Locations
 
 - **Coralholm**: The capital city of the Tritons, located deep beneath the ocean. It is a hub of governance, training, and magical study.
-- **Seaglass Haven**: A coastal city where Tritons interact with surface dwellers, serving as ambassadors and defenders of the shoreline.
 - **The Abyssal Trenches**: Deep, mysterious areas of the ocean where Tritons venture to combat ancient threats and uncover hidden knowledge.
 - **Major Coastal Cities**: Tritons, while rare, can be found in major coastal cities closest to Coralholm. Here, they often serve as diplomats, scholars, or defenders of the sea.

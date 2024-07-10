@@ -5,6 +5,7 @@ order: 5
 tags:
   - Enchanted-Forest
   - Goblin
+  - Village
 zoneMap: "[[goblin-lair.jpg]]"
 ---
 

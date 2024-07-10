@@ -18,5 +18,5 @@ tags:
 order: -1
 ---
 
-![[mystara_isle.svg]]
-View (**way**) bigger: https://marcuszeal.github.io/mystara-isle-canon/includes/Maps/mystara_isle.svg
+![[the-map.png]]
+View (**way**) bigger: https://marcuszeal.github.io/mystara-isle-canon/includes/Maps/the-map.png

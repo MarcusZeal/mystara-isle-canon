@@ -4,6 +4,7 @@ draft: true
 order: 3
 tags:
   - Village
+  - Dragonborn
 ---
 
 Between Ironheart and Kylastrin lies the village of Bluewing, shrouded in mystery. Little is known about this village, except its name, whispered among travelers.
