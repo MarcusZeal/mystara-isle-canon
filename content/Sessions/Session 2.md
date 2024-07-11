@@ -342,3 +342,13 @@ After defeating these body changers, they receive:
 ##### Torn Note Fragment 6
 
 "...if you are compromised, destroy this note immediately. The safety of our kind and the success of the Mistress’s plan depend on our discretion..."
+
+
+##### Torn Note Fragment 7
+
+"...before of the flame.... the Mistress will not be happy if anymore captains are sent back to Gehenna..."
+
+
+##### Torn Note Fragment 8
+
+"... remember to stay out of the forge... last weeks accident cannot happen again... "
