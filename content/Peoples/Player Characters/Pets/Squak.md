@@ -8,7 +8,7 @@ tags:
 order: 2
 ---
 
-In During [[Session 0 Encounters#Encounter 1 Wolf Pack Ambush]], [[Thistle the Kenku]] successfully tamed a Wolf named Squak.
+In During [[Session 0+1 Encounters#Encounter 1 Wolf Pack Ambush]], [[Thistle the Kenku]] successfully tamed a Wolf named Squak.
 
 #### Squak
 

@@ -1,203 +1,344 @@
 ---
-title: Session 2
+title: Session 1
 draft: true
-order: 2
+order: 1
 ---
-### Session 2: Hidden Ruins of Eldoria
+### Narrative Recap
 
+The adventure began in the quaint village of [[North Lodge]], a place where the simple rhythms of daily life are rarely disturbed. Yet, recently, the village has been plagued by strange and unsettling goblin attacks, disrupting the peace. The local alchemist, [[Lila the Herbalist]], suspecting that not all goblins are responsible for the violence, persuaded you to investigate further rather than resort to immediate violence against the [[Goblins]].
 
+Your journey took you into the Enchanted Glade, a mystical part of Eldoria Forest where reality and fantasy blur. Here, you encountered various wildlife, some friendly - others not so much; before finding some scout goblins.
 
-### Scene 1: Entering the Ruins
+Using your wits and a clever spell, you convinced them that you were allies by displaying the symbol of Grumshar, the goblin deity of craftsmanship and creation.
 
-#### Setting the Scene
+The goblins, believing you to be friendly reinforcements, welcomed you. You now stand on the threshold of the Hidden Cave, ready to delve deeper into the heart of goblin society. 
 
-As the players enter the Hidden Ruins, they find themselves in a long hallway with ancient stone walls covered in moss and faint, glowing runes. At the end of the hallway, a set of stairs leads downward into the darkness.
-
-**Key Descriptions**:
-- **Long Hallway**: The hallway is lined with crumbling pillars and faintly glowing runes, casting eerie shadows on the walls.
-- **Atmosphere**: The air is cool and damp, carrying the scent of age and decay.
-
-
+You aim to uncover the truth behind the recent attacks and learn more about the goblins who live here.
 
 ---
 
-### Scene 2: The Pillared Hall
+**NOTE: If at any point the players pickpocket or open a chest - or just go looking real hard for something they will find Torn Note Fragments 1 and 2.** 
 
+### Scene 1: Entering the Hidden Cave
 
 #### Setting the Scene
 
-At the bottom of the stairs, the players enter a large room with massive stone pillars lining either side. The pillars are adorned with intricate carvings depicting scenes of ancient Eldoran life.
+As the players step into the Hidden Cave, they are immediately struck by the bustling activity within. The cave is a sprawling network of tunnels and chambers, illuminated by patches of luminescent fungi that cast a soft, otherworldly glow. The air is cool and slightly damp, carrying the mixed scents of earth, smoke, and cooking food.
 
-**Key Descriptions**:
+#### Description of Goblin Activities
 
-- **Pillars**: Each pillar is carved with detailed scenes from Eldoran history, showing their culture and achievements.
-- **Large Room**: The room is vast, with a high ceiling that echoes the players' footsteps.
+The players observe goblins of all ages going about their daily lives:
 
-#### Points of Interest
+- **Crafting and Working**: Several goblins are hard at work, hammering metal, weaving baskets, and shaping wood. The clinking of hammers and the rhythmic scraping of tools against materials create a constant background noise.
+- **Arguing and Socializing**: Some goblins are engaged in heated discussions, their high-pitched voices echoing through the cave. Others are gathered around small fires, sharing food and stories, laughing, and occasionally shouting.
+- **Training and Sparring**: In one corner, a group of young goblins is practicing combat skills, supervised by an older, more experienced warrior. They wield wooden swords and shields, their movements quick and eager.
 
-- **To the Right**: An open door leads to a set of stairs descending further into the ruins.
-- **To the Left**: A closed stone slab within a doorframe, covered in magical runes that glow faintly.
+**Perception Check (DC 12)**:
+- Success: The players notice that the goblins are industrious and well-organized, displaying a complex society.
+- Failure: The players still see the general activity but might miss some of the finer details.
 
-**Runes on the Door**:
+**Insight Check (DC 10)**:
+- Success: The players sense that the goblins are not hostile but rather cautious and curious about their presence.
+- Failure: The players might feel slightly uneasy but will not detect any immediate threat.
 
-- **Inscription**: "To proceed beyond this door, the key you must secure. Seek the pool where spirits dwell, and retrieve what lies beneath their spell."
+#### Goblin Interactions
 
-#### Investigation
+As the players walk deeper into the cave, the goblins notice them but do not react with immediate hostility. Instead, there is a mix of curiosity and cautious acceptance. The players can hear snippets of conversations and see the goblins’ daily struggles and joys.
 
-If the players inspect the door, they notice a circular indent in the stone slab, indicating a key is required to open it.
+**Goblin Dialogue**:
+- **Crafting Goblin**: "Careful with that edge! Grumshar doesn’t bless sloppy work. That’s not goblin."
+- **Arguing Goblins**: "You took my spot! Get your own!"
+- **Training Goblin**: "Keep your guard up! An enemy won’t wait for you to be ready!"
 
-#### Interactions and Clues
+#### Key Descriptions to Emphasize
 
-- **Eldoran Carvings**: The carvings on the pillars depict various aspects of Eldoran life, including their reverence for nature, their architectural achievements, and their downfall. Players who inspect the carvings closely can make a History check (DC 15) to gain insights into the Eldorans' history and the possible cause of their civilization's collapse.
-- **Goblin Tracks**: The players notice goblin tracks leading to the open door on the right. A successful Survival check (DC 12) reveals that these tracks are recent.
-- **Doppelganger Tracks**: Mixed with the goblin tracks are odd, misshapen tracks that seem inconsistent. A successful Perception check (DC 14) suggests these could be the tracks of shapeshifters.
+- **Community and Complexity**: The players should get a sense that the goblins, while less sophisticated than humans, have a rich and complex society. They work together, argue, and support each other, showing a level of organization and community.
+- **Variety of Roles**: Highlight the different roles within the goblin society, from craftsmen to warriors to caregivers, showcasing that goblins are more than just monsters.
+- **Human-Like Qualities**: Despite their rough and often crude behavior, the goblins display emotions and actions similar to humans, such as pride in their work, care for their young, and a desire to protect their home.
 
+#### Transition to Scene 2
+
+As the players move deeper into the cave, guided by the friendly goblin scouts, they are led to a central area where the leadership of the goblin community resides. The noise of daily activity fades slightly, replaced by a sense of anticipation and importance.
 
 ---
 
-### Scene 3: The Long Hallway
+### Scene 2: Meeting the Goblin "Leaders"
 
 #### Setting the Scene
 
-The players choose to travel down the long hallway to the right of the large room. The hallway is narrow and dark, with only the faint glow of luminescent fungi to light their way.
+The players enter a larger, more organized chamber within the cave. This area is better lit, with more permanent fixtures and signs of greater care in its upkeep. At the center of this chamber stands Krag Rock-Biter, a well-respected goblin within the community. He is surrounded by other goblin advisors and guards, creating an air of authority and significance.
 
 **Key Descriptions**:
-- **Narrow Hallway**: The walls are close, with strange markings and occasional carvings of Eldoran symbols.
-- **Dim Light**: The only illumination comes from patches of luminescent fungi growing in the cracks of the stone walls.
+- **Krag Rock-Biter**: Krag is a formidable figure, his posture exuding confidence and strength. He wears a mix of leather and scrap armor, and his eyes are sharp and calculating.
+- **Goblin Guards**: The guards are more disciplined and better equipped than the average goblins. They stand alert, watching the players with wary eyes.
+
+#### Interaction with Krag Rock-Biter
+
+**Krag Rock-Biter Dialogue**:
+- **Greeting**: "Ah, you must be the reinforcements! Your arrival is timely. We have much work to do, and Grumshar’s blessing is with us."
+- **Introduction**: "I am Krag Rock-Biter, a humble servant of our Chieftain and Grumshar. Welcome to our home."
+
+**Insight Check (DC 13)**:
+- Success: The players sense that Krag is genuinely welcoming but also cautious and observant.
+- Failure: The players might not pick up on Krag’s cautious nature but will still understand his welcoming demeanor.
+
+#### Players’ Response
+
+The players can choose to introduce themselves, ask questions about the goblin society, or inquire about the project Krag mentioned. Krag is open to discussion, eager to learn more about these supposed allies.
+
+**Possible Player Questions**:
+- "What is this project you’re working on?"
+- "How can we assist you?"
+- "What challenges are you facing?"
+
+**Krag’s Responses**:
+- **About the Project**: "Nothing in particular. We often make trinkets and scribbles. It is not goblin to build gaudy monuments."
+- **How to Assist / Challenges**: "Lately, some of our kin have been acting strangely. They've been acting not goblin. **gasps**. I know, I know... but you've seen it too! There are those among us that would see us hunted or destroyed. They would see us throw away this cave. This community. That is not goblin. *They* are not goblin."
+
+#### Clarification about Leadership
+
+As the conversation progresses, Krag will clarify his role within the tribe and explain the goblin concept of leadership.
+
+**Krag Rock-Biter Dialogue**:
+- "I should clarify, I am not the Chieftain. We goblins believe that tribes have only a single Chieftain. To have more than one would be considered 'not-goblin.' Our Chieftain is wise and strong, guiding us in all we do. He's deeper in the cave system. I'll take you to him."
 
 #### Transition to the Next Part
 
-At the end of the hallway, the room opens up into a circular chamber.
+As the players finish their conversation with Krag, they are invited to explore the rest of the cave and interact with the goblins. This will lead to further discoveries and subtle clues about the underlying threat affecting the goblin society.
 
 ---
 
-### Scene 4: The Circular Room
+### Scene 3: Learning About the Goblin Society
+
+**Narrative**: The players spend time interacting with various goblins, learning about their culture, daily routines, and the significance of Grumshar.
+
+**Key Points**:
+- Emphasize the goblins' pride in their craftsmanship and community.
+- Include subtle hints that some goblins have been acting strangely or disappearing recently, suggesting something amiss.
+
+**Perception Check (DC 10)**:
+- Success: The players notice that some goblins seem more anxious and wary than others.
+- Failure: The players still see the general activity but might miss the signs of anxiety.
+
+**Investigation Check (DC 12)**:
+- Success: You find a strange note. (Torn Note Fragments 1 or  2.**  )
+- Failure: The players might not find the specific clues but will still sense something is off.
+
+**Dialogue**:
+- **Crafting Goblin**: "Look at this piece! Finest craftsmanship in the region. Grumshar guides my hand."
+- **Concerned Goblin**: "Strange times indeed. Some of our kin have been acting... different. But we carry on."
+
+**Key Descriptions**:
+- **Community and Complexity**: The players should get a sense that the goblins, while less sophisticated than humans, have a rich and complex society. They work together, argue, and support each other, showing a level of organization and community.
+- **Variety of Roles**: Highlight the different roles within the goblin society, from craftsmen to warriors to caregivers, showcasing that goblins are more than just monsters.
+- **Human-Like Qualities**: Despite their rough and often crude behavior, the goblins display emotions and actions similar to humans, such as pride in their work, care for their young, and a desire to protect their home.
+
+
+### Prestidigitation Fades
+
+As the spell's magic fades, your true forms begin to reappear. The goblins around you murmur and glance at each other, their expressions a mix of curiosity and amusement. Krag Rock-Biter steps forward, a wry smile spreading across his face.
+
+"So, the illusion fades," he says, his voice echoing through the cavern. "But did you really think we believed you were goblins in flesh? No, it is not the skin that makes one goblin."
+
+He gestures broadly to the surrounding goblins, who nod and murmur in agreement. 
+
+"It is the heart, the mind," Krag continues. "It is the cunning, the ambition, the willingness to do whatever it takes to achieve one's goals. That is what makes someone **Goblin**."
+
+He looks each of you in the eye, his expression growing serious.
+
+"You showed us that you have the spirit of goblins, and that is why we accepted you. You proved that you are willing to think like us, to act like us. That is what matters. That is what is truly goblin."
+
+The goblins around you nod in agreement, their initial surprise replaced by a renewed sense of respect.
+
+"Now," Krag says, his smile returning, "let's continue. For Grumshar, and for the future of our tribe."
+
+
+
+
+
+### Scene 4: Venturing Deeper into the Hidden Cave
 
 #### Setting the Scene
 
-The players enter a circular room with a drainage system at its center. The air here is damp and smells of stagnant water. 
+After their conversation with Krag Rock-Biter and interactions with the goblin community, the players are guided deeper into the Hidden Cave. They descend to what the goblins refer to as the second level, known as **[[Grukthar Hollow]]**. This area is less bustling and more focused on strategic operations and storage, where the goblins prepare for more significant undertakings.
 
-##### Perception Check
 
-As they approach the drainage system, a rat scurries out, startling them.
 
-**Key Descriptions**:
-- **Circular Room**: The room is round, with a drainage grate near the center.
-- **Drainage System**: The grate is old and rusted, with water slowly trickling through it.
+**Perception Check (DC 11)**:
+- Success: The players notice the change in atmosphere and the more strategic nature of Grukthar Hollow.
+- Failure: The players still sense a difference but might not notice the specifics.
 
-#### Investigation
+#### Description of Grukthar Hollow
 
-If the players investigate the drainage system, they discover a hidden apparatus that opens a concealed door to the north.
+As the players descend into Grukthar Hollow, the atmosphere changes. The luminescent fungi provide dim, eerie light, and the air feels cooler and more humid. The sounds of crafting and chatter from above fade, replaced by the occasional echo of distant activity.
 
-##### Investigation Check - DC 15
+**Key Points**:
+- **Strategic Operations**: Goblins here are engaged in planning and preparation. Maps and plans are spread out on makeshift tables, and goblin leaders discuss logistics and strategies.
+- **Storage and Armory**: The players see storerooms filled with supplies—food, weapons, and crafting materials. Goblin guards patrol the area, ensuring everything is secure.
 
-**Secret Door**:
-- **Hidden Apparatus**: A cleverly disguised lever or button hidden in the drainage system activates the door.
-- **Concealed Door**: The door opens with a low rumble, revealing a hidden passage leading north.
+**Insight Check (DC 12)**:
+- Success: The players sense the tension and urgency among the goblins in Grukthar Hollow.
+- Failure: The players might not pick up on the full extent of the tension but will still feel a general sense of unease.
 
-#### Optional Exploration
+#### Goblin Interactions
 
-To the south, the players find a rectangular room with a pool of water. The pool is clear, with the faint glow of the key visible at the bottom.
+The players can interact with goblins focused on strategic roles, who are more guarded and suspicious than those above but still cooperative.
+
+**Goblin Dialogue**:
+- **Strategic Goblin**: "Stay sharp. The Chieftain’s plans must not be disrupted!"
+- **Guarding Goblin**: "Who are they? Are they cleared to be here? We can’t afford mistakes!"
+
+**Investigation Check (DC 13)**:
+- Success: You find a strange note (Torn Note Fragments 1 or 2.** )
+- Failure: The players might not find the specific clues but will still sense something is off.
+
+#### Discovering Vague Clues
+
+While exploring Grukthar Hollow, the players come across subtle clues hinting at the presence of doppelgangers and the influence of the hags.
+
+**Clues**:
+- **Piece 1 of Torn Note**: "...our movements are being watched more closely. The Mistress has commanded us to be more cautious. We must avoid suspicion at all costs. Do not forget your disguise and blend in as best you can..."
+- **Piece 2 of Torn Note**: "...recent disappearances have caused unrest among the goblins. They are starting to question each other. We need to divert their attention. Suggest that the changes are due to the influence of Grumshar's will. This should buy us more time..."
+- **Whispered Conversations**: The players overhear hushed voices among some goblins discussing recent strange behavior and the mysterious disappearances of their kin.
+
+**Dialogue**:
+- **Concerned Goblin**: "Have you seen how he’s changed? It’s like he’s not the same goblin... That’s not goblin."
+- **Wary Goblin**: "I don’t trust the newcomers. Too many strange things happening. That’s not goblin."
+
+**Perception Check (DC 10)**:
+- Success: The players overhear whispered conversations and notice the unease among the goblins.
+- Failure: The players still sense the general tension but might miss specific details.
+
+#### Key Descriptions to Emphasize
+
+- **Tension and Suspicion**: The players should sense an undercurrent of tension and suspicion among the goblins in Grukthar Hollow. There is a noticeable difference in the atmosphere compared to the more bustling areas above.
+- **Vague Clues**: The scattered pieces of the torn note and whispered conversations provide vague but intriguing hints about the true nature of the threat, without giving away too much.
+
+#### Transition to the Next Scene
+
+As the players piece together the clues and interact with the goblins in Grukthar Hollow, they begin to realize that something is deeply wrong. The strange behavior and disappearances suggest a hidden threat that they must uncover. The players are directed towards a more secure area where further secrets of the cave might be revealed.
 
 ---
 
-### Scene 5: The Pool of Water
-
+### Scene 5: Transition to Grukthar Hollow
 
 #### Setting the Scene
 
-The rectangular room contains a pool of clear water, with the key glowing faintly at the bottom. The air is cooler here, and the water's surface is perfectly still.
+Having gathered information and observed the bustling life within the Hidden Cave, the players are now ready to venture deeper into the goblin settlement. They are guided by goblin escorts down a winding path, leading to the second level of the cave system, known as **Grukthar Hollow**. The descent is marked by a noticeable change in atmosphere, becoming cooler and more humid with each step.
 
-**Key Descriptions**:
-- **Pool of Water**: The pool is rectangular and deep, with the key clearly visible at the bottom.
-- **Eldoran Ghosts**: Three ethereal figures float above the pool, their forms shimmering and translucent.
+**Perception Check (DC 12)**:
+- Success: The players notice the increasing tension and vigilance among the goblins as they descend.
+- Failure: The players still sense the general change in atmosphere but might miss specific details.
 
-#### Encounter with the Ghosts
+#### Description of the Descent
 
-The players must solve the ghosts' riddle or defeat them in combat to retrieve the key.
+As the players make their way down, the luminescent fungi that illuminated the upper levels become sparser, replaced by strategically placed torches that cast long, flickering shadows on the rough cave walls. The air grows heavier, and the sounds of activity from above fade into a distant hum.
 
-**Eldoran Ghosts**:
-- **Appearance**: The ghosts are dressed in ancient Eldoran attire, their expressions solemn and wise.
-- **Riddle**: The ghosts speak in unison, their voices echoing in the chamber: "Answer us this riddle, and you may pass: I am not alive, but I grow; I don’t have lungs, but I need air; I don’t have a mouth, and I can drown. What am I?"
+**Goblin Dialogue (Overheard)**:
+- **Guarding Goblin 1**: "Keep your eyes open. We don’t need any more surprises."
+- **Guarding Goblin 2**: "I heard Grubnar is not happy with the recent disturbances. Better not let him down."
+- **Strategic Goblin**: "The Chieftain's plans must not be disrupted. Everything must go smoothly. That’s goblin."
 
-**Answer**: The answer to the riddle is "fire."
+#### Key Descriptions
 
-#### Solving the Riddle
+- **Increasing Tension**: The players can sense the growing tension among the goblins as they descend. The goblins are more vigilant, their conversations laced with worry and suspicion.
+- **Strategic Environment**: The deeper level has a more strategic and militaristic feel, with guards posted at regular intervals and storerooms filled with supplies and weapons.
 
-If the players answer the riddle correctly, the ghosts will nod in approval and provide some background lore on Ignis, the God of Fire.
+#### Encounter with Grubnar, the Warchief
 
-**Ghosts' Dialogue**:
-- **Correct Answer**: "You have shown wisdom and understanding. The answer is fire, the essence of Ignis, the God of Fire. Ignis, the Eternal Flame, who breathes life into the forge and brings warmth to our world. Take the key and proceed with our blessing."
+As the players reach the entrance to Grukthar Hollow, they are met by a group of goblin guards who escort them to a large chamber where Grubnar, the Warchief, is stationed. The chamber is dimly lit but well-organized, with maps and plans spread out on tables, indicating its importance.
 
-#### Lore about Ignis
+**Goblin Guard Dialogue**:
+- **Guard Leader**: "Follow us. Grubnar awaits. Do not stray from the path."
 
-The ghosts will impart knowledge about Ignis, providing valuable lore for the players.
+**Insight Check (DC 14)**:
+- Success: The players sense the respect and authority Grubnar commands among the goblins. Grubnar means you know harm. 
+- Failure: The players still understand Grubnar's significance but might miss the full extent of his influence.
 
-**Lore**:
-- **Ignis, the Eternal Flame**: "Ignis is the embodiment of fire, the force that transforms and purifies. In the ancient times, the Eldorans revered Ignis for the power he bestowed upon their forges and the warmth he brought to their hearths."
-- **Symbol of Creation and Destruction**: "Fire, under Ignis's watch, is a symbol of both creation and destruction. It can forge the strongest steel or reduce entire cities to ash. It is a reminder of the balance of power."
-- **Eldoran Worship**: "In our time, we crafted great works and held grand ceremonies to honor Ignis, seeking his blessing in all our endeavors. The flames of Ignis burned brightly in our hearts and our homes."
+#### Transition to Grubnar’s Chamber
 
-#### Combat Option
+Entering the chamber, the players see Grubnar, a towering and formidable goblin warchief, commanding respect and authority. He is surrounded by his most trusted advisors and strategists, all of whom are deep in discussion about recent events and plans.
 
-If the players attack the ghosts or fail to answer the riddle correctly, the ghosts will become hostile and attack.
-
-**Eldoran Ghosts' Abilities**:
-- **Ethereal Grasp**: The ghosts can attempt to grapple players with their ghostly hands, dealing cold damage.
-- **Wail of the Lost**: Once per combat, a ghost can emit a haunting wail, causing players to make a Wisdom saving throw (DC 15) or be frightened for 1 minute.
-
-
+**Grubnar Dialogue**:
+- **Greeting**: "Welcome. I am Grubnar, Warchief of this tribe. You come at a time of great need."
+- **Introduction**: "I have been informed of your presence and the assistance you offer. We face challenges that threaten the very core of our existence here."
 
 ---
 
-### Scene 6: The Guardian's Hall
+### Scene 6: Meeting with Grubnar
 
 #### Setting the Scene
 
-Beyond the unlocked door, the players find a hallway leading to another room. This final room of the floor has two Eldoran Reanimated Guardians blocking the way forward.
+The players now stand before Grubnar, the Warchief of the goblin tribe, in the heart of Grukthar Hollow. This area is a hub of strategic planning and military preparation, reflecting the gravity of the challenges the goblins face.
 
 **Key Descriptions**:
+- **Grubnar**: A commanding figure with battle scars and a fierce demeanor, dressed in armor that signifies his status.
+- **Advisors and Strategists**: Goblins around him are equipped with maps, weapons, and various tools, ready to assist in the planning and execution of their strategies.
 
-- **Hallway**: The hallway is short and lined with ancient Eldoran carvings.
-- **Final Room**: The room beyond is larger, with two Reanimated guardians standing vigil.
+#### Interaction with Grubnar
 
-#### Encounter with the Guardians
+**Grubnar Dialogue**:
+- **Greeting**: "I have heard much about your arrival. Our scouts speak highly of you. We welcome any aid you can provide."
+- **The Situation**: "Strange things have been happening in our domain. Goblins disappearing, others behaving oddly. We suspect an unseen enemy within our ranks. There are those amongst us who are NOT GOBLIN. They look like goblin. They smell like goblin. But they are not goblin. I am sure of it. No goblin of mine would attack North Lodge. My silly plant friend lives there. No goblin in my tribe would ever harm her. Not after how much she's done for us. Help us. Find out who's impersonating my people. Find them and kill them."
 
-The players must defeat the guardians to proceed.
+**Possible Player Questions**:
+- "What do you need us to do?"
+- "Have you discovered any clues about these disturbances?"
+- "How can we help ensure the safety of your tribe?"
+
+**Grubnar’s Responses**:
+- **Tasks**: This cave system comes out in Bear Wood. There, you will find some old ruins and stairs leading down. No goblin to ever enter those stairs has ever come back. But we've seen 'goblins' coming out of there. Go there now. There you will find the answers you seek.
+- **Clues**: "We have found some strange notes and symbols. They speak of a ‘Mistress’ and ‘shapeshifters.’ Be wary of whom you trust."
+  - **The players are rewarded with torn note fragment 5 and 6.**
+- **Support**: "Our resources are at your disposal. Take what you need and proceed with caution. We cannot afford any more losses."
+
+**Investigation Check (DC 13)**:
+- Success: You see there are some tracks on the ground that don't look quite the same as others. You can tell the difference between the larger and smaller tracks, but this third set of tracks is different in more than size and stature. They appear to be a completely different beast. 
+- Failure: The players might not find the specific clues but will still sense something is off.
+
+#### Transition to Deeper Investigation
+
+Grubnar provides the players with additional supplies and a more detailed map of Bear Wood and Grukthar Hollow. The players are now tasked with uncovering the mystery behind the disturbances and protecting the goblin tribe from the hidden threat, which will also stop the attacks on North Lodge.
+
+**Supplies Provided**:
+- A small bag of healing herbs (equivalent to a 5 healing potions)
+- A detailed map of The Hidden Cave, Grukthar Hollow, and Bear Wood.
+- Basic rations and water for their journey
+- A **LONG**-REST if they choose to take one. They can sleep at any of the tents in the Goblin Cave, or they can go back to the inn before heading back out.
+
+**Grubnar’s Final Words**:
+- "Remember, trust no one. The enemy hides among us. Go now, and may Grumshar guide your steps."
+
+### Conclusion
+
+As the players leave Grukthak Hollow to Bear Wood they are ambushed by a group of 2 Borghats and 2 changelings.
+
+After defeating these body changers, they receive:
+- **Torn Note fragments 3 and 4.**
+
+### Torn Note Clues
+
+##### Torn Note Fragment 1
+
+"...our movements are being watched more closely. The Mistress has commanded us to be more cautious. We must avoid suspicion at all costs. Do not forget your disguise and blend in as best you can..."
+
+##### Torn Note Fragment 2
 
 
+"...recent disappearances have caused unrest among the goblins. They are starting to question each other. We need to divert their attention. Suggest that the changes are due to the influence of Grumshar's will. This should buy us more time..."
 
-#### Transition to the Next Part
+##### Torn Note Fragment 3
 
-After defeating the guardians, the players proceed to the next floor, where they encounter a vision of the Mistress and a teleportation circle.
+"...our primary objective remains unchanged. The Mistress requires the completion of the ritual. Ensure that all preparations are made in secrecy. Any deviation could be disastrous..."
 
----
+##### Torn Note Fragment 4
 
-### Scene 7: The Mistress's Vision
+"...remember the signal for when the time is right. The Mistress will guide us, but we must be ready to act swiftly. Trust no one outside our circle. The success of our mission depends on our ability to remain unseen..."
 
-#### Setting the Scene
+##### Torn Note Fragment 5
 
-The players descend to the final floor of the ruins, finding a single large chamber with an ancient altar and a glowing teleportation circle.
+"...continue to report any suspicious activity among the goblins. The Mistress needs to be informed of any potential threats. Stay vigilant and await further instructions..."
 
-**Key Descriptions**:
-- **Ancient Altar**: The altar is covered in glowing runes and ancient symbols.
-- **Teleportation Circle**: The circle hums with magical energy, glowing brightly.
+##### Torn Note Fragment 6
 
-#### Encounter with the Mistress's Vision
-
-As the players approach the altar, they are confronted by a vision of the Mistress.
-
-**Vision of the Mistress**:
-- **Appearance**: The vision is a ghostly image of the Mistress, radiating malevolent energy.
-- **Dialogue**: "You have come far, but you will not stop me. My plans are already in motion. You cannot defeat me."
-
-#### Discovering the Teleportation Circle
-
-The players realize the teleportation circle is being used to transport the Mistress's minions into the forest to assault North Lodge.
-
-**Key Information**:
-- **Purpose of the Circle**: The circle allows the Mistress's minions to teleport directly into the forest, bypassing traditional defenses.
-- **Next Steps**: The players must find a way to disable or disrupt the circle to stop the attacks on North Lodge.
-
----
-
+"...if you are compromised, destroy this note immediately. The safety of our kind and the success of the Mistress’s plan depend on our discretion..."

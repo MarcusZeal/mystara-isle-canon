@@ -82,4 +82,4 @@ order: 0
 
 Update: We had time. The heroes from earth made their way through the [[02. Enchanted Glade]] and met up with some [[Goblins]] at a cave entrance. 
 
-See [[Session 0 Encounters]].
+See [[Session 0+1 Encounters]].
