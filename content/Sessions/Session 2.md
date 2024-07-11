@@ -23,32 +23,69 @@ You aim to uncover the truth behind the recent attacks and learn more about the 
 
 #### Setting the Scene
 
-As the players step into the Hidden Cave, they are immediately struck by the bustling activity within. The cave is a sprawling network of tunnels and chambers, illuminated by patches of luminescent fungi that cast a soft, otherworldly glow. The air is cool and slightly damp, carrying the mixed scents of earth, smoke, and cooking food.
+“As you enter the cave, you are immediately struck by the bustling activity within. “
 
+Make a perception check. 
+
+DC 10: 
+Success: You get the impression that this is a very, very large cave. Deep and sprawling. Full of tunnels and goblins. You notice right away that there are patches of luminescent fungi that cast a soft, otherworldly glow. The air is cool and slightly damp - but not unpleasant it carries the mixed scents of earth, smoke, and cooking…. Meat? You can’t be sure what the meat is, but it smells delicious. 
+
+Fail: You get the impression the cave is big. Real big… and something smells…. Good?
 #### Description of Goblin Activities
 
-The players observe goblins of all ages going about their daily lives:
+“As you walk deeper into the cave you notice goblins going about their daily lives. 
 
-- **Crafting and Working**: Several goblins are hard at work, hammering metal, weaving baskets, and shaping wood. The clinking of hammers and the rhythmic scraping of tools against materials create a constant background noise.
-- **Arguing and Socializing**: Some goblins are engaged in heated discussions, their high-pitched voices echoing through the cave. Others are gathered around small fires, sharing food and stories, laughing, and occasionally shouting.
-- **Training and Sparring**: In one corner, a group of young goblins is practicing combat skills, supervised by an older, more experienced warrior. They wield wooden swords and shields, their movements quick and eager.
+ You see several goblins are hard at work, hammering metal, weaving baskets, and shaping wood. The clinking of hammers and the rhythmic scraping of tools against materials create a constant background noise.
+
+Make a perception check. DC 5. 
+
+You see some goblins are engaged in heated discussions, their high-pitched voices echoing through the cave. Others are gathered around small fires, sharing food and stories, laughing, and occasionally shouting.
+
+Make a perception check. DC 8.
+You see a group of young goblins is practicing combat skills, supervised by an older, more experienced warrior. They wield wooden swords and shields, their movements quick and eager.
+
+Make a perception check. DC 15. 
+You notice that not all of the goblins look the same… some look like Goblins but… different… somehow. 
+
+---
+
+As the players continue down the hallway the goblin scout escort makes conversation. 
+
+“Right this way, funny-looking Gobins! Krag will like you!”
 
 **Perception Check (DC 12)**:
-- Success: The players notice that the goblins are industrious and well-organized, displaying a complex society.
-- Failure: The players still see the general activity but might miss some of the finer details.
-
+- Success: 
+	- You notice that the goblins are industrious and well-organized. They appear to be trading shiny rocks, food, and regular nesesities. 
+- Failure: 
+	- You notice that the goblins are well-organized. There might be more there, but you‘re just not sure... 
+	
 **Insight Check (DC 10)**:
 - Success: The players sense that the goblins are not hostile but rather cautious and curious about their presence.
 - Failure: The players might feel slightly uneasy but will not detect any immediate threat.
 
+Nature Check (DC 10):
+- Success: You think you may be able to use those mushrooms for something. The goblins may be willing to part with a few if you ask nicely. 
+- Fail: Yup. You’re definitely in a cave. 
+
 #### Goblin Interactions
 
-As the players walk deeper into the cave, the goblins notice them but do not react with immediate hostility. Instead, there is a mix of curiosity and cautious acceptance. The players can hear snippets of conversations and see the goblins’ daily struggles and joys.
+As the you walk deeper into the cave, the goblins notice them but do not react with immediate hostility. Instead, there is a mix of curiosity and cautious acceptance. 
+
+Make a perception check… DC 5
+
+Pass:
+You can hear snippets of conversations and see the goblins’ daily struggles and joys.
 
 **Goblin Dialogue**:
 - **Crafting Goblin**: "Careful with that edge! Grumshar doesn’t bless sloppy work. That’s not goblin."
-- **Arguing Goblins**: "You took my spot! Get your own!"
+- **Arguing Goblins**: "5 rocks for THIS? Hell no! I’ll give you 3 at most… and definitely not the smooth ones. "
 - **Training Goblin**: "Keep your guard up! An enemy won’t wait for you to be ready!"
+- Cautious Goblin: “Hey stay clear of the forge! I don’t want anymore brothers going up in flames…
+
+You get the sense that these goblins have a society of their own. Different than humans… but a society nonetheless. 
+
+Fail: 
+You can see goblins working, arguing, training. You can’t hear what they are saying… it probably doesn’t matter. But you definitely get the sense that these goblins have a society of their own.. although different from humans a society none-the-less. 
 
 #### Key Descriptions to Emphasize
 
@@ -56,9 +93,7 @@ As the players walk deeper into the cave, the goblins notice them but do not rea
 - **Variety of Roles**: Highlight the different roles within the goblin society, from craftsmen to warriors to caregivers, showcasing that goblins are more than just monsters.
 - **Human-Like Qualities**: Despite their rough and often crude behavior, the goblins display emotions and actions similar to humans, such as pride in their work, care for their young, and a desire to protect their home.
 
-#### Transition to Scene 2
 
-As the players move deeper into the cave, guided by the friendly goblin scouts, they are led to a central area where the leadership of the goblin community resides. The noise of daily activity fades slightly, replaced by a sense of anticipation and importance.
 
 ---
 
@@ -66,7 +101,7 @@ As the players move deeper into the cave, guided by the friendly goblin scouts, 
 
 #### Setting the Scene
 
-The players enter a larger, more organized chamber within the cave. This area is better lit, with more permanent fixtures and signs of greater care in its upkeep. At the center of this chamber stands Krag Rock-Biter, a well-respected goblin within the community. He is surrounded by other goblin advisors and guards, creating an air of authority and significance.
+You enter a larger, more organized chamber within the cave. This area is better lit, with more permanent fixtures and signs of greater care in its upkeep. At the center of this chamber stands Krag Rock-Biter, a well-respected goblin within the community. He is surrounded by other goblin advisors and guards, creating an air of authority and significance.
 
 **Key Descriptions**:
 - **Krag Rock-Biter**: Krag is a formidable figure, his posture exuding confidence and strength. He wears a mix of leather and scrap armor, and his eyes are sharp and calculating.
@@ -75,12 +110,12 @@ The players enter a larger, more organized chamber within the cave. This area is
 #### Interaction with Krag Rock-Biter
 
 **Krag Rock-Biter Dialogue**:
-- **Greeting**: "Ah, you must be the reinforcements! Your arrival is timely. We have much work to do, and Grumshar’s blessing is with us."
+- **Greeting**: "Ah, you must be the Reinforcements ! Your arrival is timely. We have much work to do, and Grumshar’s blessing is with us."
 - **Introduction**: "I am Krag Rock-Biter, a humble servant of our Chieftain and Grumshar. Welcome to our home."
 
 **Insight Check (DC 13)**:
-- Success: The players sense that Krag is genuinely welcoming but also cautious and observant.
-- Failure: The players might not pick up on Krag’s cautious nature but will still understand his welcoming demeanor.
+- Success: You get the sense that Krag is genuinely welcoming but also cautious and observant. He is large, but his eyes are kind.
+- Failure: Krag is big. He seems like a nice dude. He kind of reminds you of your favorite uncle.
 
 #### Players’ Response
 
@@ -99,8 +134,16 @@ The players can choose to introduce themselves, ask questions about the goblin s
 
 As the conversation progresses, Krag will clarify his role within the tribe and explain the goblin concept of leadership.
 
+“Are you the goblin leader here?”  
+
+- Oh hohohoho - No. No, I am not Chieftan. I am Krag. We goblins only have one chieftan. To Have many chieftains would be not-goblin. 
+
+
+When its time to go… 
+
 **Krag Rock-Biter Dialogue**:
-- "I should clarify, I am not the Chieftain. We goblins believe that tribes have only a single Chieftain. To have more than one would be considered 'not-goblin.' Our Chieftain is wise and strong, guiding us in all we do. He's deeper in the cave system. I'll take you to him."
+- "I should clarify, I am not the Chieftain. We goblins believe that tribes have only a single Chieftain. To have more than one would be considered 'not-goblin.' 
+- Our Chieftain is wise and strong, guiding us in all we do. He's deeper in the cave system. I'll take you to him when you’re ready. For now, feel free to take a look around."
 
 #### Transition to the Next Part
 
@@ -128,15 +171,30 @@ As the players finish their conversation with Krag, they are invited to explore 
 - **Crafting Goblin**: "Look at this piece! Finest craftsmanship in the region. Grumshar guides my hand."
 - **Concerned Goblin**: "Strange times indeed. Some of our kin have been acting... different. But we carry on."
 
+
+**Roll an Investigation Check** DC 15 - Get one of these. 
+##### Torn Note Fragment 7
+
+"...beware of the flame.... the Mistress will not be happy if anymore captains are sent back to Gehenna..."
+
+##### Torn Note Fragment 8
+
+"... remember to stay out of the forge... last weeks accident cannot happen again... "
+
 **Key Descriptions**:
 - **Community and Complexity**: The players should get a sense that the goblins, while less sophisticated than humans, have a rich and complex society. They work together, argue, and support each other, showing a level of organization and community.
 - **Variety of Roles**: Highlight the different roles within the goblin society, from craftsmen to warriors to caregivers, showcasing that goblins are more than just monsters.
 - **Human-Like Qualities**: Despite their rough and often crude behavior, the goblins display emotions and actions similar to humans, such as pride in their work, care for their young, and a desire to protect their home.
 
+Perception Check :
+- Pass: Krag is definitely watching you closely as you walk around amongst his brothers and sisters.
+- Fail: Everything seems normal to you. Just hanging out in this goblin camp. 
+#### Roll a Deception Check every few minutes.
 
-### Prestidigitation Fades
 
-As the spell's magic fades, your true forms begin to reappear. The goblins around you murmur and glance at each other, their expressions a mix of curiosity and amusement. Krag Rock-Biter steps forward, a wry smile spreading across his face.
+#### Prestidigitation Fades
+
+As the spell's magic fades, your true brands begin to reappear. The goblins around you murmur and glance at each other, their expressions a mix of curiosity and amusement. Krag Rock-Biter steps forward, a wry smile spreading across his face. He has been following you, keeping an eye on what you’re up to. 
 
 "So, the illusion fades," he says, his voice echoing through the cavern. "But did you really think we believed you were goblins in flesh? No, it is not the skin that makes one goblin."
 
@@ -150,27 +208,29 @@ He looks each of you in the eye, his expression growing serious.
 
 The goblins around you nod in agreement, their initial surprise replaced by a renewed sense of respect.
 
-"Now," Krag says, his smile returning, "let's continue. For Grumshar, and for the future of our tribe."
-
-
-
+"Now," Krag says, his smile returning, "let's go meet our Chieftain. For Grumshar, and for the future of our tribe."
 
 
 ### Scene 4: Venturing Deeper into the Hidden Cave
 
 #### Setting the Scene
 
-After their conversation with Krag Rock-Biter and interactions with the goblin community, the players are guided deeper into the Hidden Cave. They descend to what the goblins refer to as the second level, known as **[[Grukthar Hollow]]**. This area is less bustling and more focused on strategic operations and storage, where the goblins prepare for more significant undertakings.
+You descend to what the goblins refer to as **[[Grukthar Hollow]]**. This area is less bustling and more focused on strategic operations and storage, where the goblins prepare for more significant undertakings.
 
 
 
 **Perception Check (DC 11)**:
-- Success: The players notice the change in atmosphere and the more strategic nature of Grukthar Hollow.
-- Failure: The players still sense a difference but might not notice the specifics.
+- Success: The players notice the change in atmosphere and the more strategic nature of Grukthar Hollow. This layer feels almost like a barracks on Earth - at least what you’ve seen in movies. 
+- Failure: You notice that the atmosphere has changed a bit but you’re not quite sure why. 
+
+
+Nature Check DC 10:
+- Pass: The glowing mushrooms are on this layer too. You’re pretty sure you could use these in a potion of some sort in the future - or sell them to the alchemist back in North Lodge - or find a use for them somewhere. 
+- Fail: Yup, still in a cave. 
 
 #### Description of Grukthar Hollow
 
-As the players descend into Grukthar Hollow, the atmosphere changes. The luminescent fungi provide dim, eerie light, and the air feels cooler and more humid. The sounds of crafting and chatter from above fade, replaced by the occasional echo of distant activity.
+As you descend into Grukthar Hollow, the atmosphere changes. The luminescent fungi provide dim, eerie light, and the air feels cooler and more humid. The sounds of crafting and chatter from above fade, replaced by the occasional echo of organized conversations. 
 
 **Key Points**:
 - **Strategic Operations**: Goblins here are engaged in planning and preparation. Maps and plans are spread out on makeshift tables, and goblin leaders discuss logistics and strategies.
@@ -189,7 +249,7 @@ The players can interact with goblins focused on strategic roles, who are more g
 - **Guarding Goblin**: "Who are they? Are they cleared to be here? We can’t afford mistakes!"
 
 **Investigation Check (DC 13)**:
-- Success: You find a strange note (Torn Note Fragments 1 or 2.** )
+- Success: You find a strange note (Torn Note Fragments 1 or 2.)
 - Failure: The players might not find the specific clues but will still sense something is off.
 
 #### Discovering Vague Clues
@@ -202,11 +262,11 @@ While exploring Grukthar Hollow, the players come across subtle clues hinting at
 - **Whispered Conversations**: The players overhear hushed voices among some goblins discussing recent strange behavior and the mysterious disappearances of their kin.
 
 **Dialogue**:
-- **Concerned Goblin**: "Have you seen how he’s changed? It’s like he’s not the same goblin... That’s not goblin."
-- **Wary Goblin**: "I don’t trust the newcomers. Too many strange things happening. That’s not goblin."
+- **Concerned Goblin**: "Have you seen how he’s changed? It’s like he’s not the same goblin... Is he even Golbin?"
+- **Wary Goblin**: "I don’t trust the newcomers. Too many strange things happening. Are we sure they’re Goblin."
 
 **Perception Check (DC 10)**:
-- Success: The players overhear whispered conversations and notice the unease among the goblins.
+- Success: You overhear whispered conversations and notice the unease among the goblins.
 - Failure: The players still sense the general tension but might miss specific details.
 
 #### Key Descriptions to Emphasize
@@ -246,7 +306,7 @@ As the players make their way down, the luminescent fungi that illuminated the u
 
 #### Encounter with Grubnar, the Warchief
 
-As the players reach the entrance to Grukthar Hollow, they are met by a group of goblin guards who escort them to a large chamber where Grubnar, the Warchief, is stationed. The chamber is dimly lit but well-organized, with maps and plans spread out on tables, indicating its importance.
+As you reach the entrance of what appears to be a hallway that leads to the war room, you are met by a group of goblin guards who escort you to a large chamber where Grubnar, the Warchief, is stationed. The chamber is dimly lit but well-organized, with maps and plans spread out on tables, indicating its importance.
 
 **Goblin Guard Dialogue**:
 - **Guard Leader**: "Follow us. Grubnar awaits. Do not stray from the path."
@@ -255,30 +315,22 @@ As the players reach the entrance to Grukthar Hollow, they are met by a group of
 - Success: The players sense the respect and authority Grubnar commands among the goblins. Grubnar means you know harm. 
 - Failure: The players still understand Grubnar's significance but might miss the full extent of his influence.
 
-#### Transition to Grubnar’s Chamber
+### Scene 6: Grubnar’s Chamber
 
 Entering the chamber, the players see Grubnar, a towering and formidable goblin warchief, commanding respect and authority. He is surrounded by his most trusted advisors and strategists, all of whom are deep in discussion about recent events and plans.
 
-**Grubnar Dialogue**:
-- **Greeting**: "Welcome. I am Grubnar, Warchief of this tribe. You come at a time of great need."
-- **Introduction**: "I have been informed of your presence and the assistance you offer. We face challenges that threaten the very core of our existence here."
+The guards escort you to stand directly in front of him... 
 
----
-
-### Scene 6: Meeting with Grubnar
-
-#### Setting the Scene
-
-The players now stand before Grubnar, the Warchief of the goblin tribe, in the heart of Grukthar Hollow. This area is a hub of strategic planning and military preparation, reflecting the gravity of the challenges the goblins face.
+You stand before Grubnar, the Warchief of the goblin tribe in the heart of Gukthar Hollow. This area is a hub of strategic planning and military preparation, reflecting the gravity of the challenges the goblins face. 
 
 **Key Descriptions**:
 - **Grubnar**: A commanding figure with battle scars and a fierce demeanor, dressed in armor that signifies his status.
 - **Advisors and Strategists**: Goblins around him are equipped with maps, weapons, and various tools, ready to assist in the planning and execution of their strategies.
 
-#### Interaction with Grubnar
 
 **Grubnar Dialogue**:
-- **Greeting**: "I have heard much about your arrival. Our scouts speak highly of you. We welcome any aid you can provide."
+
+- **Greeting**: “Welcome, Travelers. I am Grubnar, Warchief of this tribe. I heard of your little deception upstairs… Goblin indeed. You’ve come during a time of great need. I’ve been informed that you have offered assistance? ”
 - **The Situation**: "Strange things have been happening in our domain. Goblins disappearing, others behaving oddly. We suspect an unseen enemy within our ranks. There are those amongst us who are NOT GOBLIN. They look like goblin. They smell like goblin. But they are not goblin. I am sure of it. No goblin of mine would attack North Lodge. My silly plant friend lives there. No goblin in my tribe would ever harm her. Not after how much she's done for us. Help us. Find out who's impersonating my people. Find them and kill them."
 
 **Possible Player Questions**:
@@ -298,10 +350,13 @@ The players now stand before Grubnar, the Warchief of the goblin tribe, in the h
 
 #### Transition to Deeper Investigation
 
-Grubnar provides the players with additional supplies and a more detailed map of Bear Wood and Grukthar Hollow. The players are now tasked with uncovering the mystery behind the disturbances and protecting the goblin tribe from the hidden threat, which will also stop the attacks on North Lodge.
+Grubnar provides the players with additional supplies and a more detailed map of Bear Wood and Grukthar Hollow.
+	**Direct the players to the Wiki where those pages should now be public.**
+
+The players are now tasked with uncovering the mystery behind the disturbances and protecting the goblin tribe from the hidden threat, which will also stop the attacks on North Lodge.
 
 **Supplies Provided**:
-- A small bag of healing herbs (equivalent to a 5 healing potions)
+- A small bag of potent healing herbs (equivalent to a 5 healing potions)
 - A detailed map of The Hidden Cave, Grukthar Hollow, and Bear Wood.
 - Basic rations and water for their journey
 - A **LONG**-REST if they choose to take one. They can sleep at any of the tents in the Goblin Cave, or they can go back to the inn before heading back out.
@@ -311,7 +366,9 @@ Grubnar provides the players with additional supplies and a more detailed map of
 
 ### Conclusion
 
-As the players leave Grukthak Hollow to Bear Wood they are ambushed by a group of 2 Borghats and 2 changelings.
+As the players leave Grukthak Hollow to Bear Wood they are ambushed by a group of 2 Barghests disguised as two Goblins. 
+
+![[Session 2 Encounters]]
 
 After defeating these body changers, they receive:
 - **Torn Note fragments 3 and 4.**
@@ -346,7 +403,7 @@ After defeating these body changers, they receive:
 
 ##### Torn Note Fragment 7
 
-"...before of the flame.... the Mistress will not be happy if anymore captains are sent back to Gehenna..."
+"...beware of the flame.... the Mistress will not be happy if anymore captains are sent back to Gehenna..."
 
 
 ##### Torn Note Fragment 8
