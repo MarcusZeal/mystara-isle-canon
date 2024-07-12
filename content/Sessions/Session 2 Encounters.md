@@ -58,15 +58,6 @@ Upon defeating the Barghests, the players find the torn note fragments 3 and 4 o
 - **Torn Note Fragment 4**:
   - "...remember the signal for when the time is right. The Mistress will guide us, but we must be ready to act swiftly. Trust no one outside our circle. The success of our mission depends on our ability to remain unseen..."
 
-One Magic Item from one of the players wish list. Roll 1d6 to decide who's. 
-
-	1. Azzika -
-	2. Eldric - 
-	3. Kai - 
-	4. Garos - 
-	5. Posidonius - 
-	6. Thistle -
-
 
 
 #### Conclusion

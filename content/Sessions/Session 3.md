@@ -3,9 +3,6 @@ title: Session 2
 draft: true
 order: 2
 ---
-### Session 2: Hidden Ruins of Eldoria
-
-
 
 ### Scene 1: Entering the Ruins
 
@@ -17,14 +14,22 @@ As the players enter the Hidden Ruins, they find themselves in a long hallway wi
 - **Long Hallway**: The hallway is lined with crumbling pillars and faintly glowing runes, casting eerie shadows on the walls.
 - **Atmosphere**: The air is cool and damp, carrying the scent of age and decay.
 
-
+Arcana Check DC 15
+Pass: You get the impression that these ruins are filled with latent energy. 
+Pass: Must have just been the glowing mushrooms. 
 
 ---
 
 ### Scene 2: The Pillared Hall
 
-
 #### Setting the Scene
+
+As you walk down the stairs, you notice a large room with many large stone pillars lining either side. The pillars are adorned with intricate carving depicting scenes of an ancient civilization. 
+
+History Check DC 12
+Pass: You can tell that the civilization is the Eldoran. Your memory of earth can’t help but notice that this race reminds you a lot of elves. They look like elves, but their civilization was a lot more advanced. More like high elves from an old MMO you use to play. 
+
+Fail: You think maybe these are… uhh… elves?
 
 At the bottom of the stairs, the players enter a large room with massive stone pillars lining either side. The pillars are adorned with intricate carvings depicting scenes of ancient Eldoran life.
 
@@ -40,7 +45,7 @@ At the bottom of the stairs, the players enter a large room with massive stone p
 
 **Runes on the Door**:
 
-- **Inscription**: "To proceed beyond this door, the key you must secure. Seek the pool where spirits dwell, and retrieve what lies beneath their spell."
+- **Inscription**: "To proceed beyond this frame, a key you must obtain. Seek the pool where spirits dwell, and retrieve what lies inside the well."
 
 #### Investigation
 
@@ -49,8 +54,11 @@ If the players inspect the door, they notice a circular indent in the stone slab
 #### Interactions and Clues
 
 - **Eldoran Carvings**: The carvings on the pillars depict various aspects of Eldoran life, including their reverence for nature, their architectural achievements, and their downfall. Players who inspect the carvings closely can make a History check (DC 15) to gain insights into the Eldorans' history and the possible cause of their civilization's collapse.
+
 - **Goblin Tracks**: The players notice goblin tracks leading to the open door on the right. A successful Survival check (DC 12) reveals that these tracks are recent.
-- **Doppelganger Tracks**: Mixed with the goblin tracks are odd, misshapen tracks that seem inconsistent. A successful Perception check (DC 14) suggests these could be the tracks of shapeshifters.
+
+- **Shapeshifter Tracks**: Mixed with the goblin tracks are odd, misshapen tracks that seem inconsistent. A successful Perception check (DC 14) suggests these could be the tracks of shapeshifters. Changelings.
+
 
 
 ---
@@ -77,7 +85,9 @@ At the end of the hallway, the room opens up into a circular chamber.
 
 The players enter a circular room with a drainage system at its center. The air here is damp and smells of stagnant water. 
 
-##### Perception Check
+##### Perception Check DC 12
+Pass: You see a feint glow in the sewer
+Fail: Nothing of notice. 
 
 As they approach the drainage system, a rat scurries out, startling them.
 
@@ -94,8 +104,6 @@ If the players investigate the drainage system, they discover a hidden apparatus
 **Secret Door**:
 - **Hidden Apparatus**: A cleverly disguised lever or button hidden in the drainage system activates the door.
 - **Concealed Door**: The door opens with a low rumble, revealing a hidden passage leading north.
-
-#### Optional Exploration
 
 To the south, the players find a rectangular room with a pool of water. The pool is clear, with the faint glow of the key visible at the bottom.
 
@@ -118,7 +126,7 @@ The players must solve the ghosts' riddle or defeat them in combat to retrieve t
 
 **Eldoran Ghosts**:
 - **Appearance**: The ghosts are dressed in ancient Eldoran attire, their expressions solemn and wise.
-- **Riddle**: The ghosts speak in unison, their voices echoing in the chamber: "Answer us this riddle, and you may pass: I am not alive, but I grow; I don’t have lungs, but I need air; I don’t have a mouth, and I can drown. What am I?"
+- **Riddle**: The ghosts speak in unison, their voices echoing in the chamber: "Answer us this riddle, and you may pass: I am not physically alive, but I grow; I don’t have lungs, but I need air; I don’t have a mouth, but I can drown. What am I?"
 
 **Answer**: The answer to the riddle is "fire."
 

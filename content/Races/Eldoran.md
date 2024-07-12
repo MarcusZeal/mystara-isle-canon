@@ -39,19 +39,13 @@ The Eldorans worshipped a pantheon of deities representing the natural elements 
 
 #### The Cataclysm and Downfall
 
-The Eldorans' pursuit of knowledge led them to uncover an ancient prophecy foretelling a great cataclysm. In a desperate attempt to prevent this disaster, they performed a powerful and forbidden ritual. Unfortunately, the ritual backfired, causing the very catastrophe they sought to avert.
-
-##### Key Events:
-
-- **The Forbidden Ritual**: The ritual aimed to harness the raw power of the elements to create a protective barrier around Mystara Isle. However, the ritual destabilized the elemental balance, leading to catastrophic natural disasters and the collapse of their civilization.
-- **Transformation and Curse**: Many Eldorans were transformed into ageless beings, cursed with immortality and twisted by their failed magic. Vyrra, the Mistress of Shadows, is one such tragic figure, driven to dark extremes in her quest to prevent further catastrophe.
-- **Legacy and Ruins**: The ruins of Eldoran cities, scattered across Mystara Isle, hold remnants of their advanced technology and magical artifacts. These sites are often guarded by corrupted spirits and ancient constructs, remnants of the Eldorans' once-great civilization.
+Little is known about what caused the cataclysm or what wiped out the Eldorans. Most believe an unfortunate natural disaster wiped them out. 
 
 #### Modern-Day Perception
 
-Today, the Eldorans are remembered with a mixture of awe and sorrow. Their contributions to magic and knowledge are revered, but their downfall serves as a cautionary tale about the dangers of hubris and unchecked ambition.
+Today, the Eldorans are remembered with a mixture of awe and sorrow.  
 
-Adventurers and scholars seek out Eldoran ruins to uncover their lost secrets and powerful artifacts, hoping to learn from their wisdom and avoid their tragic fate.
+Adventurers and scholars seek out Eldoran ruins to uncover their lost secrets and powerful artifacts, hoping to learn from their wisdom. 
 
 ### Key Characteristics of Eldorans
 
