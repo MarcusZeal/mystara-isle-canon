@@ -13,9 +13,9 @@ Eldoria Forest, often called the Enchanted Forest, lies to the south of North Lo
 
 When speaking with travelers, the following zones jump out to you.
 
-- **[[02. Enchanted Glade]]**: A serene clearing bathed in a perpetual, otherworldly light. Once a place of peace and beauty, the glade is now home to a variety of creatures including wolves, spiders, elk, and goblins. The forest's tranquility has been disturbed, and signs of unrest are evident as goblins and other threats emerge.
+- **[[Enchanted Glade]]**: A serene clearing bathed in a perpetual, otherworldly light. Once a place of peace and beauty, the glade is now home to a variety of creatures including wolves, spiders, elk, and goblins. The forest's tranquility has been disturbed, and signs of unrest are evident as goblins and other threats emerge.
 
-- **[[03. Whispering Glade]]:** A tranquil, secluded glade where the wind seems to carry voices
+- **[[Whispering Glade]]:** A tranquil, secluded glade where the wind seems to carry voices
   from the past. The whispers are said to be the voices of ancient spirits, offering guidance or warnings to those who listen. It’s a place of reflection and mystery, where the forest’s magic is palpable.
 
 - **[[Bear Wood]]**: A dense area of the forest known for its population of large, imposing bears. The thick underbrush and towering trees create a labyrinthine landscape where only the bravest or most foolhardy dare to venture. Bear Wood is a place of raw, untamed nature, where danger lurks behind every tree.
@@ -24,7 +24,7 @@ When speaking with travelers, the following zones jump out to you.
 
 - **[[06. Dawnham Passage]]**: A narrow, winding path that leads travelers through the heart of the forest towards Dawnham. The passage is flanked by ancient trees whose branches form a natural archway overhead. It’s a route filled with both beauty and peril, as the forest’s enchantments can easily lead the unwary astray.
 
-- **[[07. Eboncrest Hollow]]**: A secluded hollow named for the dark, twisted trees that grow here. The hollow is shrouded in perpetual twilight, creating an eerie atmosphere. It is said that the hollow is a place where the veil between worlds is thin, and strange, otherworldly occurrences are common.
+- **[[Eboncrest Hollow]]**: A secluded hollow named for the dark, twisted trees that grow here. The hollow is shrouded in perpetual twilight, creating an eerie atmosphere. It is said that the hollow is a place where the veil between worlds is thin, and strange, otherworldly occurrences are common.
 
 #### Life in Eldoria Forest
 

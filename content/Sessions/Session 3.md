@@ -1,7 +1,7 @@
 ---
-title: Session 2
+title: Session 3
 draft: true
-order: 2
+order: 3
 ---
 
 ### Scene 1: Entering the Ruins
@@ -286,5 +286,4 @@ Once the players understand the purpose of the circle, guide them towards decidi
 
 As the players leave the final chamber, they carry with them the weight of the Mistress's words and the urgency of their mission. The path ahead is fraught with danger, but they now have a clearer understanding of the threat they face and the steps they must take to protect North Lodge and the world of Eldrath from the Mistress's dark ambitions.
 
-Encourage the players to make their way back to North Lodge or another safe location to regroup, plan their next move, and prepare for the challenges that lie ahead.
 

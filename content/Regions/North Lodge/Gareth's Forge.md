@@ -7,8 +7,9 @@ tags:
   - Forge
   - Smith
 order: 3
-zoneMap: "[[gareths-forge.png]]"
+zoneMap: "[[BLacksmithFloor1B.png]]"
 ---
+
 **Overview:** Gareth's Forge is the blacksmith shop of [[North Lodge]], where [[Gareth the Blacksmith]] crafts tools, weapons, and other metal goods. Known for his exceptional craftsmanship, Gareth is an essential part of the village, providing sturdy and reliable products for everyday use and defense.
 
 **Description:**
