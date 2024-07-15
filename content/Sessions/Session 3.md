@@ -489,13 +489,13 @@ As night falls, the anticipation of the attack grows. The villagers huddle behin
 
 1. Players reward for this quest. 
 	1. Everyone Levels Up. You are now all **level 4.** 
-	2. Everyone receives 50 gold pieces. 
-	3. The party receives letter of gratitude from major villagers.
+	2. Everyone receives **50 gold pieces.** 
+	3. The party receives **letter of gratitude** from major villagers.
 		1. from [[Lila the Herbalist]]. Her sister in [[Eboncrest]] would be delighted to see this.
 		2. from [[Darius the Retired Soldier]]. His old command in [[Ironheart]] would be delighted to see this. 
 		3. from [[Miri the Carpenter]]. Her brother in [[Dawnham]] would be delighted to see this. 
 		4. from [[Gareth the Blacksmith]]. His old friend in [[Copper Hill]] would love to see this. 
-2. Do a shopping montage? (Can happen between sessions)
+2. Do a **shopping montage?** (Can happen between sessions)
 3. Plan on where to go next.
 	1. [[Eboncrest]] (And maybe eventually [[Ironheart]]) or 
 	2. [[Dawnham]] or
