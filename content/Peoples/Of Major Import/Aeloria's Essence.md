@@ -1,6 +1,6 @@
 ---
 title: Aeloria's Essence
-draft: true
+draft: false
 tags:
   - Person
   - Item
