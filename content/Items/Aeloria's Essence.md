@@ -82,4 +82,3 @@ While Aeloria is generally supportive, she is deeply mistrustful of those who pu
 
 ---
 
-Aeloria's Essence serves as both a powerful magic item and a key narrative device, guiding the players and providing them with the tools and knowledge they need to confront the Mistress and uncover the deeper mysteries of their world.
