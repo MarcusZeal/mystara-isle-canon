@@ -14,5 +14,4 @@ tags:
 **Mechanics**:
 - **Invisibility**: The powder can be used to make a Medium or smaller creature or an object of similar size invisible. The invisibility lasts until the target moves.
 - **Movement Breaks Invisibility**: Any movement by the invisible target, including breathing heavily or twitching, will immediately break the invisibility effect.
-- **Limited Charges**: The pouch has 3 charges. Each use of the powder expends one charge.
 - **Recharge**: The pouch regains 1d4 expended charges daily at dawn. To recharge the pouch, it must be placed under the light of the moon for at least 1 hour.
