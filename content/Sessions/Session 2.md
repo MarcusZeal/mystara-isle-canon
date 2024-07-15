@@ -5,7 +5,9 @@ order: 1
 ---
 ### Narrative Recap
 
-The adventure began in the quaint village of [[North Lodge]], a place where the simple rhythms of daily life are rarely disturbed. Yet, recently, the village has been plagued by strange and unsettling goblin attacks, disrupting the peace. The local alchemist, [[Lila the Herbalist]], suspecting that not all goblins are responsible for the violence, persuaded you to investigate further rather than resort to immediate violence against the [[Goblins]].
+The adventure began in the quaint village of [[North Lodge]], a place where the simple rhythms of daily life are rarely disturbed. Yet, recently, the village has been plagued by strange and unsettling goblin attacks, disrupting the peace. 
+
+The local alchemist, [[Lila the Herbalist]], suspecting that not all goblins are responsible for the violence, persuaded you to investigate further rather than resort to immediate violence against the [[Goblins]].
 
 Your journey took you into the Enchanted Glade, a mystical part of Eldoria Forest where reality and fantasy blur. Here, you encountered various wildlife, some friendly - others not so much; before finding some scout goblins.
 
@@ -28,9 +30,13 @@ You aim to uncover the truth behind the recent attacks and learn more about the 
 Make a perception check. 
 
 DC 10: 
-Success: You get the impression that this is a very, very large cave. Deep and sprawling. Full of tunnels and goblins. You notice right away that there are patches of luminescent fungi that cast a soft, otherworldly glow. The air is cool and slightly damp - but not unpleasant it carries the mixed scents of earth, smoke, and cooking…. Meat? You can’t be sure what the meat is, but it smells delicious. 
+Success: You get the impression that this is a very, very large cave. Deep and sprawling. Full of tunnels and goblins. You notice right away that there are patches of luminescent fungi that cast a soft, otherworldly glow.
+
+The air is cool and slightly damp - but not unpleasant it carries the mixed scents of earth, smoke, and cooking…. Meat? You can’t be sure what the meat is, but it smells delicious. 
 
 Fail: You get the impression the cave is big. Real big… and something smells…. Good?
+
+
 #### Description of Goblin Activities
 
 “As you walk deeper into the cave you notice goblins going about their daily lives. 

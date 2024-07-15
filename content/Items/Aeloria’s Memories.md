@@ -1,6 +1,6 @@
 ---
 title: Eldoran
-draft: true
+draft: false
 tags:
   - Item
 ---
