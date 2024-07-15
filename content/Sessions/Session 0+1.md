@@ -1,5 +1,5 @@
 ---
-title: Session 0
+title: Session 0 + 1
 draft: false
 order: 0
 ---

@@ -3,106 +3,293 @@ title: Session 3
 draft: true
 order: 3
 ---
-### Scene 1: The Pool of Water
 
+### Scene 1: The Pool of Water
 
 #### Setting the Scene
 
-The rectangular room contains a pool of clear water, with the key glowing faintly at the bottom. The air is cooler here, and the water's surface is perfectly still.
+As you step into the rectangular room, you are greeted by the cool, damp air and the scent of ancient stone and earth. The room stretches before you, dimly illuminated by bioluminescent fungi clinging to the walls and ceiling, casting an eerie glow. Green overgrowth, including vines and moss, creeps along the stone surfaces, adding a touch of nature to the ancient, worn architecture. 
 
-**Key Descriptions**:
-- **Pool of Water**: The pool is rectangular and deep, with the key clearly visible at the bottom.
-- **Eldoran Ghosts**: Three ethereal figures float above the pool, their forms shimmering and translucent.
+In the center of the room lies a clear pool of water, its surface perfectly still and reflecting the soft light. At the far end of the room stands an ancient well, partially obscured by moss and vines. 
 
-#### Encounter with the Ghosts
+Floating above the pool are three ethereal figures, their forms shimmering in the dim light, dressed in ancient Eldoran attire with solemn, wise expressions.
 
-The players must solve the ghosts' riddle or defeat them in combat to retrieve the key.
+#### Potential Questions
 
-**Eldoran Ghosts**:
-- **Appearance**: The ghosts are dressed in ancient Eldoran attire, their expressions solemn and wise.
-- **Riddle**: The ghosts speak in unison, their voices echoing in the chamber: "Answer us this riddle, and you may pass: I am not physically alive, but I grow; I don’t have lungs, but I need air; I don’t have a mouth, but I can drown. What am I?"
+1. **What are the ghosts doing here?**
+   - **Answer**: The ghosts are guardians of this chamber, tasked with protecting the key that lies at the bottom of the pool. They demand that intruders prove their wisdom by solving a riddle [[Session 3#^957214]].
 
-**Answer**: The answer to the riddle is "fire."
+2. **Can we investigate the pool?**
+   - **Perception Check (DC 12)**:
+     - **Pass**: You notice a faint glow at the bottom of the pool, indicating the presence of something valuable or significant.
+     - **Fail**: You see the pool is clear, but you cannot discern any details at the bottom.
 
-#### Solving the Riddle
+3. **What does the well look like?**
+   - **Answer**: The well is ancient and covered in moss and vines. It seems to be the source of the water that fills the pool. The water trickles down its sides, creating a serene, continuous flow.
 
-If the players answer the riddle correctly, the ghosts will nod in approval and provide some background lore on Ignis, the God of Fire.
+4. **Can we interact with the ghosts?**
+   - **Answer**: Yes, the ghosts will speak to you if you address them or approach the pool. They will present you with a riddle to solve in order to proceed.
 
-**Ghosts' Dialogue**:
-- **Correct Answer**: "You have shown wisdom and understanding. The answer is fire, the essence of Ignis, the God of Fire. Ignis, the Eternal Flame, who breathes life into the forge and brings warmth to our world. Take the key and proceed with our blessing."
-
-#### Lore about Ignis
-
-The ghosts will impart knowledge about Ignis, providing valuable lore for the players.
-
-**Lore**:
-- **Ignis, the Eternal Flame**: "Ignis is the embodiment of fire, the force that transforms and purifies. In the ancient times, the Eldorans revered Ignis for the power he bestowed upon their forges and the warmth he brought to their hearths."
-- **Symbol of Creation and Destruction**: "Fire, under Ignis's watch, is a symbol of both creation and destruction. It can forge the strongest steel or reduce entire cities to ash. It is a reminder of the balance of power."
-- **Eldoran Worship**: "In our time, we crafted great works and held grand ceremonies to honor Ignis, seeking his blessing in all our endeavors. The flames of Ignis burned brightly in our hearts and our homes."
-
-#### Combat Option
-
-If the players attack the ghosts or fail to answer the riddle correctly, the ghosts will become hostile and attack.
-
-**Eldoran Ghosts' Abilities**:
-- **Ethereal Grasp**: The ghosts can attempt to grapple players with their ghostly hands, dealing cold damage.
-- **Wail of the Lost**: Once per combat, a ghost can emit a haunting wail, causing players to make a Wisdom saving throw (DC 15) or be frightened for 1 minute.
+5. **Can we read or interpret any markings or runes in the room?**
+   - **Arcana Check (DC 15)**:
+     - **Pass**: You recognize ancient Eldoran symbols that indicate this place was once a site of significant ritual importance, likely tied to the worship of Ignis, the God of Fire.
+     - **Fail**: The symbols are too worn and ancient to decipher clearly.
 
 
+
+#### Ghost Dialogue
+
+**The ghosts speak in unison, their voices echoing with a melodic, rhyming cadence:**
+
+Welcome, travelers from afar,
+We know you come from a distant star.
+To proceed and find your key,
+Answer these riddles correctly.
+
+For the key lies deep below,
+In the waters' gentle flow.
+But first, the riddles must be solved,
+To prove your wisdom has evolved.
+
+Listen well, and you will see,
+The answers that will set you free.
+For in this place of ancient lore,
+The truths of elements are stored.
+
+#### Riddles
+
+^957214
+##### Riddle 1 
+I consume both wood and air,
+A roaring beast with a glowing lair.
+I am feared and revered in lore,
+For I cleanse and destroy, down to the core.
+What am I?
+
+**Answer**: Fire
+
+**Ghosts' Dialogue**: "You have shown wisdom and understanding. The answer is fire, the essence of Ignis, the God of Fire. Ignis, the Eternal Flame, who breathes life into the forge and brings warmth to our world."
+
+##### Riddle 2: 
+
+**Riddle**: 
+I am sought when droughts arise,
+Reflecting moonlight in the skies.
+I carve canyons deep and wide,
+And in my realm, creatures glide.
+What am I?
+
+**Answer**: Water.
+
+**Ghosts' Dialogue**: "You have shown clarity. The answer is water, the essence of Aquara, the Goddess of Water. Aquara, the Life-Giver, who nurtures the land and quenches the thirst of all beings. Take this knowledge and proceed with our blessing."
+
+##### Riddle 3
+
+**Riddle**: 
+I am invisible yet feel my force,
+I dance through trees and change my course.
+I can be gentle or fierce with might,
+Guiding ships and kites in flight.
+What am I?
+
+**Answer**: Wind.
+
+**Ghosts' Dialogue**: "You have shown wisdom. The answer is wind, the essence of Aerion, the God of Air. Aerion, the Unseen Voyager, who carries the breath of life and sweeps the skies. Take this knowledge and proceed with our blessing."
+
+##### Riddle 4
+**Riddle**: 
+I am the ground beneath your feet,
+Where plants and trees find a seat.
+You till and sow to make me yield,
+And harvest crops from my vast field.
+What am I?
+
+**Ghosts' Dialogue**: You have shown understanding. The answer is earth, the essence of Gaeloria, the Goddess of Earth. Gaeloria, the Steadfast Guardian, who shapes the land and shelters life within her embrace.
 
 ---
 
-### Scene 2: The Guardian's Hall
+#### Combat Alternative
+
+(This kills the krab...)
+
+The ghosts appear visibly disappointed in your choice. They begin spinning rapidly around the pool. Within seconds they are spinning so fast you only see a blur of motion before... nothing at all. The wind stops. And standing before you is a beast from your darkest nightmares. A banshee. Roll for initiative.. and may Grumshar be on your side..... 
+
+**Eldoran Ghosts' Abilities**:
+
+https://www.dndbeyond.com/monsters/17089-banshee 
+![[banshee - eldoran-ghosts.png]]
+
+#### Eldoran Ghost Riddle Answered Correctly
+
+The ghosts nod in approval, their ethereal forms shimmering more brightly as they prepare to impart their final words. They speak in unison, their voices harmonizing with a melodic, rhyming cadence:
+
+"Wise travelers, you have proven true,
+In answering riddles, one through two.
+Three and four have brought you here,
+To claim the key and persevere.
+
+By knowing water's gentle flow,
+And fire's warmth and ember's glow,
+The whispering winds of Aerion's might,
+And Gaeloria's earth, solid and right.
+
+You show the wisdom we hold dear,
+The knowledge that our kind revere.
+Take this key, and journey on,
+For now, our task is truly done.
+
+Remember well these ancient names,
+And guard the knowledge that you claim.
+For the path ahead is fraught with strife,
+But you hold the elements of life.
+
+Ignis, Aerion, Gaeloria, and Aquara,
+Guide you through the lands of Eldrath.
+May their blessings light your way,
+And keep the darkness at bay."
+
+With their final words, the ghosts slowly fade away, leaving behind a radiant key that glows with a faint, otherworldly light. The room grows silent once more, and the path forward is now clear.
+
+#### Aeloria's Essense Speaks Up 
+
+"Those 4 always were a bit dramatic... You know they talked like that in life too? Weirdos... The lot of them."
+
+### Scene 2: Returning to the Locked Door
 
 #### Setting the Scene
 
-Beyond the unlocked door, the players find a hallway leading to another room. This final room of the floor has two Eldoran Reanimated Guardians blocking the way forward.
+As you return to the stone slab door with the key-shaped indent, the air seems to hum with anticipation. The ancient runes on the door glow faintly, casting an eerie light on the surrounding walls. The path you traveled to reach this point is now clear in your minds, the trials and riddles of the Eldoran ghosts still fresh in your memory. 
+
+The key you hold in your hand pulses with a soft, steady glow, matching the light of the runes on the door.
+
+#### Potential Questions and Actions
+
+1. **How does the key fit into the door?**
+    
+    - **Answer**: The key fits perfectly into the circular indent in the stone slab. As it slides into place, the runes on the door begin to glow brighter, reacting to the key's presence.
+2. **Is there any immediate danger or traps?**
+    
+    - **Perception Check (DC 14)**:
+        - Success: You sense no immediate danger, but the ancient magic in the air suggests that the door is heavily warded.
+        - Failure: You do not notice any immediate threats, but the sense of ancient power remains palpable.
+3. **What do the runes on the door say?**
+    
+    - **Arcana Check (DC 15)**:
+        - Success: The runes spell out a protective incantation, designed to ward off intruders. They seem to react only to the key, ensuring only those who possess it can pass.
+        - Failure: The runes are indecipherable, but they glow in response to the key's presence.
+
+#### Resolution
+
+As you insert the key into the door, the runes flare with a brilliant light. The stone slab begins to shift and grind, moving aside to reveal a hidden passage beyond. The air that flows through the opening is cooler and carries the faint scent of ancient, undisturbed spaces.
+
+You step through the doorway, finding yourselves in another hallway, this one shorter and lined with more of the intricate Eldoran carvings. The path ahead is clear, leading you to the next challenge in this ancient ruin.
+
+### Scene 3: The Guardian's Hall
+
+#### Setting the Scene
+
+As you move through the newly revealed passage, you enter a hallway that opens into a larger room. This room is dimly lit by glowing crystals embedded in the walls. 
+
+The carvings here are more elaborate, depicting scenes of Eldoran guardians standing vigil over sacred sites.
+
+At the far end of the room, two massive figures stand motionless, their forms clearly reanimated guardians.
 
 **Key Descriptions**:
 
-- **Hallway**: The hallway is short and lined with ancient Eldoran carvings.
-- **Final Room**: The room beyond is larger, with two Reanimated guardians standing vigil.
+- **Hallway**: Short and lined with detailed carvings of Eldoran guardians.
+- **Large Room**: The room is expansive, with glowing crystals providing a faint light. At the far end, two reanimated guardians stand watch.
+
+#### Potential Questions and Actions
+
+1. **Can we identify the guardians?**
+    
+    - **History Check (DC 12)**:
+        - Success: These are Eldoran Reanimated Guardians, often used to protect sacred places. They are formidable opponents, known for their strength and unwavering duty.
+        - Failure: The guardians seem ancient and powerful, but their exact nature remains unclear.
+          
+2. **Are there any traps in the room?**
+    
+    - **Investigation Check (DC 15)**:
+        - Success: You detect no physical traps, but the guardians themselves seem to be the primary defense mechanism.
+        - Failure: You do not notice any traps, but the guardians' presence is foreboding.
+          
+3. **What is the room's significance?**
+    
+    - **Insight Check (DC 10)**:
+        - Success: This room is clearly a final line of defense, meant to protect something of great importance deeper within the ruins.
+        - Failure: The room feels important, but its exact significance is hard to discern.
+          
 
 #### Encounter with the Guardians
 
+The players must defeat the two Eldoran Reanimated Guardians to proceed. Use the Minotaur Skeleton stat block for these guardians.
+
 The players must defeat the guardians to proceed.
 
-These are 2 https://www.dndbeyond.com/monsters/16959-minotaur-skeleton 
+These are 2 Re-Animated Guardians https://www.dndbeyond.com/monsters/16959-minotaur-skeleton 
 
-#### Transition to the Next Part
+![[Re-animated Guardians.png]]
 
-After defeating the guardians, the players proceed to the next floor, where they encounter a vision of the Mistress and a teleportation circle.
+
 
 ---
 
-### Scene 3: The Mistress's Vision
+### Scene 4: The Mistress's Vision
 
 #### Setting the Scene
 
-The players descend to the final floor of the ruins, finding a single large chamber with an ancient altar and a glowing teleportation circle.
+As you descend the final set of stairs, the air grows colder and heavier, charged with a palpable sense of foreboding. The flickering light from the bioluminescent fungi gives way to a steady, eerie glow emanating from an ancient altar in the center of the chamber. 
 
-**Key Descriptions**:
-- **Ancient Altar**: The altar is covered in glowing runes and ancient symbols.
-- **Teleportation Circle**: The circle hums with magical energy, glowing brightly.
+Between the door and the center of the room is a semi-invisible barrier extending from floor to ceiling. It's giving off a faint purple glow... 
+- https://www.dndbeyond.com/spells/2292-wall-of-force 
 
-#### Encounter with the Mistress's Vision
+[[Posidonius, the Quantum Mage]], you immediately recognize this as a Wall of Force, 
 
-As the players approach the altar, they are confronted by a vision of the Mistress.
+The room itself is large, with high ceilings disappearing into darkness, and walls adorned with faded murals depicting the tragic fall of the Eldoran civilization.
 
-**Vision of the Mistress**:
-- **Appearance**: The vision is a ghostly image of the Mistress, radiating malevolent energy.
-- **Dialogue**: Read the epic monologue below....
+Lining the walls are hundreds of stone statues of what you can only assume are Eldoran figures. 
 
-##### Epic monologue for the Mistress:
+In the middle of the room stands a glowing circle, its runes humming with residual magical energy.
+
+The oppressive silence is broken only by the faint hum of the circle, filling you with a sense of dread and anticipation. You can't shake the feeling that you are being watched, and the weight of the Mistress's presence hangs heavily in the air.
 
 
-As you step into the final chamber, the air grows thick with a palpable sense of dread. The dim, flickering light reveals the figure of the Mistress, standing tall and imposing. Her eyes gleam with an ancient wisdom twisted by centuries of dark ambition. Beside her, the withered Eldoran stands, a haunting reminder of the past.
+#### Potential Questions and Actions
 
-"Ah, the brave adventurers," she begins, her voice echoing through the chamber. "You've come far, but did you really think you could stop me? Did you think you could understand the forces at play, the delicate balance I strive to maintain?"
+1. **Can we sense any immediate danger or traps?**
+    
+    - **Perception Check (DC 14)**:
+        - Success: You sense no immediate physical danger, but the room is charged with powerful, lingering magic. The area around the circle and the circle itself are the sources of this energy.
+        - Failure: The room feels oppressive and heavy with magical energy, but you do not notice any specific threats.
+          
+
+
+#### As you begin inspecting the circle, room, or barrier - Or as you simply walk toward the barrier... 
+
+**A figure appears before you.** This woman stands tall and imposing, her presence commanding the attention of all who lay eyes upon her. 
+
+She appears as a stunningly beautiful Eldroan, her dark skin smooth and flawless, radiating an almost ethereal glow. Her long, silver hair cascades down her back in shimmering waves, framing her striking features. Her eyes are a piercing violet, reflecting a depth of ancient wisdom twisted by centuries of dark ambition. Her full lips curl into a knowing smile, hinting at the secrets she harbors.
+
+She is dressed in a long, flowing silk robe that clings to her ample curves, accentuating her voluptuous figure. The robe is adorned with intricate golden embroidery, depicting scenes of ancient Eldoran history and symbols of power. 
+
+The fabric shimmers as she moves, giving her an otherworldly grace. 
+
+Around her neck, she wears a delicate silver necklace with a pendant shaped like a crescent moon, glowing faintly with magical energy.
+
+Her hands, though elegant and slender, are tipped with long, sharp nails that gleam like polished obsidian. 
+
+She moves with a fluid, almost hypnotic grace, each step echoing with an aura of authority and menace. Her presence is both enchanting and terrifying, a perfect blend of beauty and malevolence.
+
+Without a any hesitation, she begins to speak. 
+
+
+#### Epic monologue for the Mistress:
+
+"Ah, the brave travelers," she begins, her voice echoing through the chamber. "You've come far, but did you really think you could stop me? Did you think you could understand the forces at play, the delicate balance I strive to maintain?"
 
 She steps forward, her gaze piercing through each of you.
 
-"You see, I was there when the world of Eldrath Isle was torn apart, when the very fabric of our existence was ripped asunder. I witnessed the folly of the Eldoran, their arrogance and their hubris. And it was I who sought to save what remained, to weave a new future from the ashes of the old."
+"You see, I was there when the **world of Eldrath** Isle was torn apart, when the very fabric of our existence was ripped asunder. I witnessed the folly of the Eldoran, their arrogance and their hubris. And it was I who sought to save what remained, to weave a new future from the ashes of the old."
 
 Her voice grows colder, filled with a steely resolve.
 
@@ -110,7 +297,7 @@ Her voice grows colder, filled with a steely resolve.
 
 She raises a hand, and the room shudders with her power.
 
-"You may call me a monster, but I am the only one who sees the truth. The only one who understands what must be done. The destruction of Balgaran, the doppelgangers, the attacks on your precious North Lodge—all necessary steps in my grand design. A design to save this world, even if it means sacrificing a few."
+"You may call me a monster, but I am the only one who sees the truth. The only one who understands what must be done. The destruction of Balgaran, the doppelganger attacks on your precious North Lodge—all necessary steps in my grand design. A design to save this world, even if it means sacrificing a few."
 
 Her eyes blaze with an unholy light as she reaches the crescendo of her speech.
 
@@ -124,16 +311,16 @@ As the portal engulfs her and her withered Eldoran companions, her voice lingers
 
 "And when the time comes, remember this moment. Remember that you faced the Vyra, [[The Mistress]] of Shadows; and you failed."
 
-With that, she vanishes into the portal, leaving you in the eerie silence of the chamber, the weight of her words heavy upon your hearts.
+With that, she vanishes into the portal, leaving you in the eerie silence of the chamber, the weight of her words still linger in the air. 
 
 
 
+**In an instant**, the statues around the room begin to shift and morph, revealing their true forms as doppelgangers. Their stone-like exteriors crack and fall away, leaving behind the menacing figures of the shapeshifters. 
+
+Without a word, they dash towards the teleportation circle, their movements a blur of speed and agility.
 
 
----
-
-
-### Aftermath in the Final Chamber
+### Scene 5: After The Monologue and Changeling Reveal
 
 As the dark portal closes behind the Mistress and her withered Eldoran companions, an eerie silence settles over the chamber. The oppressive atmosphere lingers, a reminder of the powerful presence that was just here. The players stand amidst the remnants of ancient Eldoran architecture, their minds racing with the implications of what they've just heard and witnessed.
 
@@ -147,13 +334,38 @@ Allow the players a moment to react to the Mistress's departure. They can discus
 - Success: The players notice faint, shimmering runes around the edge of the circle, pulsing with residual magical energy. They can also see the faint footprints and markings indicating recent use.
 - Failure: The players still notice the circle but do not see the runes or recent activity markings.
 
-**Arcana Check (DC 15)**:
-- Success: The players discern that the circle is a teleportation portal, enchanted to allow quick travel between two fixed points. The magic is ancient, likely of Eldoran origin, but has been twisted and repurposed by the Mistress.
-- Failure: The players can tell that the circle is magical but cannot determine its exact purpose or origin.
 
-**Investigation Check (DC 14)**:
-- Success: The players find subtle clues around the circle—scraps of torn notes, faint bloodstains, and symbols—that suggest it is used for covert operations. They find fragments of notes (3 and 4) detailing the Mistress's plans.
-- Failure: The players do not find the fragments but may still deduce the circle's importance through discussion and reasoning.
+1. **What do the murals depict?**
+    
+    - **History Check (DC 15)**:
+        - Success: The murals show the rise and fall of the Eldoran civilization, their achievements, and their ultimate downfall due to their hubris and a catastrophic event. You get the feeling that you'll be able to learn more about their history by speaking with [[Aeloria's Essence]].
+        - Failure: The murals are faded and hard to decipher, but they seem to depict an ancient civilization and a great disaster.
+          
+2. **What is the purpose of the circle?**
+    
+    - **Arcana Check (DC 15)**:
+		- Success: The players discern that the circle is a teleportation portal, enchanted to allow quick travel between two fixed points. The magic is ancient, likely of Eldoran origin, but has been twisted and repurposed by the Mistress.
+		- Failure: The players can tell that the circle is magical but cannot determine its exact purpose or origin.
+	- **History Check (DC 10)**:
+		- Success: Any player with knowledge of ancient Eldoran history recalls tales of teleportation magic used for swift movement across great distances, further confirming the circle's capabilities.
+		- Failure: The players miss the historical context but can still piece together the circle's function through other means.
+
+
+#### Potential Questions and Answers
+
+1. **Player Question**: Can we deactivate or destroy the teleportation circle?
+    
+    - **Arcana Check (DC 15)**: You sense that disrupting the magical runes around the circle will render it inactive.
+    - **Strength Check (DC 12)**: Physical destruction, such as smashing the runes or altar, will also work.
+2. **Player Question**: Are there any clues about where the doppelgangers went?
+    
+    - **Investigation Check (DC 14)**: You find traces of ash and a faint, lingering energy trail that leads towards North Lodge.
+3. **Player Question**: Can we find anything else in the room?
+    
+    - **Perception Check (DC 12)**: Hidden among the debris is a torn note fragment, possibly left behind by one of the doppelgangers, detailing their plans for an imminent attack.
+
+**Note Fragment 9:** "...The final strike must be swift and decisive. The Mistress has decreed that North Lodge will fall tonight. All forces are to converge and eliminate any resistance..."
+
 
 #### Understanding the Circle's Purpose
 
@@ -161,9 +373,6 @@ Allow the players a moment to react to the Mistress's departure. They can discus
 - Success: The players realize that the circle is a crucial tool for the Mistress's minions to launch attacks on North Lodge and other targets without detection.
 - Failure: The players may still understand the circle's purpose through collaborative discussion and reasoning.
 
-**History Check (DC 10)**:
-- Success: Any player with knowledge of ancient Eldoran history recalls tales of teleportation magic used for swift movement across great distances, further confirming the circle's capabilities.
-- Failure: The players miss the historical context but can still piece together the circle's function through other means.
 
 #### Next Steps and Planning
 
@@ -176,17 +385,115 @@ Once the players understand the purpose of the circle, guide them towards decidi
 - **Physical Destruction**: Attempting to physically destroy the circle or its components, though this may require considerable effort and risk.
 - **Seeking Allies**: Returning to North Lodge or another friendly settlement to gather support and resources to counteract the circle's influence.
 
-### Scene 4 : Returning to North Lodge
 
-1. Back at the Inn. 
-2. The doppledangers’s last attack on the city
-3. Players reward for this quest. 
-4. Do a shopping montage?
-5. Plan on where to go next.
+### Scene 6: Transition: Return to Grukthar Hollow or North Lodge
+
+As you make your way out of the ruins, the weight of the impending threat looms over you. 
+
+Dusk is upon you. The night will be here soon. If you hurry, you could make it to North Lodge in time to warn and help in the defense. Or you could return to the [[Grukthar Hollow]] and ask for aid. Either way, the forest is eerily quiet, the path back is filled with an oppressive tension. 
+
+The sky darkens, and the air feels heavy with anticipation.
+
+**Everyone Roll an Insight Check** 
+(DC 10)
+
+**North Lodge will be attacked in about 1 hour.** 
+- It would take you some time to walk back to [[Grukthar Hollow]], and if you're able to convince [[Grubnar Skull-Crusher]] to help, some more time to walk back to the village. You get the feeling you would be able to get back to North Lodge in time, but just barely... 
+- If you left for North Lodge right now, avoiding Grukthar Hollow entirely, you would get back to North Lodge with enough time to hopefully convince [[Darius the Retired Soldier]] and [[Gareth the Blacksmith]] and [[Miri the Carpenter]] to gather the troops and fortify where you can before the Changelings, disguised as Goblins, attack in full force. 
+
+(DC 20)
+- **Or you could split up.** Sending some back to [[Grukthar Hollow]] and some to [[North Lodge]]. 
+
+### Scene 7a: If Returning to Grukthar Hollow 
+
+You arrive back at Grukthar Hollow, the goblin settlement buzzing with activity. Goblins scurry about, preparing for something unknown to them. Grubnar stands at the center, overseeing the preparations.
+
+#### Scene: Return to Grukthar Hollow
+
+As you make your way out of the ruins and back into the forest, the weight of the impending threat looms over you. The forest is eerily quiet, and the path back to Grukthar Hollow is filled with an oppressive tension. You move swiftly, knowing that time is of the essence.
+
+As you arrive back at Grukthar Hollow, the goblin settlement is buzzing with activity. Goblins scurry about, preparing for something unknown to them. Grubnar stands at the center, overseeing the preparations.
+
+Grukthar Hollow will help with a persuasion check success. You are asking [[Grubnar Skull-Crusher]] to put the lives of his Goblins in danger. 
+DC 30 - if the ask without explaining the situation. 
+DC 20 - Explain situation with Changelings and Mistress. 
+DC 15 - Remind him of his friend [[Lila the Herbalist]].
+
+**Success**: The help:
+- 5 Goblin Archers
+- Grubar himself 
+
+**Fail**: The help:
+- 1 Goblin Archer, the Goblin that agreed to let them into the Cave. 
+
+**Grubnar Dialogue:** "Krag, I need you to stay here and protect our home. If I don't make it back, you will be Chieftan. May Grumshar guide your hand."
+
+### Scene 7b: If Returning to North Lodge: 
+
+
+As you approach North Lodge, the village is abuzz with activity. Villagers are going about their daily routines, unaware of the impending danger. The cozy cottages and bustling market stalls contrast starkly with the urgency of your mission. 
+
+The day is winding down to a close. You see stalls starting to close and can hear mothers calling their children back inside for dinner and bed. 
+
+You see the lights on in the inn and expect that at this time you would likely find Gareth and Miri, Lila and Darius, and maybe even Elder Thalia at the inn again. 
+
+The villagers will help you prepare if you pass a persuasion check. 
+DC 30 - You tell them they need to prepare, but give no further information
+DC 18 - You explain the situation with Changelings and Mistress. 
+DC 10 - You explain just how many changelings there are and tell them that Lila was right - the Goblins are not at fault. 
+
+**Success**: The help:
+- 5 Additional North Lodge Guards
+- Darius himself 
+
+**Fail**: 
+- No additional help. 
+
+---
+
+### Scene 8: The Final Defense
+
+As night falls, the anticipation of the attack grows. The villagers huddle behind their defenses, weapons at the ready. The flicker of torchlight in the distance signals the approach of the changeling forces.
+
+#### Potential Questions and Answers
+
+1. **Player Question**: Can we scout the enemy’s position?    
+    - **Stealth Check (DC 14)**: Send a scout to gather information on the enemy’s movements and numbers.
+      
+2. **Player Question**: Are there any final preparations we can make?    
+    - **Perception Check (DC 12)**: Ensure all defenses are secure and no weak points are left unchecked.
+      
+3. **Player Question**: Can we set up a signal for retreat or regrouping?    
+    - **Intelligence Check (DC 10)**: Establish a signal for regrouping or retreat if necessary.
+      
+
+
+**"We've done our best. Let's hope it's enough."**
+
+### Begin the North Lodge Final Defense Encounter 
+
+1. I will spawn 5 Changelings (Zombies) at a time from the forest.
+	1. They will attack the nearest enemy (unless someone is wearing [[Aeloria's Essence]]). 
+	2. These changelings **will move very slowly.** Movement speed of 15 feet. 
+2. After 3 rounds, I will spawn 4 more. 
+3. I will do this for 5 cycles, totaling 25 changelings (Zombies). 
+
+(If it looks too spooky, stop spawning zombies... I'm not trying to actually wipe the party here...)
+
+![[Pasted image 20240715124842.png]]
+
+
+
+
+### Aftermath / What's next?
+
+1. Players reward for this quest. 
+2. Do a shopping montage? (Can happen between sessions)
+3. Plan on where to go next.
 	1. [[Eboncrest]] or 
 	2. [[Dawnham]] or 
 	3. [[Copper Hill]]
-6. Begin traveling down that way. 
+4. Begin traveling down that way. 
 	1. [[Enchanted Glade]]
 	2. [[Bear Wood]]
 	3. [[Whispering Glade]]
