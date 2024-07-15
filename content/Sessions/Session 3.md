@@ -3,113 +3,7 @@ title: Session 3
 draft: true
 order: 3
 ---
-
-### Scene 1: Entering the Ruins
-
-#### Setting the Scene
-
-As the players enter the Hidden Ruins, they find themselves in a long hallway with ancient stone walls covered in moss and faint, glowing runes. At the end of the hallway, a set of stairs leads downward into the darkness.
-
-**Key Descriptions**:
-- **Long Hallway**: The hallway is lined with crumbling pillars and faintly glowing runes, casting eerie shadows on the walls.
-- **Atmosphere**: The air is cool and damp, carrying the scent of age and decay.
-
-Arcana Check DC 15
-Pass: You get the impression that these ruins are filled with latent energy. 
-Pass: Must have just been the glowing mushrooms. 
-
----
-
-### Scene 2: The Pillared Hall
-
-#### Setting the Scene
-
-As you walk down the stairs, you notice a large room with many large stone pillars lining either side. The pillars are adorned with intricate carving depicting scenes of an ancient civilization. 
-
-History Check DC 12
-Pass: You can tell that the civilization is the Eldoran. Your memory of earth can’t help but notice that this race reminds you a lot of elves. They look like elves, but their civilization was a lot more advanced. More like high elves from an old MMO you use to play. 
-
-Fail: You think maybe these are… uhh… elves?
-
-At the bottom of the stairs, the players enter a large room with massive stone pillars lining either side. The pillars are adorned with intricate carvings depicting scenes of ancient Eldoran life.
-
-**Key Descriptions**:
-
-- **Pillars**: Each pillar is carved with detailed scenes from Eldoran history, showing their culture and achievements.
-- **Large Room**: The room is vast, with a high ceiling that echoes the players' footsteps.
-
-#### Points of Interest
-
-- **To the Right**: An open door leads to a set of stairs descending further into the ruins.
-- **To the Left**: A closed stone slab within a doorframe, covered in magical runes that glow faintly.
-
-**Runes on the Door**:
-
-- **Inscription**: "To proceed beyond this frame, a key you must obtain. Seek the pool where spirits dwell, and retrieve what lies inside the well."
-
-#### Investigation
-
-If the players inspect the door, they notice a circular indent in the stone slab, indicating a key is required to open it.
-
-#### Interactions and Clues
-
-- **Eldoran Carvings**: The carvings on the pillars depict various aspects of Eldoran life, including their reverence for nature, their architectural achievements, and their downfall. Players who inspect the carvings closely can make a History check (DC 15) to gain insights into the Eldorans' history and the possible cause of their civilization's collapse.
-
-- **Goblin Tracks**: The players notice goblin tracks leading to the open door on the right. A successful Survival check (DC 12) reveals that these tracks are recent.
-
-- **Shapeshifter Tracks**: Mixed with the goblin tracks are odd, misshapen tracks that seem inconsistent. A successful Perception check (DC 14) suggests these could be the tracks of shapeshifters. Changelings.
-
-
-
----
-
-### Scene 3: The Long Hallway
-
-#### Setting the Scene
-
-The players choose to travel down the long hallway to the right of the large room. The hallway is narrow and dark, with only the faint glow of luminescent fungi to light their way.
-
-**Key Descriptions**:
-- **Narrow Hallway**: The walls are close, with strange markings and occasional carvings of Eldoran symbols.
-- **Dim Light**: The only illumination comes from patches of luminescent fungi growing in the cracks of the stone walls.
-
-#### Transition to the Next Part
-
-At the end of the hallway, the room opens up into a circular chamber.
-
----
-
-### Scene 4: The Circular Room
-
-#### Setting the Scene
-
-The players enter a circular room with a drainage system at its center. The air here is damp and smells of stagnant water. 
-
-##### Perception Check DC 12
-Pass: You see a feint glow in the sewer
-Fail: Nothing of notice. 
-
-As they approach the drainage system, a rat scurries out, startling them.
-
-**Key Descriptions**:
-- **Circular Room**: The room is round, with a drainage grate near the center.
-- **Drainage System**: The grate is old and rusted, with water slowly trickling through it.
-
-#### Investigation
-
-If the players investigate the drainage system, they discover a hidden apparatus that opens a concealed door to the north.
-
-##### Investigation Check - DC 15
-
-**Secret Door**:
-- **Hidden Apparatus**: A cleverly disguised lever or button hidden in the drainage system activates the door.
-- **Concealed Door**: The door opens with a low rumble, revealing a hidden passage leading north.
-
-To the south, the players find a rectangular room with a pool of water. The pool is clear, with the faint glow of the key visible at the bottom.
-
----
-
-### Scene 5: The Pool of Water
+### Scene 1: The Pool of Water
 
 
 #### Setting the Scene
@@ -158,7 +52,7 @@ If the players attack the ghosts or fail to answer the riddle correctly, the gho
 
 ---
 
-### Scene 6: The Guardian's Hall
+### Scene 2: The Guardian's Hall
 
 #### Setting the Scene
 
@@ -181,7 +75,7 @@ After defeating the guardians, the players proceed to the next floor, where they
 
 ---
 
-### Scene 7: The Mistress's Vision
+### Scene 3: The Mistress's Vision
 
 #### Setting the Scene
 
@@ -282,8 +176,20 @@ Once the players understand the purpose of the circle, guide them towards decidi
 - **Physical Destruction**: Attempting to physically destroy the circle or its components, though this may require considerable effort and risk.
 - **Seeking Allies**: Returning to North Lodge or another friendly settlement to gather support and resources to counteract the circle's influence.
 
-#### Conclusion
+### Scene 4 : Returning to North Lodge
 
-As the players leave the final chamber, they carry with them the weight of the Mistress's words and the urgency of their mission. The path ahead is fraught with danger, but they now have a clearer understanding of the threat they face and the steps they must take to protect North Lodge and the world of Eldrath from the Mistress's dark ambitions.
-
-
+1. Back at the Inn. 
+2. The doppledangers’s last attack on the city
+3. Players reward for this quest. 
+4. Do a shopping montage?
+5. Plan on where to go next.
+	1. [[Eboncrest]] or 
+	2. [[Dawnham]] or 
+	3. [[Copper Hill]]
+6. Begin traveling down that way. 
+	1. [[Enchanted Glade]]
+	2. [[Bear Wood]]
+	3. [[Whispering Glade]]
+	4. [[Copper Rise]], [[Eboncrest Hollow]], or [[Dawnham Passage]]
+	5. The map where they fight the owlbear.
+	6. The city or village they planned on heading to.

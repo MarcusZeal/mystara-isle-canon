@@ -1,6 +1,6 @@
 ---
 title: Krag Rock-Biter
-draft: true
+draft: false
 tags:
   - Person
   - Goblin

@@ -1,6 +1,6 @@
 ---
 title: Session 1
-draft: true
+draft: false
 order: 1
 ---
 ### Narrative Recap
@@ -373,7 +373,7 @@ The players are now tasked with uncovering the mystery behind the disturbances a
 
 
 
-### Scene 6: Ambush in Bear Wood
+### Scene 7: Ambush in Bear Wood
 
 
 #### Setting the Scene
@@ -475,3 +475,123 @@ After defeating these body changers, they receive:
 ##### Torn Note Fragment 8
 
 "... remember to stay out of the forge... last weeks accident cannot happen again... "
+
+
+
+
+### Scene 8 Squaks Confrontation 
+
+[[Posidonius, the Quantum Mage]], tired of [[Thistle the Kenku]]'s shenanigans began aggressively questioning Thistle after Thistle seemingly attacked him and [[Luke (Garos)]] unprovoked. 
+
+After a long back and forth, they learn that Thistle is cursed and cannot speak. He can speak telepathically through his daggers though. Thistle was trying to speak to them each telepathically, but it looks aggressive. 
+
+They left that heated conversation knowing more about each other. 
+
+[[Luke (Garos)]] pointed out that the Barghests said that "you're not even from this world!" before attacking. Noticing that perhaps the antagonist knows that they are from Earth. It is here when the party revealed to one another that they were all from Earth. 
+
+### Scene 9: Entering the Ruins
+
+#### Setting the Scene
+
+As the players enter the Hidden Ruins, they find themselves in a long hallway with ancient stone walls covered in moss and faint, glowing runes. At the end of the hallway, a set of stairs leads downward into the darkness.
+
+**Key Descriptions**:
+- **Long Hallway**: The hallway is lined with crumbling pillars and faintly glowing runes, casting eerie shadows on the walls.
+- **Atmosphere**: The air is cool and damp, carrying the scent of age and decay.
+
+Arcana Check DC 15
+Pass: You get the impression that these ruins are filled with latent energy. 
+Pass: Must have just been the glowing mushrooms. 
+
+---
+
+### Scene 10: The Pillared Hall
+
+#### Setting the Scene
+
+As you walk down the stairs, you notice a large room with many large stone pillars lining either side. The pillars are adorned with intricate carving depicting scenes of an ancient civilization. 
+
+History Check DC 12
+Pass: You can tell that the civilization is the Eldoran. Your memory of earth can’t help but notice that this race reminds you a lot of elves. They look like elves, but their civilization was a lot more advanced. More like high elves from an old MMO you use to play. 
+
+Fail: You think maybe these are… uhh… elves?
+
+At the bottom of the stairs, the players enter a large room with massive stone pillars lining either side. The pillars are adorned with intricate carvings depicting scenes of ancient Eldoran life.
+
+**Key Descriptions**:
+
+- **Pillars**: Each pillar is carved with detailed scenes from Eldoran history, showing their culture and achievements.
+- **Large Room**: The room is vast, with a high ceiling that echoes the players' footsteps.
+
+#### Points of Interest
+
+- **To the Right**: An open door leads to a set of stairs descending further into the ruins.
+- **To the Left**: A closed stone slab within a doorframe, covered in magical runes that glow faintly.
+
+**Runes on the Door**:
+
+- **Inscription**: "To proceed beyond this frame, a key you must obtain. Seek the pool where spirits dwell, and retrieve what lies inside the well."
+
+#### Investigation
+
+If the players inspect the door, they notice a circular indent in the stone slab, indicating a key is required to open it.
+
+#### Interactions and Clues
+
+- **Eldoran Carvings**: The carvings on the pillars depict various aspects of Eldoran life, including their reverence for nature, their architectural achievements, and their downfall. Players who inspect the carvings closely can make a History check (DC 15) to gain insights into the Eldorans' history and the possible cause of their civilization's collapse.
+
+
+- **Shapeshifter Tracks**: Mixed with the goblin tracks are odd, misshapen tracks that seem inconsistent. A successful Perception check (DC 14) suggests these could be the tracks of shapeshifters. Changelings.
+
+
+
+---
+
+### Scene 11: The Long Hallway
+
+#### Setting the Scene
+
+The players choose to travel down the long hallway to the right of the large room. The hallway is narrow and dark, with only the faint glow of luminescent fungi to light their way.
+
+**Key Descriptions**:
+- **Narrow Hallway**: The walls are close, with strange markings and occasional carvings of Eldoran symbols.
+- **Dim Light**: The only illumination comes from patches of luminescent fungi growing in the cracks of the stone walls.
+
+#### Transition to the Next Part
+
+At the end of the hallway, the room opens up into a circular chamber.
+
+---
+
+### Scene 12: The Circular Room
+
+#### Setting the Scene
+
+The players enter a circular room with a drainage system at its center. The air here is damp and smells of stagnant water. 
+
+##### Perception Check DC 12
+Pass: You see a feint glow in the sewer
+Fail: Nothing of notice. 
+
+As they approach the drainage system, a rat scurries out, startling them.
+
+**Key Descriptions**:
+- **Circular Room**: The room is round, with a drainage grate near the center.
+- **Drainage System**: The grate is old and rusted, with water slowly trickling through it.
+
+#### Investigation
+
+If the players investigate the drainage system, they discover a hidden apparatus that opens a concealed door to the north.
+
+##### Investigation Check - DC 15
+
+**Secret Door**:
+- **Hidden Apparatus**: A cleverly disguised lever or button hidden in the drainage system activates the door.
+- **Concealed Door**: The door opens with a low rumble, revealing a hidden passage leading north.
+
+To the south, the players find a rectangular room with a pool of water. The pool is clear, with the faint glow of the key visible at the bottom.
+
+The party finds a particularly talkative frog who reveals this information to them. Using this intel, they gain access to the hidden room where they find [[Aeloria's Essence]].
+
+
+
