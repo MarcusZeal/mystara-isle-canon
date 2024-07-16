@@ -13,7 +13,7 @@ order: 0
 - **Campaign Overview**: Briefly introduce [[Mystara Isle - World Map]] and the main themes of the campaign.
   - Setting: Mystara Isle, a land filled with magic, mystical creatures, and hidden dangers.
   - Starting Point: The village of North Lodge, where the players begin their journey.
-  - Key Locations: [[Eldoria Forest]], [[Dragonspire Mountains]], [[Eboncrest]], [[Dawnham]], [[Copper Hill]], and more.
+  - Key Locations: [[Eldoria Forest]], [[Dragonspire Mountains]], [[Eboncrest]], [[Dawnham]], [[Regions/Copper Hill/Copper Hill]], and more.
 - **Session Frequency**: Weekly
 - **Starting Level**: 3
 

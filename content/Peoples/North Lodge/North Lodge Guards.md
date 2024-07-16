@@ -52,6 +52,94 @@ The guards are equipped with a variety of weapons and armor, most of which are c
 
 - **[[Darius the Retired Soldier]]**: As the trainer and mentor of the guards, Darius plays a crucial role in their development and preparedness. His experience and wisdom are invaluable assets to the team.
 
-### Conclusion
+## Stats
 
-The Guardsmen and Guardswomen of North Lodge are the stalwart defenders of the village, embodying bravery, skill, and a deep sense of duty. Their presence ensures that North Lodge remains a safe and peaceful place for its residents, standing as a testament to the strength and unity of the community.
+
+### Weak Archer Guards
+
+**Class**: Fighter (Archer)  
+**Level**: 2  
+**Race**: Human  
+**Alignment**: Neutral Good  
+
+---
+
+**Armor Class**: 13 (Leather Armor)  
+**Hit Points**: 15 (2d10+4)  
+**Speed**: 30 ft.  
+
+---
+
+#### **Attributes**
+
+- **Strength**: 10 (+0)
+- **Dexterity**: 14 (+2)
+- **Constitution**: 14 (+2)
+- **Intelligence**: 10 (+0)
+- **Wisdom**: 12 (+1)
+- **Charisma**: 10 (+0)
+
+---
+
+#### **Proficiencies & Skills**
+
+- **Saving Throws**: Strength +2, Dexterity +4
+- **Skills**: Perception +3, Stealth +4
+- **Languages**: Common
+
+---
+
+#### **Combat Abilities**
+
+- **Second Wind**: (1/Short Rest) As a bonus action, regain 1d10 + 2 HP.
+- **Action Surge**: (1/Short Rest) Take one additional action on your turn.
+
+---
+
+#### **Weapons & Equipment**
+
+- **Shortbow**: +4 to hit, 1d6+2 piercing damage, range 80/320 ft.
+- **Dagger**: +4 to hit, 1d4+2 piercing damage
+- **Leather Armor**
+- **Adventurer's Pack**
+
+---
+
+#### **Personality Traits**
+
+- **Timid**: These archers are not seasoned warriors and often show hesitation in battle.
+- **Loyal**: Despite their lack of experience, they are loyal to their cause and comrades.
+
+---
+
+#### **Bonds**
+
+- **Village**: They are deeply connected to their village and fight primarily to protect their homes and loved ones.
+
+---
+
+#### **Flaws**
+
+- **Inexperience**: Their lack of combat experience can lead to mistakes and hesitation.
+
+---
+
+### Combat Strats
+
+**General Strategy**: These archers focus on ranged attacks, keeping their distance from enemies and using cover when possible.
+
+#### **Turn 1**:
+1. **Move**: Position themselves in a place with cover or at a safe distance from enemies.
+2. **Action**: Attack with Shortbow
+   - Shortbow: +4 to hit, 1d6+2 piercing damage.
+
+#### **Subsequent Turns**:
+1. **Action**: Attack with Shortbow
+   - Shortbow: +4 to hit, 1d6+2 piercing damage.
+2. **Move**: Maintain distance from enemies, using the environment to avoid direct combat.
+3. **Bonus Action**: Second Wind (if they have taken damage) to regain 1d10+2 HP.
+
+**Tactics**: If enemies close the distance, use Action Surge to either:
+1. **Double Attack**: Make two shortbow attacks in one turn to maximize damage.
+2. **Disengage and Retreat**: Use the extra action to disengage and move further away from the enemy to maintain ranged advantage.
+

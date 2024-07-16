@@ -482,6 +482,84 @@ As night falls, the anticipation of the attack grows. The villagers huddle behin
 
 ![[zombie.png]]
 
+#### Grubnar Stats
+
+[[Grubnar Skull-Crusher]]
+
+**General Strategy**: Grubnar relies on his brute strength, intimidating presence, and regenerative abilities. He should focus on dealing massive damage and sowing fear among enemies.
+
+**Level 5 Path of the Berserker Barbarian.** 
+- Has Frenzy. Has Rage. Has 2H Axe. Does Big, Big Dam.
+
+
+##### Turn 1:
+
+1. **Bonus Action**: Enter Rage to gain resistance to damage and bonus melee damage.
+2. **Action**: Attack with Two-Handed Axe
+    - Two-Handed Axe: +7 to hit, 1d12+7 slashing damage (with Rage bonus).
+
+##### Subsequent Turns:
+
+1. **Bonus Action**: Enter Frenzy (if not already in Frenzy during Rage) to make an additional melee attack as a bonus action each turn.
+2. **Action**: Attack with Two-Handed Axe (Extra Attack: Attack twice)
+    - First Attack: +7 to hit, 1d12+7 slashing damage (with Rage bonus).
+    - Second Attack: +7 to hit, 1d12+7 slashing damage (with Rage bonus).
+3. **Bonus Action**: Frenzied Attack (if in Frenzy)
+    - Attack: +7 to hit, 1d12+7 slashing damage (with Rage bonus).
+
+##### Reaction:
+
+- **Opportunity Attack**: Attack with Two-Handed Axe if an enemy moves out of his reach.
+
+**Notes**: Grubnar should focus on taking down the strongest enemies and maintaining his Rage. Utilize Frenzy to maximize damage output. His intimidating presence and sheer damage potential can disrupt enemy formations and tactics.
+
+
+#### Darius's Stats
+
+**Level 5 Fighter Champion. Has long sword. Can heal himself. Attacks twice. Big crits.** 
+
+[[Darius the Retired Soldier]]
+
+**General Strategy**: Darius uses his disciplined, strategic approach to combat. He focuses on protecting allies, drawing enemy attacks, and dealing consistent damage.
+
+##### Turn 1:
+
+1. **Move**: Position himself between the enemy and his allies, utilizing his shield for defense.
+2. **Action**: Attack with Longsword
+    - Longsword: +7 to hit, 1d8+4 slashing damage.
+3. **Bonus Action**: Second Wind (if he has taken damage already) to regain 1d10+5 HP.
+
+##### Subsequent Turns:
+
+1. **Action**: Attack with Longsword (Extra Attack: Attack twice)
+    - First Attack: +7 to hit, 1d8+4 slashing damage.
+    - Second Attack: +7 to hit, 1d8+4 slashing damage.
+2. **Bonus Action**: Use Action Surge when needed to attack twice more or to take a crucial action (such as moving to a critical position or interacting with an object).
+
+##### Reaction:
+
+- **Opportunity Attack**: Attack with Longsword if an enemy moves out of his reach.
+
+**Notes**: Darius should prioritize protecting weaker allies and positioning himself to control the battlefield. Utilize Action Surge in critical moments to turn the tide of battle.
+
+
+#### Town Guard (Level 2 Fighter) 
+
+**General Strategy**: These archers focus on ranged attacks, keeping their distance from enemies and using cover when possible.
+
+**Action**: Attack with Longbow
+   - **Longbow**: +4 to hit, 1d8+2 piercing damage.
+   - Range: 150/600
+
+
+#### Goblin Archer (Level 2 Fighter) 
+
+**General Strategy**: These archers focus on ranged attacks, keeping their distance from enemies and using cover when possible. Their bows look less impressive to the Town Guards' bows. 
+
+**Action**: Attack with Shortbow
+   - **Shortbow**: +4 to hit, 1d6+2 piercing damage.
+   - Range: 80/320
+
 
 
 
@@ -494,12 +572,12 @@ As night falls, the anticipation of the attack grows. The villagers huddle behin
 		1. from [[Lila the Herbalist]]. Her sister in [[Eboncrest]] would be delighted to see this.
 		2. from [[Darius the Retired Soldier]]. His old command in [[Ironheart]] would be delighted to see this. 
 		3. from [[Miri the Carpenter]]. Her brother in [[Dawnham]] would be delighted to see this. 
-		4. from [[Gareth the Blacksmith]]. His old friend in [[Copper Hill]] would love to see this. 
+		4. from [[Gareth the Blacksmith]]. His old friend in [[Regions/Copper Hill/Copper Hill]] would love to see this. 
 2. Do a **shopping montage?** (Can happen between sessions)
 3. Plan on where to go next.
 	1. [[Eboncrest]] (And maybe eventually [[Ironheart]]) or 
 	2. [[Dawnham]] or
-	4. [[Copper Hill]]
+	4. [[Regions/Copper Hill/Copper Hill]]
 4. Begin traveling down that way. 
 	1. [[Enchanted Glade]]
 	2. [[Bear Wood]]

@@ -1,7 +1,7 @@
 ---
 title: Welcome to Mystara Isle.
 draft: false
-zoneMap: "[[mystara_isle.svg]]"
+zoneMap:
 ---
 
 **Welcome to Mystara Isle.**
@@ -35,7 +35,7 @@ Together, you will forge a new destiny in Mystara Isle. [[#Your Adventure Begins
 - **[[Ironheart]]**: Known for its military prowess, Ironheart is surrounded by the Deep Blue and the Crimson Sands. It is not a city of hospitality or scenic beauty; instead, its sole focus is on creating the strongest warriors in Mystara, both on land and sea.
 - **[[Bluewing]]**: Between Ironheart and Kylastrin lies the village of Bluewing, shrouded in mystery. Little is known about this village, except its name, whispered among travelers.
 - **[[Kylastrin]]**: The city of mages, Kylastrin, is home to those who excel in magical prowess. Located to the east of the Dragonspire Mountains and north of the Crimson Sands, Kylastrin is closed to all but those seeking to deepen their connection to the Weave.
-- **[[Copper Hill]]**: A friendly coastal village known for its hospitality, Copper Hill offers a warm welcome to travelers with its bustling inn and abundant crops. Many prefer its cozy inn over the ones in larger cities when traveling to Dawnham.
+- **[[Regions/Copper Hill/Copper Hill]]**: A friendly coastal village known for its hospitality, Copper Hill offers a warm welcome to travelers with its bustling inn and abundant crops. Many prefer its cozy inn over the ones in larger cities when traveling to Dawnham.
 - **[[Sunfield]]**: Little is known about Sunfield. Rumors suggest that whatever calamity took Balgaran also befell Sunfield, but news travels slowly on Mystara Isle.
 - **[[City of Balgaran]]**: Once a proud and populous city, Balgaran fell to an unknown catastrophe, possibly a plague. In just a few days, the city of 20,000 was decimated. Now, its ruins are haunted by the undead, the only remnants of its former glory.
 - **[[Balgaran Forest]]**: Located on the westernmost coast, Balgaran Forest is home to reclusive druids. Due to its proximity to the fallen city of Balgaran, many suspect the druids of being responsible for the city's mysterious downfall.
@@ -50,3 +50,6 @@ Over centuries, new settlers arrived, drawn by the isle's enchanting beauty and 
 ### Your Adventure Begins
 
 As you arrive in [[North Lodge]], you find the village in a state of quiet unease. Recent goblin raids and strange occurrences in the Enchanted Glade have left the villagers anxious. Each of you, with your unique backgrounds and skills, feels a personal call to action. Whether it's the promise of ancient knowledge, the duty to protect, the allure of adventure, the need to heal, the thrill of exploration, or the drive to create, North Lodge presents the starting point for your journey. The village elders are grateful for any help and offer guidance on where to begin your quests.
+
+
+![[Mystara Isle - World Map]]

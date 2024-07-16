@@ -3,6 +3,7 @@ title: Eboncrest
 draft: false
 tags:
   - City
+  - Eboncrest
 zoneMap: "[[eboncrest.svg]]"
 ---
 

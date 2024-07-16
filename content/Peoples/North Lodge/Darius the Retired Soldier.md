@@ -30,3 +30,116 @@ profile: "[[darius.webp]]"
 - **Scars and Tattoos**: Darius bears several battle scars and has a tattoo of his former military unit's insignia on his upper arm.
 - **Keepsakes**: He keeps a small, locked chest containing mementos from his military days, including medals, letters, and a locket with a portrait of a long-lost love.
 - **Habits**: Darius rises early each morning to train and patrol the village perimeter. He often spends evenings by the village inn's fireplace, sharing war stories with Brom and any interested listeners.
+
+## Stat Sheet:
+
+### Darius the Retired Soldier
+
+**Class**: Fighter (Champion)  
+**Level**: 5  
+**Race**: Human  
+**Alignment**: Lawful Good  
+
+---
+
+**Armor Class**: 18 (Chain Mail + Shield)  
+**Hit Points**: 47 (5d10+15)  
+**Speed**: 30 ft.  
+
+---
+
+#### **Attributes**
+
+- **Strength**: 18 (+4)
+- **Dexterity**: 12 (+1)
+- **Constitution**: 16 (+3)
+- **Intelligence**: 10 (+0)
+- **Wisdom**: 13 (+1)
+- **Charisma**: 11 (+0)
+
+---
+
+#### **Proficiencies & Skills**
+
+- **Saving Throws**: Strength +7, Constitution +6
+- **Skills**: Athletics +7, Intimidation +3, Survival +4, Perception +4
+- **Languages**: Common
+
+---
+
+#### **Combat Abilities**
+
+- **Second Wind**: (1/Short Rest) As a bonus action, regain 1d10 + 5 HP.
+- **Action Surge**: (1/Short Rest) Take one additional action on your turn.
+- **Improved Critical**: Your weapon attacks score a critical hit on a roll of 19 or 20.
+- **Extra Attack**: Attack twice, instead of once, whenever you take the Attack action on your turn.
+
+---
+
+#### **Weapons & Equipment**
+
+- **Longsword**: +7 to hit, 1d8+4 slashing damage
+- **Shield**: +2 to AC
+- **Shortbow**: +4 to hit, 1d6+1 piercing damage
+- **Chain Mail Armor**
+- **Adventurer's Pack**
+- **Healer's Kit**
+
+---
+
+#### **Background Features**
+
+- **Military Rank**: As a former soldier, you have a rank from your military career. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. You can invoke your rank to influence soldiers and temporarily requisition simple equipment or horses. You can also gain access to friendly military encampments and fortresses where your rank is recognized.
+
+---
+
+#### **Personality Traits**
+
+- **Disciplined**: Years of military service have instilled a strong sense of duty and discipline in Darius.
+- **Stoic**: Darius rarely shows his emotions, keeping a calm and collected demeanor.
+- **Protective**: He cares deeply for those under his protection and will go to great lengths to ensure their safety.
+
+---
+
+#### **Bonds**
+
+- **North Lodge**: Darius feels a deep bond with the village of North Lodge and its people, seeing it as his duty to protect them.
+- **Military Mementos**: Keeps a small chest of mementos from his military days, including a locket with a portrait of a long-lost love.
+
+---
+
+#### **Flaws**
+
+- **Haunted by War**: Darius is haunted by memories of the battles he fought and the soldiers he lost.
+- **Overprotective**: His desire to protect can sometimes lead to overbearing behavior.
+
+---
+
+#### **Notable Traits**
+
+- **Scars and Tattoos**: Battle scars and a tattoo of his former military unit's insignia on his upper arm.
+- **Habits**: Early morning training and patrolling, evening storytelling at the village inn.
+
+### Combat Strats
+
+**General Strategy**: Darius uses his disciplined, strategic approach to combat. He focuses on protecting allies, drawing enemy attacks, and dealing consistent damage.
+
+#### **Turn 1**:
+
+1. **Move**: Position himself between the enemy and his allies, utilizing his shield for defense.
+2. **Action**: Attack with Longsword
+    - Longsword: +7 to hit, 1d8+4 slashing damage.
+3. **Bonus Action**: Second Wind (if he has taken damage already) to regain 1d10+5 HP.
+
+#### **Subsequent Turns**:
+
+1. **Action**: Attack with Longsword (Extra Attack: Attack twice)
+    - First Attack: +7 to hit, 1d8+4 slashing damage.
+    - Second Attack: +7 to hit, 1d8+4 slashing damage.
+2. **Bonus Action**: Use Action Surge when needed to attack twice more or to take a crucial action (such as moving to a critical position or interacting with an object).
+
+#### **Reaction**:
+
+- **Opportunity Attack**: Attack with Longsword if an enemy moves out of his reach.
+
+**Notes**: Darius should prioritize protecting weaker allies and positioning himself to control the battlefield. Utilize Action Surge in critical moments to turn the tide of battle.

@@ -29,7 +29,7 @@ Human society on Mystara Isle is diverse, reflecting a wide range of customs, tr
 
 2. **[[Dawnham]]**: Located south of the Enchanted Forest and east of Copper Hill, Dawnham lies atop a peninsula on the coast. It serves as a strategic passage and port town, crucial for trade and travel. South of Dawnham, the land becomes more dangerous with beasts and monsters, further emphasizing the town's role as a safe haven.
 
-3. **[[Copper Hill]]**: A friendly, small coastal village known for its hospitality. Copper Hill offers little aside from the crops they harvest and their bustling inn. Travelers heading to other destinations often prefer to rest here due to the warm welcome and the scenic beauty of the surrounding area.
+3. **[[Regions/Copper Hill/Copper Hill]]**: A friendly, small coastal village known for its hospitality. Copper Hill offers little aside from the crops they harvest and their bustling inn. Travelers heading to other destinations often prefer to rest here due to the warm welcome and the scenic beauty of the surrounding area.
 
 4. **[[Ironheart]]**: Known for its military might, Ironheart is a city focused on creating the strongest warriors in all of Mystara, both on land and sea. Located on the eastern coast and surrounded by the Deep Blue and the Crimson Sands, Ironheart is not known for its hospitality but rather for its disciplined and formidable army.
 
