@@ -9,11 +9,12 @@ zoneMap:
 ---
 #### Setting the Scene
 
-As you step into [[The Silver Anvil]], the clang of metal on metal greets you, accompanied by the warm, inviting glow of forge fires. The air is thick with the scent of molten metal and burning coal, a testament to the relentless work taking place within. Various weapons, armor, and metalworks adorn the walls, each piece showcasing exquisite craftsmanship. The sound of hammers and the rhythmic hiss of quenched steel create a symphony of industry and dedication.
-
-Before you stands a stout and muscular dwarf with a long, braided beard and deep-set, piercing blue eyes. His skin is tanned and weathered from years of working the forge, and he wears a leather apron over his simple, sturdy clothes.
-
-Behind him stands a lithe and agile young dwarf with the same piercing blue eyes and fiery red hair. She's sporting some soot-smudged cheeks and a determined expression. 
+> As you step into [[The Silver Anvil]], the clang of metal on metal greets you, accompanied by the warm, inviting glow of forge fires. The air is thick with the scent of molten metal and burning coal, a testament to the relentless work taking place within. Various weapons, armor, and metalworks adorn the walls, each piece showcasing exquisite craftsmanship. The sound of hammers and the rhythmic hiss of quenched steel create a symphony of industry and dedication.
+> 
+> Before you stands a stout and muscular dwarf with a long, braided beard and deep-set, piercing blue eyes. His skin is tanned and weathered from years of working the forge, and he wears a leather apron over his simple, sturdy clothes.
+> 
+> Behind him stands a lithe and agile young dwarf with the same piercing blue eyes and fiery red hair. She's sporting some soot-smudged cheeks and a determined expression. 
+> 
 
 ---
 

@@ -9,10 +9,10 @@ zoneMap:
 
 #### Setting the Scene
 
-As you step into The Arcane Repository, you are immediately enveloped in an atmosphere of mystique and wonder. Shelves line the walls from floor to ceiling, filled with ancient tomes, scrolls, and a myriad of magical artifacts. The air is filled with a faint, otherworldly glow emanating from various enchanted items. The soft rustle of pages and the occasional spark of arcane energy create an ambiance of deep, scholarly knowledge.
-
-Before you stands a beautiful woman with long, flowing auburn hair and piercing green eyes that seem to see into the very essence of those she meets. She wears elegant, dark robes adorned with subtle, glowing runes.
-
+> As you step into The Arcane Repository, you are immediately enveloped in an atmosphere of mystique and wonder. Shelves line the walls from floor to ceiling, filled with ancient tomes, scrolls, and a myriad of magical artifacts. The air is filled with a faint, otherworldly glow emanating from various enchanted items. The soft rustle of pages and the occasional spark of arcane energy create an ambiance of deep, scholarly knowledge.
+> 
+> Before you stands a beautiful woman with long, flowing auburn hair and piercing green eyes that seem to see into the very essence of those she meets. She wears elegant, dark robes adorned with subtle, glowing runes.
+> 
 
 **Perception Check** : DC 12
 	**Pass**: Sitting on a high shelf is a small owl with shimmering, silvery feathers and bright, intelligent eyes.

@@ -8,11 +8,12 @@ order: 3
 
 #### Setting the Scene
 
-As you step into the rectangular room, you are greeted by the cool, damp air and the scent of ancient stone and earth. The room stretches before you, dimly illuminated by bioluminescent fungi clinging to the walls and ceiling, casting an eerie glow. Green overgrowth, including vines and moss, creeps along the stone surfaces, adding a touch of nature to the ancient, worn architecture. 
-
-In the center of the room lies a clear pool of water, its surface perfectly still and reflecting the soft light. At the far end of the room stands an ancient well, partially obscured by moss and vines. 
-
-Floating above the pool are three ethereal figures, their forms shimmering in the dim light, dressed in ancient Eldoran attire with solemn, wise expressions.
+> As you step into the rectangular room, you are greeted by the cool, damp air and the scent of ancient stone and earth. The room stretches before you, dimly illuminated by bioluminescent fungi clinging to the walls and ceiling, casting an eerie glow. Green overgrowth, including vines and moss, creeps along the stone surfaces, adding a touch of nature to the ancient, worn architecture. 
+> 
+> In the center of the room lies a clear pool of water, its surface perfectly still and reflecting the soft light. At the far end of the room stands an ancient well, partially obscured by moss and vines. 
+> 
+> Floating above the pool are three ethereal figures, their forms shimmering in the dim light, dressed in ancient Eldoran attire with solemn, wise expressions.
+> 
 
 #### Potential Questions
 
@@ -41,70 +42,72 @@ Floating above the pool are three ethereal figures, their forms shimmering in th
 
 **The ghosts speak in unison, their voices echoing with a melodic, rhyming cadence:**
 
-Welcome, travelers from afar,
-We know you come from a distant star.
-To proceed and find your key,
-Answer these riddles correctly.
-
-For the key lies deep below,
-In the waters' gentle flow.
-But first, the riddles must be solved,
-To prove your wisdom has evolved.
-
-Listen well, and you will see,
-The answers that will set you free.
-For in this place of ancient lore,
-The truths of elements are stored.
+> Welcome, travelers from afar,
+> We know you come from a distant star.
+> To proceed and find your key,
+> Answer these riddles correctly.
+> 
+> For the key lies deep below,
+> In the waters' gentle flow.
+> But first, the riddles must be solved,
+> To prove your wisdom has evolved.
+> 
+> Listen well, and you will see,
+> The answers that will set you free.
+> For in this place of ancient lore,
+> The truths of elements are stored.
 
 #### Riddles
 
 ^957214
 ##### Riddle 1 
-I consume both wood and air,
-A roaring beast with a glowing lair.
-I am feared and revered in lore,
-For I cleanse and destroy, down to the core.
-What am I?
+> I consume both wood and air,
+> A roaring beast with a glowing lair.
+> I am feared and revered in lore,
+> For I cleanse and destroy, down to the core.
+> What am I?
 
 **Answer**: Fire
 
-**Ghosts' Dialogue**: "You have shown wisdom and understanding. The answer is fire, the essence of Ignis, the God of Fire. Ignis, the Eternal Flame, who breathes life into the forge and brings warmth to our world."
+> **Ghosts' Dialogue**: "You have shown wisdom and understanding. The answer is fire, the essence of Ignis, the God of Fire. Ignis, the Eternal Flame, who breathes life into the forge and brings warmth to our world."
 
 ##### Riddle 2: 
 
 **Riddle**: 
-I am sought when droughts arise,
-Reflecting moonlight in the skies.
-I carve canyons deep and wide,
-And in my realm, creatures glide.
-What am I?
+> I am sought when droughts arise,
+> Reflecting moonlight in the skies.
+> I carve canyons deep and wide,
+> And in my realm, creatures glide.
+> What am I?
 
 **Answer**: Water.
 
-**Ghosts' Dialogue**: "You have shown clarity. The answer is water, the essence of Aquara, the Goddess of Water. Aquara, the Life-Giver, who nurtures the land and quenches the thirst of all beings. Take this knowledge and proceed with our blessing."
+> **Ghosts' Dialogue**: "You have shown clarity. The answer is water, the essence of Aquara, the Goddess of Water. Aquara, the Life-Giver, who nurtures the land and quenches the thirst of all beings. Take this knowledge and proceed with our blessing."
 
 ##### Riddle 3
 
 **Riddle**: 
-I am invisible yet feel my force,
-I dance through trees and change my course.
-I can be gentle or fierce with might,
-Guiding ships and kites in flight.
-What am I?
+> I am invisible yet feel my force,
+> I dance through trees and change my course.
+> I can be gentle or fierce with might,
+> Guiding ships and kites in flight.
+> What am I?
 
 **Answer**: Wind.
 
-**Ghosts' Dialogue**: "You have shown wisdom. The answer is wind, the essence of Aerion, the God of Air. Aerion, the Unseen Voyager, who carries the breath of life and sweeps the skies. Take this knowledge and proceed with our blessing."
+> **Ghosts' Dialogue**: "You have shown wisdom. The answer is wind, the essence of Aerion, the God of Air. Aerion, the Unseen Voyager, who carries the breath of life and sweeps the skies. Take this knowledge and proceed with our blessing."
 
 ##### Riddle 4
 **Riddle**: 
-I am the ground beneath your feet,
-Where plants and trees find a seat.
-You till and sow to make me yield,
-And harvest crops from my vast field.
-What am I?
+> I am the ground beneath your feet,
+> Where plants and trees find a seat.
+> You till and sow to make me yield,
+> And harvest crops from my vast field.
+> What am I?
 
-**Ghosts' Dialogue**: You have shown understanding. The answer is earth, the essence of Gaeloria, the Goddess of Earth. Gaeloria, the Steadfast Guardian, who shapes the land and shelters life within her embrace.
+**Answer**: Earth.
+
+> **Ghosts' Dialogue**: You have shown understanding. The answer is earth, the essence of Gaeloria, the Goddess of Earth. Gaeloria, the Steadfast Guardian, who shapes the land and shelters life within her embrace.
 
 ---
 
@@ -121,46 +124,47 @@ https://www.dndbeyond.com/monsters/17089-banshee
 
 #### Eldoran Ghost Riddle Answered Correctly
 
-The ghosts nod in approval, their ethereal forms shimmering more brightly as they prepare to impart their final words. They speak in unison, their voices harmonizing with a melodic, rhyming cadence:
+> The ghosts nod in approval, their ethereal forms shimmering more brightly as they prepare to impart their final words. They speak in unison, their voices harmonizing with a melodic, rhyming cadence:
+> 
+> "Wise travelers, you have proven true,
+> In answering riddles, one through two.
+> Three and four have brought you here,
+> To claim the key and persevere.
+> 
+> By knowing water's gentle flow,
+> And fire's warmth and ember's glow,
+> The whispering winds of Aerion's might,
+> And Gaeloria's earth, solid and right.
+> 
+> You show the wisdom we hold dear,
+> The knowledge that our kind revere.
+> Take this key, and journey on,
+> For now, our task is truly done.
+> 
+> Remember well these ancient names,
+> And guard the knowledge that you claim.
+> For the path ahead is fraught with strife,
+> But you hold the elements of life.
+> 
+> Ignis, Aerion, Gaeloria, and Aquara,
+> Guide you through the lands of Eldrath.
+> May their blessings light your way,
+> And keep the darkness at bay."
+> 
+> With their final words, the ghosts slowly fade away, leaving behind a radiant key that glows with a faint, otherworldly light. The room grows silent once more, and the path forward is now clear.
 
-"Wise travelers, you have proven true,
-In answering riddles, one through two.
-Three and four have brought you here,
-To claim the key and persevere.
+#### Aelorian's Essense Speaks Up 
 
-By knowing water's gentle flow,
-And fire's warmth and ember's glow,
-The whispering winds of Aerion's might,
-And Gaeloria's earth, solid and right.
-
-You show the wisdom we hold dear,
-The knowledge that our kind revere.
-Take this key, and journey on,
-For now, our task is truly done.
-
-Remember well these ancient names,
-And guard the knowledge that you claim.
-For the path ahead is fraught with strife,
-But you hold the elements of life.
-
-Ignis, Aerion, Gaeloria, and Aquara,
-Guide you through the lands of Eldrath.
-May their blessings light your way,
-And keep the darkness at bay."
-
-With their final words, the ghosts slowly fade away, leaving behind a radiant key that glows with a faint, otherworldly light. The room grows silent once more, and the path forward is now clear.
-
-#### Aeloria's Essense Speaks Up 
-
-"Those 4 always were a bit dramatic... You know they talked like that in life too? Weirdos... The lot of them."
+> **In Aelorian's voice:** "Those 4 always were a bit dramatic... You know they talked like that in life too? Weirdos... The lot of them."
 
 ### Scene 2: Returning to the Locked Door
 
 #### Setting the Scene
 
-As you return to the stone slab door with the key-shaped indent, the air seems to hum with anticipation. The ancient runes on the door glow faintly, casting an eerie light on the surrounding walls. The path you traveled to reach this point is now clear in your minds, the trials and riddles of the Eldoran ghosts still fresh in your memory. 
-
-The key you hold in your hand pulses with a soft, steady glow, matching the light of the runes on the door.
+> As you return to the stone slab door with the key-shaped indent, the air seems to hum with anticipation. The ancient runes on the door glow faintly, casting an eerie light on the surrounding walls. The path you traveled to reach this point is now clear in your minds, the trials and riddles of the Eldoran ghosts still fresh in your memory. 
+> 
+> The key you hold in your hand pulses with a soft, steady glow, matching the light of the runes on the door.
+> 
 
 #### Potential Questions and Actions
 
@@ -180,19 +184,19 @@ The key you hold in your hand pulses with a soft, steady glow, matching the ligh
 
 #### Resolution
 
-As you insert the key into the door, the runes flare with a brilliant light. The stone slab begins to shift and grind, moving aside to reveal a hidden passage beyond. The air that flows through the opening is cooler and carries the faint scent of ancient, undisturbed spaces.
-
-You step through the doorway, finding yourselves in another hallway, this one shorter and lined with more of the intricate Eldoran carvings. The path ahead is clear, leading you to the next challenge in this ancient ruin.
+> As you insert the key into the door, the runes flare with a brilliant light. The stone slab begins to shift and grind, moving aside to reveal a hidden passage beyond. The air that flows through the opening is cooler and carries the faint scent of ancient, undisturbed spaces.
+> 
+> You step through the doorway, finding yourselves in another hallway, this one shorter and lined with more of the intricate Eldoran carvings. The path ahead is clear, leading you to the next challenge in this ancient ruin.
 
 ### Scene 3: The Guardian's Hall
 
 #### Setting the Scene
 
-As you move through the newly revealed passage, you enter a hallway that opens into a larger room. This room is dimly lit by glowing crystals embedded in the walls. 
-
-The carvings here are more elaborate, depicting scenes of Eldoran guardians standing vigil over sacred sites.
-
-At the far end of the room, two massive figures stand motionless, their forms clearly reanimated guardians.
+> As you move through the newly revealed passage, you enter a hallway that opens into a larger room. This room is dimly lit by glowing crystals embedded in the walls. 
+> 
+> The carvings here are more elaborate, depicting scenes of Eldoran guardians standing vigil over sacred sites.
+> 
+> At the far end of the room, two massive figures stand motionless, their forms clearly reanimated guardians.
 
 **Key Descriptions**:
 
@@ -238,20 +242,21 @@ These are 2 Re-Animated Guardians https://www.dndbeyond.com/monsters/16959-minot
 
 #### Setting the Scene
 
-As you descend the final set of stairs, the air grows colder and heavier, charged with a palpable sense of foreboding. The flickering light from the bioluminescent fungi gives way to a steady, eerie glow emanating from an ancient altar in the center of the chamber. 
-
-Between the door and the center of the room is a semi-invisible barrier extending from floor to ceiling. It's giving off a faint purple glow... 
-- https://www.dndbeyond.com/spells/2292-wall-of-force 
-
-[[Posidonius, the Quantum Mage]], you immediately recognize this as a Wall of Force, 
-
-The room itself is large, with high ceilings disappearing into darkness, and walls adorned with faded murals depicting the tragic fall of the Eldoran civilization.
-
-Lining the walls are hundreds of stone statues of what you can only assume are Eldoran figures. 
-
-In the middle of the room stands a glowing circle, its runes humming with residual magical energy.
-
-The oppressive silence is broken only by the faint hum of the circle, filling you with a sense of dread and anticipation. You can't shake the feeling that you are being watched, and the weight of the Mistress's presence hangs heavily in the air.
+> As you descend the final set of stairs, the air grows colder and heavier, charged with a palpable sense of foreboding. The flickering light from the bioluminescent fungi gives way to a steady, eerie glow emanating from an ancient altar in the center of the chamber. 
+> 
+> Between the door and the center of the room is a semi-invisible barrier extending from floor to ceiling. It's giving off a faint purple glow... 
+> 
+> - https://www.dndbeyond.com/spells/2292-wall-of-force 
+> 
+> [[Posidonius, the Quantum Mage]], you immediately recognize this as a Wall of Force, 
+> 
+> The room itself is large, with high ceilings disappearing into darkness, and walls adorned with faded murals depicting the tragic fall of the Eldoran civilization.
+> 
+> Lining the walls are hundreds of stone statues of what you can only assume are Eldoran figures. 
+> 
+> In the middle of the room stands a glowing circle, its runes humming with residual magical energy.
+> 
+> The oppressive silence is broken only by the faint hum of the circle, filling you with a sense of dread and anticipation. You can't shake the feeling that you are being watched, and the weight of the Mistress's presence hangs heavily in the air.
 
 
 #### Potential Questions and Actions
@@ -266,63 +271,63 @@ The oppressive silence is broken only by the faint hum of the circle, filling yo
 
 #### As you begin inspecting the circle, room, or barrier - Or as you simply walk toward the barrier... 
 
-**A figure appears before you.** This woman stands tall and imposing, her presence commanding the attention of all who lay eyes upon her. 
-
-She appears as a stunningly beautiful Eldroan, her dark skin smooth and flawless, radiating an almost ethereal glow. Her long, silver hair cascades down her back in shimmering waves, framing her striking features. Her eyes are a piercing violet, reflecting a depth of ancient wisdom twisted by centuries of dark ambition. Her full lips curl into a knowing smile, hinting at the secrets she harbors.
-
-She is dressed in a long, flowing silk robe that clings to her ample curves, accentuating her voluptuous figure. The robe is adorned with intricate golden embroidery, depicting scenes of ancient Eldoran history and symbols of power. 
-
-The fabric shimmers as she moves, giving her an otherworldly grace. 
-
-Around her neck, she wears a delicate silver necklace with a pendant shaped like a crescent moon, glowing faintly with magical energy.
-
-Her hands, though elegant and slender, are tipped with long, sharp nails that gleam like polished obsidian. 
-
-She moves with a fluid, almost hypnotic grace, each step echoing with an aura of authority and menace. Her presence is both enchanting and terrifying, a perfect blend of beauty and malevolence.
-
-Without a any hesitation, she begins to speak. 
+> **A figure appears before you.** This woman stands tall and imposing, her presence commanding the attention of all who lay eyes upon her. 
+> 
+> She appears as a stunningly beautiful Eldroan, her dark skin smooth and flawless, radiating an almost ethereal glow. Her long, silver hair cascades down her back in shimmering waves, framing her striking features. Her eyes are a piercing violet, reflecting a depth of ancient wisdom twisted by centuries of dark ambition. Her full lips curl into a knowing smile, hinting at the secrets she harbors.
+> 
+> She is dressed in a long, flowing silk robe that clings to her ample curves, accentuating her voluptuous figure. The robe is adorned with intricate golden embroidery, depicting scenes of ancient Eldoran history and symbols of power. 
+> 
+> The fabric shimmers as she moves, giving her an otherworldly grace. 
+> 
+> Around her neck, she wears a delicate silver necklace with a pendant shaped like a crescent moon, glowing faintly with magical energy.
+> 
+> Her hands, though elegant and slender, are tipped with long, sharp nails that gleam like polished obsidian. 
+> 
+> She moves with a fluid, almost hypnotic grace, each step echoing with an aura of authority and menace. Her presence is both enchanting and terrifying, a perfect blend of beauty and malevolence.
+> 
+> Without a any hesitation, she begins to speak. 
 
 
 #### Epic monologue for the Mistress:
 
-"Ah, the brave travelers," she begins, her voice echoing through the chamber. "You've come far, but did you really think you could stop me? Did you think you could understand the forces at play, the delicate balance I strive to maintain?"
+> "Ah, the brave travelers," she begins, her voice echoing through the chamber. "You've come far, but did you really think you could stop me? Did you think you could understand the forces at play, the delicate balance I strive to maintain?"
+> 
+> She steps forward, her gaze piercing through each of you.
+> 
+> "You see, I was there when the **world of Eldrath** Isle was torn apart, when the very fabric of our existence was ripped asunder. I witnessed the folly of the Eldoran, their arrogance and their hubris. And it was I who sought to save what remained, to weave a new future from the ashes of the old."
+> 
+> Her voice grows colder, filled with a steely resolve.
+> 
+> "But the world is stubborn, resistant to change. The people of Mystara cling to their illusions of peace and stability, blind to the lurking chaos. I have spent centuries manipulating events, guiding destinies, all to prevent the same catastrophe from happening again. And yet, you stand in my way."
+> 
+> She raises a hand, and the room shudders with her power.
+> 
+> "You may call me a monster, but I am the only one who sees the truth. The only one who understands what must be done. The destruction of Balgaran, the doppelganger attacks on your precious North Lodge—all necessary steps in my grand design. A design to save this world, even if it means sacrificing a few."
+> 
+> Her eyes blaze with an unholy light as she reaches the crescendo of her speech.
+> 
+> "You are pawns, unable to grasp the scope of my vision. But mark my words, heroes, you will not stop me. My work is far from done, and I will see it through to the end. And you will help me. Whether you know it or not."
+> 
+> With a dramatic flourish, she raises her arms, and a dark portal begins to form behind her.
+> 
+> "Farewell, Travelers. Continue your futile struggle if you must, but know that you will always be one step behind. The future of Mystara Isle is mine to shape, and I will not be denied."
+> 
+> As the portal engulfs her and her withered Eldoran companions, her voice lingers in the air, a chilling reminder of the darkness you face.
+> 
+> "And when the time comes, remember this moment. Remember that you faced the Vyra, [[The Mistress]] of Shadows; and you failed."
+> 
+> With that, she vanishes into the portal, leaving you in the eerie silence of the chamber, the weight of her words still linger in the air. 
+> 
 
-She steps forward, her gaze piercing through each of you.
 
-"You see, I was there when the **world of Eldrath** Isle was torn apart, when the very fabric of our existence was ripped asunder. I witnessed the folly of the Eldoran, their arrogance and their hubris. And it was I who sought to save what remained, to weave a new future from the ashes of the old."
-
-Her voice grows colder, filled with a steely resolve.
-
-"But the world is stubborn, resistant to change. The people of Mystara cling to their illusions of peace and stability, blind to the lurking chaos. I have spent centuries manipulating events, guiding destinies, all to prevent the same catastrophe from happening again. And yet, you stand in my way."
-
-She raises a hand, and the room shudders with her power.
-
-"You may call me a monster, but I am the only one who sees the truth. The only one who understands what must be done. The destruction of Balgaran, the doppelganger attacks on your precious North Lodge—all necessary steps in my grand design. A design to save this world, even if it means sacrificing a few."
-
-Her eyes blaze with an unholy light as she reaches the crescendo of her speech.
-
-"You are pawns, unable to grasp the scope of my vision. But mark my words, heroes, you will not stop me. My work is far from done, and I will see it through to the end. And you will help me. Whether you know it or not."
-
-With a dramatic flourish, she raises her arms, and a dark portal begins to form behind her.
-
-"Farewell, Travelers. Continue your futile struggle if you must, but know that you will always be one step behind. The future of Mystara Isle is mine to shape, and I will not be denied."
-
-As the portal engulfs her and her withered Eldoran companions, her voice lingers in the air, a chilling reminder of the darkness you face.
-
-"And when the time comes, remember this moment. Remember that you faced the Vyra, [[The Mistress]] of Shadows; and you failed."
-
-With that, she vanishes into the portal, leaving you in the eerie silence of the chamber, the weight of her words still linger in the air. 
-
-
-
-**In an instant**, the statues around the room begin to shift and morph, revealing their true forms as doppelgangers. Their stone-like exteriors crack and fall away, leaving behind the menacing figures of the shapeshifters. 
-
-Without a word, they dash towards the teleportation circle, their movements a blur of speed and agility.
+> **In an instant**, the statues around the room begin to shift and morph, revealing their true forms as doppelgangers. Their stone-like exteriors crack and fall away, leaving behind the menacing figures of the shapeshifters. 
+> 
+> Without a word, they dash towards the teleportation circle, their movements a blur of speed and agility.
 
 
 ### Scene 5: After The Monologue and Changeling Reveal
 
-As the dark portal closes behind the Mistress and her withered Eldoran companions, an eerie silence settles over the chamber. The oppressive atmosphere lingers, a reminder of the powerful presence that was just here. The players stand amidst the remnants of ancient Eldoran architecture, their minds racing with the implications of what they've just heard and witnessed.
+> As the dark portal closes behind the Mistress and her withered Eldoran companions, an eerie silence settles over the chamber. The oppressive atmosphere lingers, a reminder of the powerful presence that was just here. The players stand amidst the remnants of ancient Eldoran architecture, their minds racing with the implications of what they've just heard and witnessed.
 
 #### Immediate Reactions
 
@@ -338,7 +343,7 @@ Allow the players a moment to react to the Mistress's departure. They can discus
 1. **What do the murals depict?**
     
     - **History Check (DC 15)**:
-        - Success: The murals show the rise and fall of the Eldoran civilization, their achievements, and their ultimate downfall due to their hubris and a catastrophic event. You get the feeling that you'll be able to learn more about their history by speaking with [[Aeloria's Essence]].
+        - Success: The murals show the rise and fall of the Eldoran civilization, their achievements, and their ultimate downfall due to their hubris and a catastrophic event. You get the feeling that you'll be able to learn more about their history by speaking with [[Aelorian's Essence]].
         - Failure: The murals are faded and hard to decipher, but they seem to depict an ancient civilization and a great disaster.
           
 2. **What is the purpose of the circle?**
@@ -388,11 +393,11 @@ Once the players understand the purpose of the circle, guide them towards decidi
 
 ### Scene 6: Transition: Return to Grukthar Hollow or North Lodge
 
-As you make your way out of the ruins, the weight of the impending threat looms over you. 
-
-Dusk is upon you. The night will be here soon. If you hurry, you could make it to North Lodge in time to warn and help in the defense. Or you could return to the [[Grukthar Hollow]] and ask for aid. Either way, the forest is eerily quiet, the path back is filled with an oppressive tension. 
-
-The sky darkens, and the air feels heavy with anticipation.
+> As you make your way out of the ruins, the weight of the impending threat looms over you. 
+> 
+> Dusk is upon you. The night will be here soon. If you hurry, you could make it to North Lodge in time to warn and help in the defense. Or you could return to the [[Grukthar Hollow]] and ask for aid. Either way, the forest is eerily quiet, the path back is filled with an oppressive tension. 
+> 
+> The sky darkens, and the air feels heavy with anticipation.
 
 **Everyone Roll an Insight Check** 
 (DC 10)
@@ -406,15 +411,15 @@ The sky darkens, and the air feels heavy with anticipation.
 
 ### Scene 7a: If Returning to Grukthar Hollow 
 
-You arrive back at Grukthar Hollow, the goblin settlement buzzing with activity. Goblins scurry about, preparing for something unknown to them. Grubnar stands at the center, overseeing the preparations.
+> You arrive back at Grukthar Hollow, the goblin settlement buzzing with activity. Goblins scurry about, preparing for something unknown to them. Grubnar stands at the center, overseeing the preparations.
 
 #### Scene: Return to Grukthar Hollow
 
-As you make your way out of the ruins and back into the forest, the weight of the impending threat looms over you. The forest is eerily quiet, and the path back to Grukthar Hollow is filled with an oppressive tension. You move swiftly, knowing that time is of the essence.
+> As you make your way out of the ruins and back into the forest, the weight of the impending threat looms over you. The forest is eerily quiet, and the path back to Grukthar Hollow is filled with an oppressive tension. You move swiftly, knowing that time is of the essence.
+> 
+> As you arrive back at Grukthar Hollow, the goblin settlement is buzzing with activity. Goblins scurry about, preparing for something unknown to them. Grubnar stands at the center, overseeing the preparations.
 
-As you arrive back at Grukthar Hollow, the goblin settlement is buzzing with activity. Goblins scurry about, preparing for something unknown to them. Grubnar stands at the center, overseeing the preparations.
-
-Grukthar Hollow will help with a persuasion check success. You are asking [[Grubnar Skull-Crusher]] to put the lives of his Goblins in danger. 
+**Grukthar Hollow will help with a persuasion check success. You are asking [[Grubnar Skull-Crusher]] to put the lives of his Goblins in danger.** 
 DC 30 - if the ask without explaining the situation. 
 DC 20 - Explain situation with Changelings and Mistress. 
 DC 15 - Remind him of his friend [[Lila the Herbalist]].
@@ -431,13 +436,13 @@ DC 15 - Remind him of his friend [[Lila the Herbalist]].
 ### Scene 7b: If Returning to North Lodge: 
 
 
-As you approach North Lodge, the village is abuzz with activity. Villagers are going about their daily routines, unaware of the impending danger. The cozy cottages and bustling market stalls contrast starkly with the urgency of your mission. 
+> As you approach North Lodge, the village is abuzz with activity. Villagers are going about their daily routines, unaware of the impending danger. The cozy cottages and bustling market stalls contrast starkly with the urgency of your mission. 
+> 
+> The day is winding down to a close. You see stalls starting to close and can hear mothers calling their children back inside for dinner and bed. 
+> 
+> You see the lights on in the inn and expect that at this time you would likely find Gareth and Miri, Lila and Darius, and maybe even Elder Thalia at the inn again. 
 
-The day is winding down to a close. You see stalls starting to close and can hear mothers calling their children back inside for dinner and bed. 
-
-You see the lights on in the inn and expect that at this time you would likely find Gareth and Miri, Lila and Darius, and maybe even Elder Thalia at the inn again. 
-
-The villagers will help you prepare if you pass a persuasion check. 
+**The villagers will help you prepare if you pass a persuasion check.** 
 DC 30 - You tell them they need to prepare, but give no further information
 DC 18 - You explain the situation with Changelings and Mistress. 
 DC 10 - You explain just how many changelings there are and tell them that Lila was right - the Goblins are not at fault. 
@@ -453,7 +458,7 @@ DC 10 - You explain just how many changelings there are and tell them that Lila 
 
 ### Scene 8: The Final Defense
 
-As night falls, the anticipation of the attack grows. The villagers huddle behind their defenses, weapons at the ready. The flicker of torchlight in the distance signals the approach of the changeling forces.
+> As night falls, the anticipation of the attack grows. The villagers huddle behind their defenses, weapons at the ready. The flicker of torchlight in the distance signals the approach of the changeling forces.
 
 #### Potential Questions and Answers
 
@@ -468,12 +473,14 @@ As night falls, the anticipation of the attack grows. The villagers huddle behin
       
 
 
+### **Time Check** (This encounter will take 30-60 minutes... if it's past like **11:30pm** end the night with the line "we've done our best... let's hope it's enough...)
+
 **"We've done our best. Let's hope it's enough."**
 
 ### Begin the North Lodge Final Defense Encounter 
 
 1. I will spawn 5 Changelings (Zombies) at a time from the forest.
-	1. They will attack the nearest enemy (unless someone is wearing [[Aeloria's Essence]]). 
+	1. They will attack the nearest enemy (unless someone is wearing [[Aelorian's Essence]]). 
 	2. These changelings **will move very slowly.** Movement speed of 15 feet. 
 2. After 3 rounds, I will spawn 4 more. 
 3. I will do this for 5 cycles, totaling 25 changelings (Zombies). 

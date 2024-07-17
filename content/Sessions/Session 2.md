@@ -591,7 +591,7 @@ If the players investigate the drainage system, they discover a hidden apparatus
 
 To the south, the players find a rectangular room with a pool of water. The pool is clear, with the faint glow of the key visible at the bottom.
 
-The party finds a particularly talkative frog who reveals this information to them. Using this intel, they gain access to the hidden room where they find [[Aeloria's Essence]].
+The party finds a particularly talkative frog who reveals this information to them. Using this intel, they gain access to the hidden room where they find [[Aelorian's Essence]].
 
 
 

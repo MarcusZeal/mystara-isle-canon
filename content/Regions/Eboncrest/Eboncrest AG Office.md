@@ -9,11 +9,12 @@ zoneMap:
 ---
 ### Setting the Scene
 
-Nestled within the bustling heart of [[Eboncrest]], [[The Adventurers' Guild]] stands as a beacon of opportunity and camaraderie. The grand stone building is adorned with banners displaying the guild's emblem – a sword crossed with a staff, encircled by a wreath of laurel leaves. The entrance is flanked by two imposing statues of renowned adventurers from ages past, their expressions resolute and inspiring.
-
-As you step inside, the interior is a blend of rustic charm and organized efficiency. Wooden beams support the high ceiling, and large windows allow streams of sunlight to illuminate the spacious hall. The air is filled with the hum of activity as adventurers of all races and backgrounds gather to share tales, form parties, and seek their next challenge.
-
-At the front desk stands a confident young woman. Your memory of Earth leads you to believe that she is clearly the attendant or stewardess of some sort for this guild. 
+> Nestled within the bustling heart of [[Eboncrest]], [[The Adventurers' Guild]] stands as a beacon of opportunity and camaraderie. The grand stone building is adorned with banners displaying the guild's emblem – a sword crossed with a staff, encircled by a wreath of laurel leaves. The entrance is flanked by two imposing statues of renowned adventurers from ages past, their expressions resolute and inspiring.
+> 
+> As you step inside, the interior is a blend of rustic charm and organized efficiency. Wooden beams support the high ceiling, and large windows allow streams of sunlight to illuminate the spacious hall. The air is filled with the hum of activity as adventurers of all races and backgrounds gather to share tales, form parties, and seek their next challenge.
+> 
+> At the front desk stands a confident young woman. Your memory of Earth leads you to believe that she is clearly the attendant or stewardess of some sort for this guild. 
+> 
 
 ### Registration
 

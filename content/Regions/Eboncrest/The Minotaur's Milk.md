@@ -10,9 +10,10 @@ zoneMap:
 
 ### The Minotaur's Milk
 
-The Minotaur's Milk is a quiet welcoming stone brick Tavern. Out front there is a light wooden patio.  
-        **As you open the rough tavern door** you are welcomed by a small collection of patrons. It seems just as welcoming inside as it does from the outside. Hanging lanterns illuminate the room and standing behind the polished stone bar is a fat 4'11" human male with a sharp face, long, curled, white hair, brown eyes, and rough, black skin. He is wearing a off-white shirt, and tight dark blue pants.    
-        **Between you and the bartender** is a moderate gathering of wooden booths and a hearth with a roaring flame within, and to the left is a stone staircase. To the right, you suspect, is the kitchen. And to the left, the restroom. 
+> The Minotaur's Milk is a quiet welcoming stone brick Tavern. Out front there is a light wooden patio.  
+>         **As you open the rough tavern door** you are welcomed by a small collection of patrons. It seems just as welcoming inside as it does from the outside. Hanging lanterns illuminate the room and standing behind the polished stone bar is a fat 4'11" human male with a sharp face, long, curled, white hair, brown eyes, and rough, black skin. He is wearing a off-white shirt, and tight dark blue pants.    
+>         **Between you and the bartender** is a moderate gathering of wooden booths and a hearth with a roaring flame within, and to the left is a stone staircase. To the right, you suspect, is the kitchen. And to the left, the restroom. 
+>         
 
 ### Menu
 

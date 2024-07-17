@@ -8,9 +8,10 @@ zoneMap:
 ---
 #### Setting the Scene
 
-As you step into The Whispering Willow, a sense of calm and serenity washes over you. The soft glow of enchanted lanterns casts a warm, inviting light, illuminating the cozy and well-furnished interior. The air is filled with the soothing scents of herbal teas and freshly baked pastries. Shelves lined with books and curiosities stretch along the walls, while comfortable seating areas invite you to sit and relax. The soft murmur of conversations and the occasional sound of a page turning create an atmosphere of quiet reflection and comfort.
-
-Before you stands a tall, slender elf with long, flowing green hair and piercing emerald eyes. She wears flowing robes adorned with intricate leaf patterns, giving her an ethereal appearance.
+> As you step into The Whispering Willow, a sense of calm and serenity washes over you. The soft glow of enchanted lanterns casts a warm, inviting light, illuminating the cozy and well-furnished interior. The air is filled with the soothing scents of herbal teas and freshly baked pastries. Shelves lined with books and curiosities stretch along the walls, while comfortable seating areas invite you to sit and relax. The soft murmur of conversations and the occasional sound of a page turning create an atmosphere of quiet reflection and comfort.
+> 
+> Before you stands a tall, slender elf with long, flowing green hair and piercing emerald eyes. She wears flowing robes adorned with intricate leaf patterns, giving her an ethereal appearance.
+> 
 
 ######  Dialogue
 **"Welcome to the Whispering Willow travelers!",** yells a cheerful, stocky elf with a kind smile and blue eyes. 
