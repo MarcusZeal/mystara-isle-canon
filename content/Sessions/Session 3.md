@@ -3,16 +3,48 @@ title: Session 3
 draft: true
 order: 3
 ---
+### Narrative Recap
+> 
+> The adventure together started in [[North Lodge]], where strange goblin attacks had disrupted the peace. At Lila the Herbalist’s suggestion, the party investigated rather than attacked the goblins. Their journey led them to the Enchanted Glade, where they encountered wildlife and goblin scouts. Using a clever spell and displaying the symbol of Grumshar, the party convinced the goblins they were allies and were welcomed into the Hidden Cave.
+> 
+> Inside the cave, they found a bustling goblin society, illuminated by luminescent fungi and campfires. They observed goblins working, socializing, and training. Some goblins seemed different, but you couldn’t pinpoint why. 
+> 
+> The party was escorted to Krag Rock-Biter, a respected goblin, who welcomed them cautiously. Krag explained that some goblins had been acting strangely and implied a hidden threat among them.
+> 
+> The party explored further, learning more about the goblin society and their worship of **Grumshar**. They found torn note fragments hinting at a plot involving shapeshifters and a **Mistress**. As their illusion spell wore off, Krag revealed that they accepted the party for their cunning and ambition, traits valued by goblins, and that they never truly believed they were physically goblins. 
+> 
+> The party then descended to Grukthar Hollow, a more strategic part of the cave. Here, they met Grubnar, the Warchief, who confirmed their suspicions of shapeshifters. He tasked them with investigating old ruins in Bear Wood, providing them with supplies and a map.(The map is on the wiki).
+> 
+> On their way to the ruins, the party was ambushed by Barghests, shapeshifting creatures sent by the Mistress. After a tough battle, the party realized that they all come from Earth, a revelation spurred by the Barghests’ comments. 
+>  
+   However, instead of focusing on that monumental plot point, they focused on Thistle, the mute crow man, who communicated through stabbing people with telepathic daggers.
+> 
+> The party entered the Hidden Ruins, discovering ancient Eldoran carvings and clues about shapeshifters (you found some tracks).
+> 
+> You started your exploration by sending Thistle to scout ahead. He found a room with pillars, a locked door with a circular recess, and inscriptions hinting at needing a key from a well. 
+> 
+> Posidonius, the Quantum Mage, learned that the Eldorans were akin to ancient elves. 
+> 
+> Venturing deeper, you met a sophisticated rat who hinted at a secret apparatus to open a door. and found Aelorian's Essence.
+> 
+   You are currently in the room where you found this item. What do you do?
+> 
+
+
+(They will likely go to the room to the south)...
+
 
 ### Scene 1: The Pool of Water
 
 #### Setting the Scene
 
-> As you step into the rectangular room, you are greeted by the cool, damp air and the scent of ancient stone and earth. The room stretches before you, dimly illuminated by bioluminescent fungi clinging to the walls and ceiling, casting an eerie glow. Green overgrowth, including vines and moss, creeps along the stone surfaces, adding a touch of nature to the ancient, worn architecture. 
+> As you step into the rectangular room, you are greeted by the cool, damp air and the scent of ancient stone and earth. The room stretches before you, dimly illuminated by bioluminescent fungi clinging to the walls and ceiling, casting an eerie glow. 
+> 
+> Green overgrowth, including vines and moss, creeps along the stone surfaces, adding a touch of nature to the ancient, worn architecture. 
 > 
 > In the center of the room lies a clear pool of water, its surface perfectly still and reflecting the soft light. At the far end of the room stands an ancient well, partially obscured by moss and vines. 
 > 
-> Floating above the pool are three ethereal figures, their forms shimmering in the dim light, dressed in ancient Eldoran attire with solemn, wise expressions.
+> Floating above the pool are **four ethereal figures**, their forms shimmering in the dim light, dressed in ancient Eldoran attire with solemn, wise expressions.
 > 
 
 #### Potential Questions
