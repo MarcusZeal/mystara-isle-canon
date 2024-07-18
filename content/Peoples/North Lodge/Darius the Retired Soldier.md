@@ -143,3 +143,6 @@ profile: "[[darius.webp]]"
 - **Opportunity Attack**: Attack with Longsword if an enemy moves out of his reach.
 
 **Notes**: Darius should prioritize protecting weaker allies and positioning himself to control the battlefield. Utilize Action Surge in critical moments to turn the tide of battle.
+
+
+https://www.dndbeyond.com/characters/128447364

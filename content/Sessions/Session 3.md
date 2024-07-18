@@ -46,6 +46,10 @@ order: 3
 > 
 > Floating above the pool are **four ethereal figures**, their forms shimmering in the dim light, dressed in ancient Eldoran attire with solemn, wise expressions.
 > 
+> **And off in the corner you see a... rock?**
+> 
+
+- [[Snappy]] introduces himself?
 
 #### Potential Questions
 
@@ -457,8 +461,7 @@ DC 20 - Explain situation with Changelings and Mistress.
 DC 15 - Remind him of his friend [[Lila the Herbalist]].
 
 **Success**: The help:
-- 5 Goblin Archers
-- Grubar himself 
+- Grubar will help. 
 
 **Fail**: The help:
 - 1 Goblin Archer, the Goblin that agreed to let them into the Cave. 
@@ -480,11 +483,15 @@ DC 18 - You explain the situation with Changelings and Mistress.
 DC 10 - You explain just how many changelings there are and tell them that Lila was right - the Goblins are not at fault. 
 
 **Success**: The help:
-- 5 Additional North Lodge Guards
-- Darius himself 
+- Darius himself will help. 
+- Miri will help (if asked).
 
 **Fail**: 
 - No additional help. 
+
+**If the players talk to Miri,** she'd mention a tinker that her and Gareth have been working on in her shop. If they ask her, she'll use it to help defend the village. 
+
+If the players talk to Darius, he'll join the defense. 
 
 ---
 
@@ -507,44 +514,67 @@ DC 10 - You explain just how many changelings there are and tell them that Lila 
 
 ### **Time Check** (This encounter will take 30-60 minutes... if it's past like **11:30pm** end the night with the line "we've done our best... let's hope it's enough...)
 
-**"We've done our best. Let's hope it's enough."**
+Elder Thalia speaks up... **"We've done our best. Let's hope it's enough."**
 
 ### Begin the North Lodge Final Defense Encounter 
 
 1. I will spawn 5 Changelings (Zombies) at a time from the forest.
-	1. They will attack the nearest enemy (unless someone is wearing [[Aelorian's Essence]]). 
-	2. These changelings **will move very slowly.** Movement speed of 15 feet. 
+	1. They will attack the nearest enemy.
+	2. These changelings **will move very slowly.** Movement speed of 10 feet. 
 2. After 3 rounds, I will spawn 4 more. 
 3. I will do this for 5 cycles, totaling 25 changelings (Zombies). 
 
-(If it looks too spooky, stop spawning zombies... I'm not trying to actually wipe the party here...)
+(If it looks too spooky, stop spawning zombies... I'm not trying to actually wipe the party here...
+If it looks suuuper spooky, send some goblins to the rescue?)
 
 ![[zombie.png]]
 
-#### Grubnar Stats
+**Zombies**:
+- **AC**: 8
+- **HP**: 18 - 30HP
+- **Slam**: +3 to hit, 1d6 + 1 damage. 
+
+**Barghest**: https://www.dndbeyond.com/monsters/2560736-barghest 
+- **AC**: 17
+- **HP**: 60 to 96
+- **Multi-Attack:**
+	- **Bite**. +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.
+	- **Claw**. +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage.
+
+#### **Grubnar Stats**
 
 [[Grubnar Skull-Crusher]]
 
+Grubnar Sheet: https://www.dndbeyond.com/characters/128446400
+
 **General Strategy**: Grubnar relies on his brute strength, intimidating presence, and regenerative abilities. He should focus on dealing massive damage and sowing fear among enemies.
 
-**Level 5 Path of the Berserker Barbarian.** 
-- Has Frenzy. Has Rage. Has 2H Axe. Does Big, Big Dam.
+**TLDR**: Level 6 Path of the Berserker Barbarian + 1 Fighter for 2 weapon fighting 
+- Has Frenzy. Has Rage. Has two weapons. Does Big, Big Dam. Big AC. 
 
 
 ##### Turn 1:
 
 1. **Bonus Action**: Enter Rage to gain resistance to damage and bonus melee damage.
-2. **Action**: Attack with Two-Handed Axe
-    - Two-Handed Axe: +7 to hit, 1d12+7 slashing damage (with Rage bonus).
+2. **Action**: Attack with both  Battleaxes 
+    - BattleAxe (Main Hand): +7 to hit, 1d8+6 slashing damage (with Rage bonus).
+    - BattleAxe (Offhand): +7 to hit, 1d8+6 slashing damage (with Rage bonus).
 
 ##### Subsequent Turns:
 
 1. **Bonus Action**: Enter Frenzy (if not already in Frenzy during Rage) to make an additional melee attack as a bonus action each turn.
 2. **Action**: Attack with Two-Handed Axe (Extra Attack: Attack twice)
-    - First Attack: +7 to hit, 1d12+7 slashing damage (with Rage bonus).
-    - Second Attack: +7 to hit, 1d12+7 slashing damage (with Rage bonus).
-3. **Bonus Action**: Frenzied Attack (if in Frenzy)
-    - Attack: +7 to hit, 1d12+7 slashing damage (with Rage bonus).
+    - First Attack:
+	    - BattleAxe (Main Hand): +7 to hit, 1d8+6 slashing damage (with Rage bonus).
+	    - BattleAxe (Offhand): +7 to hit, 1d8+6 slashing damage (with Rage bonus).
+    - Second Attack: 
+	    - BattleAxe (Main Hand): +7 to hit, 1d8+6 slashing damage (with Rage bonus).
+	    - BattleAxe (Offhand): +7 to hit, 1d8+6 slashing damage (with Rage bonus).
+
+1. **Bonus Action**: Frenzied Attack (if in Frenzy)
+    - Attack: 
+	    - BattleAxe (Main Hand): +7 to hit, 1d8+6 slashing damage (with Rage bonus).
+	    - BattleAxe (Offhand): +7 to hit, 1d8+6 slashing damage (with Rage bonus).
 
 ##### Reaction:
 
@@ -553,20 +583,34 @@ DC 10 - You explain just how many changelings there are and tell them that Lila 
 **Notes**: Grubnar should focus on taking down the strongest enemies and maintaining his Rage. Utilize Frenzy to maximize damage output. His intimidating presence and sheer damage potential can disrupt enemy formations and tactics.
 
 
-#### Darius's Stats
+#### **Darius's Stats**
 
-**Level 5 Fighter Champion. Has long sword. Can heal himself. Attacks twice. Big crits.** 
+**Darius Sheet**: https://www.dndbeyond.com/characters/128447364 
+
+**TLDR**: Level 6 Fighter Champion. Has long sword. Can heal himself. Attacks twice. Big crits. Big AC. 
 
 [[Darius the Retired Soldier]]
 
 **General Strategy**: Darius uses his disciplined, strategic approach to combat. He focuses on protecting allies, drawing enemy attacks, and dealing consistent damage.
+
+##### Before Combat: Inspiring Leader
+He buffs the following people in order with **10 Temp HP:**
+- Grubnar
+- Himself
+- Azika
+- Snappy
+- Thistle 
+- Posiedon
+
+(6 Closest Allies)
 
 ##### Turn 1:
 
 1. **Move**: Position himself between the enemy and his allies, utilizing his shield for defense.
 2. **Action**: Attack with Longsword
     - Longsword: +7 to hit, 1d8+4 slashing damage.
-3. **Bonus Action**: Second Wind (if he has taken damage already) to regain 1d10+5 HP.
+    - Second Attack: +7 to hit, 1d8+4 slashing damage.
+1. **Bonus Action**: Second Wind (if he has taken damage already) to regain 1d10+5 HP.
 
 ##### Subsequent Turns:
 
@@ -581,6 +625,17 @@ DC 10 - You explain just how many changelings there are and tell them that Lila 
 
 **Notes**: Darius should prioritize protecting weaker allies and positioning himself to control the battlefield. Utilize Action Surge in critical moments to turn the tide of battle.
 
+
+
+#### **Miri Stats**
+https://www.dndbeyond.com/characters/128450263
+
+**Turn 0:** Set up Eldritch Cannon (Flamethrower).
+**Every Other Turn:** Use Crossbow ( +3 to hit, 1d8 + 1 Damage)
+
+**Flamethrower Does:**
+2D8 Fire Damage. Half on a Dex Saving Throw (DC 13). 
+Cannon can move 15feet. 
 
 #### Town Guard (Level 2 Fighter) 
 

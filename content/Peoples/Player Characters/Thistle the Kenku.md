@@ -1,5 +1,5 @@
 ---
-title: Luke (Garos)
+title: Thistle the Kenku
 draft: false
 tags:
   - Player

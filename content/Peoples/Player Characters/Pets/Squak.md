@@ -1,5 +1,5 @@
 ---
-title: Kai
+title: Squak
 draft: false
 tags:
   - Pet
@@ -12,8 +12,7 @@ In During [[Session 0+1 Encounters#Encounter 1 Wolf Pack Ambush]], [[Thistle the
 
 #### Squak
 
-- **Attack: Bite** (+4 to hit, 2d4+2 piercing)
-- **Special**: Pack Tactics (advantage on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated)
+Squak is a wolf, but Squak is not a combat companion. He's just a mount maybe sometimes someday. Right now he's just sort of following you. 
 
 ![[fluffy-wolf.png]]
 

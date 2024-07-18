@@ -171,3 +171,6 @@ order: 2
 - **Opportunity Attack**: Attack with Two-Handed Axe if an enemy moves out of his reach.
 
 **Notes**: Grubnar should focus on taking down the strongest enemies and maintaining his Rage. Utilize Frenzy to maximize damage output. His intimidating presence and sheer damage potential can disrupt enemy formations and tactics.
+
+
+https://www.dndbeyond.com/characters/128446400
