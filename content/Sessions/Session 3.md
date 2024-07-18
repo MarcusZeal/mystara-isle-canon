@@ -23,7 +23,7 @@ order: 3
 > 
 > You started your exploration by sending Thistle to scout ahead. He found a room with pillars, a locked door with a circular recess, and inscriptions hinting at needing a key from a well. 
 > 
-> Posidonius, the Quantum Mage, learned that the Eldorans were akin to ancient elves. 
+> [[Posidonius, the Quantum Mage]], learned that the Eldorans were akin to ancient elves. 
 > 
 > Venturing deeper, you met a sophisticated rat who hinted at a secret apparatus to open a door. and found Aelorian's Essence.
 > 
@@ -524,8 +524,7 @@ Elder Thalia speaks up... **"We've done our best. Let's hope it's enough."**
 2. After 3 rounds, I will spawn 4 more. 
 3. I will do this for 5 cycles, totaling 25 changelings (Zombies). 
 
-(If it looks too spooky, stop spawning zombies... I'm not trying to actually wipe the party here...
-If it looks suuuper spooky, send some goblins to the rescue?)
+	(If it looks too spooky, stop spawning zombies... I'm not trying to actually wipe the party here... If it looks suuuper spooky, send some goblins to the rescue?)
 
 ![[zombie.png]]
 

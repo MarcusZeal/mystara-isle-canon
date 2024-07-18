@@ -5,17 +5,18 @@ order: 1
 ---
 ### Narrative Recap
 
-The adventure began in the quaint village of [[North Lodge]], a place where the simple rhythms of daily life are rarely disturbed. Yet, recently, the village has been plagued by strange and unsettling goblin attacks, disrupting the peace. 
-
-The local alchemist, [[Lila the Herbalist]], suspecting that not all goblins are responsible for the violence, persuaded you to investigate further rather than resort to immediate violence against the [[Goblins]].
-
-Your journey took you into the Enchanted Glade, a mystical part of Eldoria Forest where reality and fantasy blur. Here, you encountered various wildlife, some friendly - others not so much; before finding some scout goblins.
-
-Using your wits and a clever spell, you convinced them that you were allies by displaying the symbol of Grumshar, the goblin deity of craftsmanship and creation.
-
-The goblins, believing you to be friendly reinforcements, welcomed you. You now stand on the threshold of the Hidden Cave, ready to delve deeper into the heart of goblin society. 
-
-You aim to uncover the truth behind the recent attacks and learn more about the goblins who live here.
+> The adventure began in the quaint village of [[North Lodge]], a place where the simple rhythms of daily life are rarely disturbed. Yet, recently, the village has been plagued by strange and unsettling goblin attacks, disrupting the peace. 
+> 
+> The local alchemist, [[Lila the Herbalist]], suspecting that not all goblins are responsible for the violence, persuaded you to investigate further rather than resort to immediate violence against the [[Goblins]].
+> 
+> Your journey took you into the Enchanted Glade, a mystical part of Eldoria Forest where reality and fantasy blur. Here, you encountered various wildlife, some friendly - others not so much; before finding some scout goblins.
+> 
+> Using your wits and a clever spell, you convinced them that you were allies by displaying the symbol of Grumshar, the goblin deity of craftsmanship and creation.
+> 
+> The goblins, believing you to be friendly reinforcements, welcomed you. You now stand on the threshold of the Hidden Cave, ready to delve deeper into the heart of goblin society. 
+> 
+> You aim to uncover the truth behind the recent attacks and learn more about the goblins who live here.
+> 
 
 ---
 
@@ -27,15 +28,11 @@ You aim to uncover the truth behind the recent attacks and learn more about the 
 
 “As you enter the cave, you are immediately struck by the bustling activity within. “
 
-Make a perception check. 
+##### Make a perception check. 
 
-DC 10: 
-Success: You get the impression that this is a very, very large cave. Deep and sprawling. Full of tunnels and goblins. You notice right away that there are patches of luminescent fungi that cast a soft, otherworldly glow.
+**Success**: You get the impression that this is a very, very large cave. Deep and sprawling. Full of tunnels and goblins. You notice right away that there are patches of luminescent fungi that cast a soft, otherworldly glow.
 
 The air is cool and slightly damp - but not unpleasant it carries the mixed scents of earth, smoke, and cooking…. Meat? You can’t be sure what the meat is, but it smells delicious. 
-
-Fail: You get the impression the cave is big. Real big… and something smells…. Good?
-
 
 #### Description of Goblin Activities
 
@@ -43,14 +40,10 @@ Fail: You get the impression the cave is big. Real big… and something smells�
 
  You see several goblins are hard at work, hammering metal, weaving baskets, and shaping wood. The clinking of hammers and the rhythmic scraping of tools against materials create a constant background noise.
 
-Make a perception check. DC 5. 
-
 You see some goblins are engaged in heated discussions, their high-pitched voices echoing through the cave. Others are gathered around small fires, sharing food and stories, laughing, and occasionally shouting.
 
-Make a perception check. DC 8.
 You see a group of young goblins is practicing combat skills, supervised by an older, more experienced warrior. They wield wooden swords and shields, their movements quick and eager.
 
-Make a perception check. DC 15. 
 You notice that not all of the goblins look the same… some look like Goblins but… different… somehow. 
 
 ---
@@ -62,24 +55,19 @@ As the players continue down the hallway the goblin scout escort makes conversat
 **Perception Check (DC 12)**:
 - Success: 
 	- You notice that the goblins are industrious and well-organized. They appear to be trading shiny rocks, food, and regular nesesities. 
-- Failure: 
-	- You notice that the goblins are well-organized. There might be more there, but you‘re just not sure... 
-	
+
+
 **Insight Check (DC 10)**:
 - Success: The players sense that the goblins are not hostile but rather cautious and curious about their presence.
-- Failure: The players might feel slightly uneasy but will not detect any immediate threat.
 
-Nature Check (DC 10):
-- Success: You think you may be able to use those mushrooms for something. The goblins may be willing to part with a few if you ask nicely. 
+
+**Nature Check (DC 10):**
 - Fail: Yup. You’re definitely in a cave. 
 
 #### Goblin Interactions
 
 As the you walk deeper into the cave, the goblins notice them but do not react with immediate hostility. Instead, there is a mix of curiosity and cautious acceptance. 
 
-Make a perception check… DC 5
-
-Pass:
 You can hear snippets of conversations and see the goblins’ daily struggles and joys.
 
 **Goblin Dialogue**:
@@ -90,16 +78,12 @@ You can hear snippets of conversations and see the goblins’ daily struggles an
 
 You get the sense that these goblins have a society of their own. Different than humans… but a society nonetheless. 
 
-Fail: 
-You can see goblins working, arguing, training. You can’t hear what they are saying… it probably doesn’t matter. But you definitely get the sense that these goblins have a society of their own.. although different from humans a society none-the-less. 
 
 #### Key Descriptions to Emphasize
 
 - **Community and Complexity**: The players should get a sense that the goblins, while less sophisticated than humans, have a rich and complex society. They work together, argue, and support each other, showing a level of organization and community.
 - **Variety of Roles**: Highlight the different roles within the goblin society, from craftsmen to warriors to caregivers, showcasing that goblins are more than just monsters.
 - **Human-Like Qualities**: Despite their rough and often crude behavior, the goblins display emotions and actions similar to humans, such as pride in their work, care for their young, and a desire to protect their home.
-
-
 
 ---
 
@@ -121,7 +105,7 @@ You enter a larger, more organized chamber within the cave. This area is better 
 
 **Insight Check (DC 13)**:
 - Success: You get the sense that Krag is genuinely welcoming but also cautious and observant. He is large, but his eyes are kind.
-- Failure: Krag is big. He seems like a nice dude. He kind of reminds you of your favorite uncle.
+
 
 #### Players’ Response
 
@@ -179,6 +163,7 @@ As the players finish their conversation with Krag, they are invited to explore 
 
 
 **Roll an Investigation Check** DC 15 - Get one of these. 
+
 ##### Torn Note Fragment 7
 
 "...beware of the flame.... the Mistress will not be happy if anymore captains are sent back to Gehenna..."
@@ -192,10 +177,6 @@ As the players finish their conversation with Krag, they are invited to explore 
 - **Variety of Roles**: Highlight the different roles within the goblin society, from craftsmen to warriors to caregivers, showcasing that goblins are more than just monsters.
 - **Human-Like Qualities**: Despite their rough and often crude behavior, the goblins display emotions and actions similar to humans, such as pride in their work, care for their young, and a desire to protect their home.
 
-Perception Check :
-- Pass: Krag is definitely watching you closely as you walk around amongst his brothers and sisters.
-- Fail: Everything seems normal to you. Just hanging out in this goblin camp. 
-#### Roll a Deception Check every few minutes.
 
 
 #### Prestidigitation Fades
@@ -227,12 +208,12 @@ You descend to what the goblins refer to as **[[Grukthar Hollow]]**. This area i
 
 **Perception Check (DC 11)**:
 - Success: The players notice the change in atmosphere and the more strategic nature of Grukthar Hollow. This layer feels almost like a barracks on Earth - at least what you’ve seen in movies. 
-- Failure: You notice that the atmosphere has changed a bit but you’re not quite sure why. 
 
 
-Nature Check DC 10:
+
+**Nature Check DC 10:**
 - Pass: The glowing mushrooms are on this layer too. You’re pretty sure you could use these in a potion of some sort in the future - or sell them to the alchemist back in North Lodge - or find a use for them somewhere. 
-- Fail: Yup, still in a cave. 
+
 
 #### Description of Grukthar Hollow
 
@@ -294,7 +275,7 @@ Having gathered information and observed the bustling life within the Hidden Cav
 
 **Perception Check (DC 12)**:
 - Success: The players notice the increasing tension and vigilance among the goblins as they descend.
-- Failure: The players still sense the general change in atmosphere but might miss specific details.
+
 
 #### Description of the Descent
 
@@ -352,24 +333,16 @@ You stand before Grubnar, the Warchief of the goblin tribe in the heart of Gukth
 
 **Investigation Check (DC 13)**:
 - Success: You see there are some tracks on the ground that don't look quite the same as others. You can tell the difference between the larger and smaller tracks, but this third set of tracks is different in more than size and stature. They appear to be a completely different beast. 
-- Failure: The players might not find the specific clues but will still sense something is off.
+
 
 #### Transition to Deeper Investigation
 
-Grubnar provides the players with additional supplies and a more detailed map of Bear Wood and Grukthar Hollow.
-	**Direct the players to the Wiki where those pages should now be public.**
-
 The players are now tasked with uncovering the mystery behind the disturbances and protecting the goblin tribe from the hidden threat, which will also stop the attacks on North Lodge.
 
-**Supplies Provided**:
-- A small bag of potent healing herbs (equivalent to a 5 healing potions)
-- A detailed map of The Hidden Cave, Grukthar Hollow, and Bear Wood.
-- Basic rations and water for their journey
-- A **LONG**-REST if they choose to take one. They can sleep at any of the tents in the Goblin Cave, or they can go back to the inn before heading back out.
+The party never asked for aide from Grubnar, so they never received what he may have had to offer (potions, maps)
 
 **Grubnar’s Final Words**:
 - "Remember, trust no one. The enemy hides among us. Go now, and may Grumshar guide your steps."
-
 
 
 
@@ -384,102 +357,16 @@ As the players leave Grukthar Hollow and head towards Bear Wood, the atmosphere 
 
 Just as the players start to feel the weight of the journey, they are suddenly surrounded. From the shadows, two Barghests emerge, ready to attack.
 
-**Ambush Setup**:
-
-- The Barghests have set up an ambush at a narrow part of the path where visibility is low.
-- They use the element of surprise to their advantage, aiming to catch the players off guard.
-
-**Enemies**:
-
-- **2 Barghests** (stats from Monsters of the Multiverse, page 60)
-
-**Abilities**:
-
-- **Shapechanger**: Can use its action to polymorph into a goblin or back into its true form.
-- **Innate Spellcasting**: Can cast Dimension Door once per day.
-- **Keen Smell**: Advantage on Wisdom (Perception) checks that rely on smell.
-
-**Actions**:
-
-- **Multiattack**: The Barghest makes two attacks: one with its bite and one with its claws.
-- **Bite**: +6 to hit, reach 5 ft., one target. Hit: 2d8 + 4 piercing damage.
-- **Claws**: +6 to hit, reach 5 ft., one target. Hit: 1d8 + 4slashing damage.
-
-![[barghest-stats.png]]
-
-
-#### Encounter Dialogue
-
 
 - **Before Transformation**: "You should have stayed out of this. **You're not even from this world...** Now, you will face the wrath of the Mistress!"
   
 - **After Transformation**: "Fools! We are not what we seem. Prepare to meet your end!"
 
+### Note Fragments
+![[note-6b.png]]![[note-1b.png]]![[note-2b.png]]![[note-3b.png]]![[note-4b.png]]![[note-5b.png]]
 
 
-
-#### Rewards
-
-Upon defeating the Barghests, the players find the torn note fragments 3 and 4 on the bodies of the changelings.
-
-**Loot**:
-- **Torn Note Fragment 3**:
-  - "...our primary objective remains unchanged. The Mistress requires the completion of the ritual. Ensure that all preparations are made in secrecy. Any deviation could be disastrous..."
-- **Torn Note Fragment 4**:
-  - "...remember the signal for when the time is right. The Mistress will guide us, but we must be ready to act swiftly. Trust no one outside our circle. The success of our mission depends on our ability to remain unseen..."
-
-
-
-#### Conclusion
-
-The players successfully fend off the ambush, securing the additional note fragments. They now have more pieces of the puzzle, hinting at the greater threat posed by the Mistress and her shapeshifting minions. With these clues in hand, they are better prepared to delve deeper into Bear Wood and uncover the hidden dangers that lie ahead.
-
-
-
-After defeating these body changers, they receive:
-- **Torn Note fragments 3 and 4.**
-
-### Torn Note Clues
-
-##### Torn Note Fragment 1
-
-"...our movements are being watched more closely. The Mistress has commanded us to be more cautious. We must avoid suspicion at all costs. Do not forget your disguise and blend in as best you can..."
-
-##### Torn Note Fragment 2
-
-
-"...recent disappearances have caused unrest among the goblins. They are starting to question each other. We need to divert their attention. Suggest that the changes are due to the influence of Grumshar's will. This should buy us more time..."
-
-##### Torn Note Fragment 3
-
-"...our primary objective remains unchanged. The Mistress requires the completion of the ritual. Ensure that all preparations are made in secrecy. Any deviation could be disastrous..."
-
-##### Torn Note Fragment 4
-
-"...remember the signal for when the time is right. The Mistress will guide us, but we must be ready to act swiftly. Trust no one outside our circle. The success of our mission depends on our ability to remain unseen..."
-
-##### Torn Note Fragment 5
-
-"...continue to report any suspicious activity among the goblins. The Mistress needs to be informed of any potential threats. Stay vigilant and await further instructions..."
-
-##### Torn Note Fragment 6
-
-"...if you are compromised, destroy this note immediately. The safety of our kind and the success of the Mistress’s plan depend on our discretion..."
-
-
-##### Torn Note Fragment 7
-
-"...beware of the flame.... the Mistress will not be happy if anymore captains are sent back to Gehenna..."
-
-
-##### Torn Note Fragment 8
-
-"... remember to stay out of the forge... last weeks accident cannot happen again... "
-
-
-
-
-### Scene 8 Squaks Confrontation 
+### Scene 8 Thistle Confrontation 
 
 [[Posidonius, the Quantum Mage]], tired of [[Thistle the Kenku]]'s shenanigans began aggressively questioning Thistle after Thistle seemingly attacked him and [[Luke (Garos)]] unprovoked. 
 
@@ -495,14 +382,6 @@ They left that heated conversation knowing more about each other.
 
 As the players enter the Hidden Ruins, they find themselves in a long hallway with ancient stone walls covered in moss and faint, glowing runes. At the end of the hallway, a set of stairs leads downward into the darkness.
 
-**Key Descriptions**:
-- **Long Hallway**: The hallway is lined with crumbling pillars and faintly glowing runes, casting eerie shadows on the walls.
-- **Atmosphere**: The air is cool and damp, carrying the scent of age and decay.
-
-Arcana Check DC 15
-Pass: You get the impression that these ruins are filled with latent energy. 
-Pass: Must have just been the glowing mushrooms. 
-
 ---
 
 ### Scene 10: The Pillared Hall
@@ -511,10 +390,7 @@ Pass: Must have just been the glowing mushrooms.
 
 As you walk down the stairs, you notice a large room with many large stone pillars lining either side. The pillars are adorned with intricate carving depicting scenes of an ancient civilization. 
 
-History Check DC 12
-Pass: You can tell that the civilization is the Eldoran. Your memory of earth can’t help but notice that this race reminds you a lot of elves. They look like elves, but their civilization was a lot more advanced. More like high elves from an old MMO you use to play. 
-
-Fail: You think maybe these are… uhh… elves?
+You can tell that the civilization is the Eldoran. Your memory of earth can’t help but notice that this race reminds you a lot of elves. They look like elves, but their civilization was a lot more advanced. More like high elves from an old MMO you use to play. 
 
 At the bottom of the stairs, the players enter a large room with massive stone pillars lining either side. The pillars are adorned with intricate carvings depicting scenes of ancient Eldoran life.
 
@@ -523,26 +399,15 @@ At the bottom of the stairs, the players enter a large room with massive stone p
 - **Pillars**: Each pillar is carved with detailed scenes from Eldoran history, showing their culture and achievements.
 - **Large Room**: The room is vast, with a high ceiling that echoes the players' footsteps.
 
-#### Points of Interest
-
-- **To the Right**: An open door leads to a set of stairs descending further into the ruins.
-- **To the Left**: A closed stone slab within a doorframe, covered in magical runes that glow faintly.
-
 **Runes on the Door**:
 
 - **Inscription**: "To proceed beyond this frame, a key you must obtain. Seek the pool where spirits dwell, and retrieve what lies inside the well."
 
-#### Investigation
-
-If the players inspect the door, they notice a circular indent in the stone slab, indicating a key is required to open it.
-
-#### Interactions and Clues
 
 - **Eldoran Carvings**: The carvings on the pillars depict various aspects of Eldoran life, including their reverence for nature, their architectural achievements, and their downfall. Players who inspect the carvings closely can make a History check (DC 15) to gain insights into the Eldorans' history and the possible cause of their civilization's collapse.
 
 
 - **Shapeshifter Tracks**: Mixed with the goblin tracks are odd, misshapen tracks that seem inconsistent. A successful Perception check (DC 14) suggests these could be the tracks of shapeshifters. Changelings.
-
 
 
 ---
@@ -571,7 +436,6 @@ The players enter a circular room with a drainage system at its center. The air 
 
 ##### Perception Check DC 12
 Pass: You see a feint glow in the sewer
-Fail: Nothing of notice. 
 
 As they approach the drainage system, a rat scurries out, startling them.
 

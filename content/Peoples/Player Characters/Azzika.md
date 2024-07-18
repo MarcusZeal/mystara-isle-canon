@@ -5,7 +5,7 @@ tags:
   - Player
   - Monk
 order: 2
-profile:
+profile: azzika.png
 ---
 
 
