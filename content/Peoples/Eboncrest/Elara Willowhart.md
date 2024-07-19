@@ -8,7 +8,7 @@ tags:
   - Person
   - Herbalism
   - Alchemy
-zoneMap: elara-willowhart-dp.webp
+profile: elara-willowhart-dp.webp
 ---
  ![[Elara-Willowheart.png]]
 
