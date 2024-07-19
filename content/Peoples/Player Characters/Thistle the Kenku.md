@@ -5,7 +5,7 @@ tags:
   - Player
   - Rogue
 order: 2
-profile: "[[kenku-thistle.png]]"
+profile: "[[thistle.png]]"
 ---
 
 #### Background: Life on Earth

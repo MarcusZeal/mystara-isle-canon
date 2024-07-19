@@ -5,7 +5,7 @@ tags:
   - Player
   - Fighter
 order: 2
-profile: "[[luke.jpg]]"
+profile: Garos.png
 ---
 #### Background: Garos, the Green Dragonborn
 

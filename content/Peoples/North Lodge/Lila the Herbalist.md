@@ -11,7 +11,7 @@ profile: "[[lila-the-herbalist.webp]]"
 #### Lila the Herbalist
 
 - **Role**: Herbalist and Healer
-- **Description**: Lila is a petite woman in her late 30s with long, braided brown hair and bright green eyes. She often wears practical clothing suitable for foraging in the forest.
+- **Description**: Lila is a petite woman appear to be her late 30s with long, braided brown hair and bright green eyes. She often wears practical clothing suitable for foraging in the forest.
 - **Personality**: Gentle, nurturing, and a bit eccentric, with a deep love for nature.
 - **Background**: Lila moved to [[North Lodge]] a decade ago after losing her family to illness in [[City of Balgaran]]. She found solace in the forest and became a skilled herbalist, using her knowledge to help the villagers.
 - **Motivation**: Lila is dedicated to healing and protecting both people and the environment. She is always on the lookout for rare herbs and remedies.
