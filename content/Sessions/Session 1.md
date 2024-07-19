@@ -11,7 +11,7 @@ As the players complete their character creation and background discussions at T
 - Here the players learned that goblins had been attacking the village every night.
 - Brom, Darius, and Miri are all convinced the goblins are a threat.
 - [[Elder Thalia]] is unsure what would have caused this sudden shift in the forest.
-- [[Lila the Herbalist]] urges the players to not kill the goblins. Exclaiming that the goblins have never been a threat in the past.
+- [[Lila Willowhart]] urges the players to not kill the goblins. Exclaiming that the goblins have never been a threat in the past.
 
 ---
 

@@ -36,5 +36,5 @@ For adventurers, North Lodge serves as a gateway to the wider world of Mystara I
 
 - **[[Elder Thalia]]**: The wise and kind-hearted leader of North Lodge, Elder Thalia has guided the village through many trials. Her deep knowledge of the forest and its magic makes her a respected figure among the villagers.
 - **[[Gareth the Blacksmith]]**: Known for his exceptional craftsmanship, Gareth provides the village with sturdy tools and weapons. His forge is a gathering place where villagers share news and stories.
-- **[[Lila the Herbalist]]**: Lila's knowledge of herbs and natural remedies is unmatched. She tends to the village’s sick and injured, and her small cottage on the edge of the forest is a place of healing and solace
+- **[[Lila Willowhart]]**: Lila's knowledge of herbs and natural remedies is unmatched. She tends to the village’s sick and injured, and her small cottage on the edge of the forest is a place of healing and solace
 

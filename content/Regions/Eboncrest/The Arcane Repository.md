@@ -25,7 +25,7 @@ zoneMap:
 **[[Elara Windwhisper]]**:
 - **Appearance**: Elara is a striking figure with long, flowing auburn hair and piercing green eyes that seem to see into the very essence of those she meets. She wears elegant, dark robes adorned with subtle, glowing runes.
 - **Personality**: Calm and composed, Elara exudes an air of wisdom and authority. She is always willing to share her knowledge and assist those in need, especially those with a genuine interest in magic.
-- **Background**: As [[Lila the Herbalist]]'s sister, Elara has a deep connection to both the natural and arcane worlds. She took over The Arcane Repository to help preserve and expand the knowledge of magic within [[Eboncrest]].
+- **Background**: As [[Lila Willowhart]]'s sister, Elara has a deep connection to both the natural and arcane worlds. She took over The Arcane Repository to help preserve and expand the knowledge of magic within [[Eboncrest]].
 
 **Fennic the Familiar**:
 - **Appearance**: Fennic is a small, mischievous owl with shimmering, silvery feathers and bright, intelligent eyes. He often perches on a high shelf, observing the customers below.

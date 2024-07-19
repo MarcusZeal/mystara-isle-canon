@@ -7,7 +7,7 @@ order: 1
 
 > The adventure began in the quaint village of [[North Lodge]], a place where the simple rhythms of daily life are rarely disturbed. Yet, recently, the village has been plagued by strange and unsettling goblin attacks, disrupting the peace. 
 > 
-> The local alchemist, [[Lila the Herbalist]], suspecting that not all goblins are responsible for the violence, persuaded you to investigate further rather than resort to immediate violence against the [[Goblins]].
+> The local alchemist, [[Lila Willowhart]], suspecting that not all goblins are responsible for the violence, persuaded you to investigate further rather than resort to immediate violence against the [[Goblins]].
 > 
 > Your journey took you into the Enchanted Glade, a mystical part of Eldoria Forest where reality and fantasy blur. Here, you encountered various wildlife, some friendly - others not so much; before finding some scout goblins.
 > 

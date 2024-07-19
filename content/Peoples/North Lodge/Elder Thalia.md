@@ -25,6 +25,6 @@ profile: "[[elder-thalia.webp]]"
 
 #### Relationships:
 
-- **Mentor to [[Lila the Herbalist]]**: Thalia has taught Lila much of what she knows about herbal remedies and forest lore.
+- **Mentor to [[Lila Willowhart]]**: Thalia has taught Lila much of what she knows about herbal remedies and forest lore.
 - **Respected by [[Darius the Retired Soldier]]**: Thalia and Darius share a mutual respect, often consulting each other on matters of village defense and well-being.
 - **Close to [[Brom the Innkeeper]]:** Thalia and Brom often discuss village matters and share stories of the past, providing each other with support and friendship.

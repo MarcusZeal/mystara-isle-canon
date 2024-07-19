@@ -24,5 +24,5 @@ profile: "[[elda.webp]]"
 #### Relationships:
 
 - **Mentored by [[Darius the Retired Soldier]]**: Elda respects Darius's experience and often trains with him to improve her combat skills. Darius sees great potential in her as a protector of the village.
-- **Supplier to [[Lila the Herbalist]]**: Elda frequently brings Lila herbs and rare plants she finds during her hunts, strengthening their bond.
+- **Supplier to [[Lila Willowhart]]**: Elda frequently brings Lila herbs and rare plants she finds during her hunts, strengthening their bond.
 - **Friend of [[Finn the Fisherman]]:** Elda and Finn share a mutual respect for nature and often exchange tips on tracking and fishing.

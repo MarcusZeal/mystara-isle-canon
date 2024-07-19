@@ -38,7 +38,7 @@ Together, you will forge a new destiny in Mystara Isle. [[#Your Adventure Begins
 - **[[Regions/Copper Hill/Copper Hill]]**: A friendly coastal village known for its hospitality, Copper Hill offers a warm welcome to travelers with its bustling inn and abundant crops. Many prefer its cozy inn over the ones in larger cities when traveling to Dawnham.
 - **[[Sunfield]]**: Little is known about Sunfield. Rumors suggest that whatever calamity took Balgaran also befell Sunfield, but news travels slowly on Mystara Isle.
 - **[[City of Balgaran]]**: Once a proud and populous city, Balgaran fell to an unknown catastrophe, possibly a plague. In just a few days, the city of 20,000 was decimated. Now, its ruins are haunted by the undead, the only remnants of its former glory.
-- **[[Balgaran Forest]]**: Located on the westernmost coast, Balgaran Forest is home to reclusive druids. Due to its proximity to the fallen city of Balgaran, many suspect the druids of being responsible for the city's mysterious downfall.
+- **[[Balgaran Woods]]**: Located on the westernmost coast, Balgaran Forest is home to reclusive druids. Due to its proximity to the fallen city of Balgaran, many suspect the druids of being responsible for the city's mysterious downfall.
 - **[[Silverlake]]**: A serene, enchanted lake reputed for its healing properties and guarded by water spirits. Though its exact location has been lost to time, some believe it lies within the depths of Balgaran Forest to the far west.
 
 ### Mystara Isle Backstory

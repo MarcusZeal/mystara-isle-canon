@@ -458,7 +458,7 @@ Once the players understand the purpose of the circle, guide them towards decidi
 **Grukthar Hollow will help with a persuasion check success. You are asking [[Grubnar Skull-Crusher]] to put the lives of his Goblins in danger.** 
 DC 30 - if the ask without explaining the situation. 
 DC 20 - Explain situation with Changelings and Mistress. 
-DC 15 - Remind him of his friend [[Lila the Herbalist]].
+DC 15 - Remind him of his friend [[Lila Willowhart]].
 
 **Success**: The help:
 - Grubar will help. 
@@ -662,7 +662,7 @@ Cannon can move 15feet.
 	1. Everyone Levels Up. You are now all **level 4.** 
 	2. Everyone receives **50 gold pieces.** 
 	3. The party receives **letter of gratitude** from major villagers.
-		1. from [[Lila the Herbalist]]. Her sister in [[Eboncrest]] would be delighted to see this.
+		1. from [[Lila Willowhart]]. Her sister in [[Eboncrest]] would be delighted to see this.
 		2. from [[Darius the Retired Soldier]]. His old command in [[Ironheart]] would be delighted to see this. 
 		3. from [[Miri the Carpenter]]. Her brother in [[Dawnham]] would be delighted to see this. 
 		4. from [[Gareth the Blacksmith]]. His old friend in [[Regions/Copper Hill/Copper Hill]] would love to see this. 
