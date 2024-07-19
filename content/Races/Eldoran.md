@@ -3,6 +3,7 @@ title: Eldoran
 draft: false
 tags:
   - Race
+  - Eldoran
 ---
 
 #### Overview

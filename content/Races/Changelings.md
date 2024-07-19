@@ -3,6 +3,7 @@ title: Changelings
 draft: true
 tags:
   - Race
+  - Changelings
 ---
 
 #### Overview

@@ -4,6 +4,7 @@ draft: false
 tags:
   - Player
   - Wizard
+  - Triton
 order: 2
 profile: "[[redhorn.png]]"
 ---

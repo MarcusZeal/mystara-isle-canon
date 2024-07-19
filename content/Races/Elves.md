@@ -3,6 +3,7 @@ title: Elves
 draft: false
 tags:
   - Race
+  - Elves
 ---
 #### Origins and Ancestry
 

@@ -3,6 +3,7 @@ title: Goblins
 draft: false
 tags:
   - Race
+  - Humans
 order: 2
 ---
 #### Overview

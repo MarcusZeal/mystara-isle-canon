@@ -3,6 +3,7 @@ title: Lionin
 draft: false
 tags:
   - Race
+  - Lionin
 ---
 
 ### Leonin Race Lore

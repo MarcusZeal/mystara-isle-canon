@@ -4,6 +4,7 @@ draft: false
 tags:
   - Player
   - Barbarian
+  - Tortle
 order: 10
 profile: "[[toortle2.webp]]"
 ---

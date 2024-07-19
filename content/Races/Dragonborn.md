@@ -3,6 +3,7 @@ title: Dragonborn
 draft: false
 tags:
   - Race
+  - Dragonborn
 ---
 
 ![[dragonkin-art.png]]

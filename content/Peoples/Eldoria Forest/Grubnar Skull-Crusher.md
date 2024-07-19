@@ -3,8 +3,7 @@ title: Krag Rock-Biter
 draft: false
 tags:
   - Person
-  - Goblin
-  - Enemy
+  - Goblins
 order: 2
 ---
 ![[_token-editor_token-uploads_deity_gruumsh_2024-07-07T23_40_21.932Z.png]]

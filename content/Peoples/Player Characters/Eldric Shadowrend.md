@@ -4,6 +4,8 @@ draft: false
 tags:
   - Player
   - Bard
+  - Elves
+  - Humans
 order: 2
 profile: "[[eldric.png]]"
 ---

@@ -4,6 +4,7 @@ draft: false
 tags:
   - Player
   - Rogue
+  - Kenku
 order: 2
 profile: "[[thistle.png]]"
 ---

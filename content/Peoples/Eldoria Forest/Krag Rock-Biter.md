@@ -3,8 +3,7 @@ title: Krag Rock-Biter
 draft: false
 tags:
   - Person
-  - Goblin
-  - Enemy
+  - Goblins
 order: 1
 profile: "[[goblin-fat.png]]"
 ---

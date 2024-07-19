@@ -4,6 +4,7 @@ draft: false
 tags:
   - Player
   - Warlock
+  - Humans
 order: 2
 profile: "[[kai.png]]"
 ---

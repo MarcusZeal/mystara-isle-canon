@@ -4,6 +4,8 @@ draft: false
 tags:
   - Player
   - Fighter
+  - Dragonborn
+  - Drag
 order: 2
 profile: Garos.png
 ---

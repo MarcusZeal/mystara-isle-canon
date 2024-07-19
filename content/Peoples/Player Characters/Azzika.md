@@ -4,6 +4,7 @@ draft: false
 tags:
   - Player
   - Monk
+  - Humans
 order: 2
 profile: azzika.png
 ---

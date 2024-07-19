@@ -3,6 +3,7 @@ title: Kenku
 draft: false
 tags:
   - Race
+  - Kenku
 order:
 ---
 ### Kenku Race Lore

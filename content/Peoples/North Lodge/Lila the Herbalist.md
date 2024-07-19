@@ -4,6 +4,7 @@ draft: false
 tags:
   - Person
   - North-Lodge
+  - Elves
 order: 7
 profile: "[[lila-the-herbalist.webp]]"
 ---

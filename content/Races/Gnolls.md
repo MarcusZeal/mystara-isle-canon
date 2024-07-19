@@ -3,6 +3,7 @@ title: Gnolls
 draft: false
 tags:
   - Race
+  - Gnolls
 ---
 
 #### Overview
