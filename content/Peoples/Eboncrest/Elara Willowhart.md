@@ -32,7 +32,9 @@ Elara's deep connection to nature and her innate elven abilities make her a reve
 
 #### Appearance
 
-Elara is a striking figure, embodying the elegance and timeless beauty characteristic of elves. She stands tall with a slender frame, her movements fluid and graceful. Her long, flowing hair is a rich auburn, often adorned with delicate flowers and leaves. Elara's piercing green eyes reflect her deep connection to nature and her sharp intellect. She dresses in robes of earthy tones, intricately embroidered with floral patterns, exuding both her natural affinity and her sophisticated style.
+Elara is a striking figure, embodying the elegance and timeless beauty characteristic of elves. She stands tall with a slender frame, her movements fluid and graceful. Her long, flowing hair is a striking platinum blonde, often adorned with delicate flowers and leaves. 
+
+Elara's piercing green eyes reflect her deep connection to nature and her sharp intellect. She dresses in robes of earthy tones, intricately embroidered with floral patterns, exuding both her natural affinity and her sophisticated style.
 
 ---
 
