@@ -49,7 +49,7 @@ order: 3
 > **And off in the corner you see a... rock?**
 > 
 
-- [[Snappy]] introduces himself?
+- [[Ren 'Snappy' Hamasaki]] introduces himself?
 
 #### Potential Questions
 
