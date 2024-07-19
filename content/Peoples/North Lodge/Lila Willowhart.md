@@ -10,14 +10,20 @@ tags:
 order: 7
 profile: "[[lila-the-herbalist.webp]]"
 ---
-![[lila-the-herbalist.png]]
-#### Lila the Herbalist
+### Lila the Herbalist
 
-- **Role**: Herbalist and Healer
+**Name**: Lila Willowhart  
+**Race**: Elf  
+**Age**: 120 years  
+**Occupation**: Herbalist  
+**Siblings**: Elara Willowhart (elder sister), Fennian (younger brother)
+
+![[lila-the-herbalist.png]]
+
+
 - **Description**: Lila is a petite woman appear to be her late 30s with long, braided red hair and bright green eyes. She often wears practical clothing suitable for foraging in the forest.
 	- Lila is an elf, a fact that the people from Earth did not recognize until much later. She is not, in fact, in her late 30s; but instead well over 100. 
 - **Personality**: Gentle, nurturing, and a bit eccentric, with a deep love for nature.
-- **Background**: Lila moved to [[North Lodge]] a decade ago after losing her family to illness in [[City of Balgaran]]. She found solace in the forest and became a skilled herbalist, using her knowledge to help the villagers.
 - **Motivation**: Lila is dedicated to healing and protecting both people and the environment. She is always on the lookout for rare herbs and remedies.
 
 #### Notable Traits:
@@ -28,22 +34,9 @@ profile: "[[lila-the-herbalist.webp]]"
 
 #### Relationships:
 
-- **Mentored by [[Elder Thalia]]**: Lila has learned much of her herbal knowledge from Thalia and respects her deeply.
 - **Respected by [[Gareth the Blacksmith]]**: Gareth often relies on Lila for her healing skills, especially after long days at the forge.
 - **Friendly with [[Brom the Innkeeper]]**: Lila enjoys spending time at The Resting Stag, where she can share her herbal teas and remedies with the villagers.
 
-
----
-
-## Background
-
-### Lila the Herbalist
-
-**Name**: Lila Willowhart  
-**Race**: Elf  
-**Age**: 120 years  
-**Occupation**: Herbalist  
-**Siblings**: Elara Willowhart (elder sister), Fennian (younger brother)
 
 ---
 
@@ -77,9 +70,9 @@ Additionally, Lila has formed a unique bond with the goblin community, having wo
 
 Lila was born in the druidic community of [[Balgaran Woods]], where her family and the elders called upon nature's magic to perform great deeds. Growing up in this environment, Lila developed a deep appreciation for the natural world and its healing properties. While she never pursued the path of a druid like many in her community, she was inspired by their connection to the elements and their ability to harness nature's power.
 
-When Lila was in her 50s, she traveled to [[Eboncrest]] to study under her elder sister, Elara. For 30 years, Lila apprenticed at The Whispering Willow, learning the intricacies of herbalism and honing her skills. Elara's guidance and mentorship were instrumental in shaping Lila into the skilled herbalist she is today. Under her sister's tutelage, Lila gained a deep understanding of herbs, potions, and natural remedies, as well as the wisdom to use them effectively.
+When Lila was in her 70s, she traveled to [[Eboncrest]] to study under her elder sister, Elara. For many years, Lila apprenticed at The Whispering Willow, learning the intricacies of herbalism and honing her skills. Elara's guidance and mentorship were instrumental in shaping Lila into the skilled herbalist she is today. Under her sister's tutelage, Lila gained a deep understanding of herbs, potions, and natural remedies, as well as the wisdom to use them effectively.
 
-In her 80s, Lila decided to strike out on her own and bring her knowledge to a new community. She moved to [[North Lodge]], where she established her own herbalist shop. Her gentle nature and expertise quickly earned her the trust and admiration of the villagers. 
+After almost a decade of study, Lila decided to strike out on her own and bring her knowledge to a new community. She moved to [[North Lodge]], where she established her own herbalist shop. Her gentle nature and expertise quickly earned her the trust and admiration of the villagers. 
 
 Lila's shop became a sanctuary for those seeking healing and guidance, and her reputation as a skilled herbalist spread throughout the region.
 
@@ -89,7 +82,7 @@ When Lila isn't in her shop, and home, she can be found at [[The Resting Stag]] 
 
 #### The Herbalist Shop
 
-Lila's shop in North Lodge is a cozy and welcoming space filled with the scents of fresh herbs and flowers. Shelves are lined with jars of dried plants, bottles of potions, and handmade remedies. 
+Lila's shop in [[North Lodge]] is a cozy and welcoming space filled with the scents of fresh herbs and flowers. Shelves are lined with jars of dried plants, bottles of potions, and handmade remedies. 
 
 The walls are adorned with botanical illustrations and notes, showcasing Lila's extensive knowledge. A small garden behind the shop provides a steady supply of fresh herbs, carefully tended by Lila herself.
 
@@ -111,4 +104,6 @@ The Willowhart siblings' strong familial ties are a source of strength and comfo
 
 In [[North Lodge]], Lila is a pillar of the community. Her shop is not just a place for healing but also a gathering spot for villagers seeking comfort and advice. Lila's deep knowledge of herbalism, combined with her compassionate nature, makes her an invaluable resource for the people of North Lodge.
 
-Her reputation as a healer extends beyond the village, attracting visitors from neighboring areas who seek her expertise. Lila's dedication to her craft and her unwavering commitment to helping others have made her a beloved figure in the region. Through her work, Lila continues to honor the druidic traditions of her upbringing while forging her own path as a healer and herbalist.
+Her reputation as a healer extends beyond the village, attracting visitors from neighboring areas who seek her expertise. Lila's dedication to her craft and her unwavering commitment to helping others have made her a beloved figure in the region. 
+
+Through her work, Lila continues to honor the druidic traditions of her upbringing while forging her own path as a healer and herbalist.

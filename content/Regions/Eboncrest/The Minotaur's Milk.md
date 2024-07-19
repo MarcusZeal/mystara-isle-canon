@@ -84,3 +84,4 @@ Str: 6 (-2); Dex: 14 (+2); Con: 12 (+1); 
 Int: 17 (+3); Wis: 9 (-1); Cha: 16 (+3);   
 AC: 12; HP: 15  
 **Dagger:** _Melee Weapon Attack:_ **+4** to hit, reach 5 ft., one target. _Hit:_ 4 (**1d4 + 2**)
+
