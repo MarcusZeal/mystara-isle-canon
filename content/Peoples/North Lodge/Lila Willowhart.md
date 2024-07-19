@@ -5,6 +5,8 @@ tags:
   - Person
   - North-Lodge
   - Elves
+  - Herbalism
+  - Alchemy
 order: 7
 profile: "[[lila-the-herbalist.webp]]"
 ---

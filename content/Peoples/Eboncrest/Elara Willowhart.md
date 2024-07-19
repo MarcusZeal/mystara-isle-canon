@@ -1,11 +1,13 @@
 ---
 title: Elara Willowhart
-draft: true
+draft: false
 tags:
   - City
   - Eboncrest
   - Elves
   - Person
+  - Herbalism
+  - Alchemy
 zoneMap:
 ---
 ### Elara Willowhart

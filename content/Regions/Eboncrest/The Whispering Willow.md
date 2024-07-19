@@ -1,9 +1,11 @@
 ---
 title: The Whispering Willow
-draft: true
+draft: false
 tags:
   - City
   - Eboncrest
+  - Herbalism
+  - Alchemy
 zoneMap:
 ---
 
