@@ -23,30 +23,36 @@ order: 2
 - **Ancient Eldoran**: Vyrra was once a revered mage of the Eldoran civilization, known for her wisdom and mastery of elemental magic. She was part of a council that sought to protect Mystara from external threats.
 - **The Cataclysm**: Vyrra discovered the impending cataclysm through her prophetic visions. Desperate to prevent it, she performed a forbidden ritual to gain the power needed to save her people. The ritual backfired, causing the very catastrophe she sought to prevent and transforming her into an ageless hag.
 - **Agelessness and Isolation**: Over centuries, Vyrra witnessed the rise and fall of civilizations. Her isolation and longevity twisted her mind, turning her once noble intentions into a relentless obsession to control and manipulate events to prevent another cataclysm.
+- **Twisted Transformation**: Vyrra's transformation into a hag was not just physical. Her once compassionate heart grew cold, and her mind became a labyrinth of paranoia and desperation. She still harbors the memories of her Eldoran self, which haunt her dreams.
+	- Vyrra uses magic to maintain her past appearance instead of the hag she truly is. 
 
 ### Personality:
 - **Driven and Obsessive**: Vyrra is driven by her desire to prevent another catastrophe, even if it means resorting to dark and ruthless methods. Her obsession has made her paranoid and distrustful.
 - **Calculating and Manipulative**: She is a master of manipulation, using doppelgangers and dark magic to influence events from the shadows.
 - **Tragic and Haunted**: Beneath her monstrous exterior lies a being haunted by her past mistakes and the weight of centuries of guilt.
+- **Twisted Compassion**: Vyrra genuinely believes she is the only one who can prevent another disaster, seeing herself as a necessary evil. Her actions, though cruel, are motivated by a warped sense of duty.
 
 ### Abilities:
 - **Dark Magic**: Vyrra wields powerful dark magic, including curses, illusions, and necromancy. She can summon shadows and manipulate the fears of her enemies.
 - **Elemental Mastery**: Despite her transformation, she retains her mastery of elemental magic, able to conjure storms, earthquakes, and other natural disasters.
 - **Shape-shifting**: Vyrra can change her form at will, often using this ability to deceive and infiltrate.
 - **Immortality**: She cannot die of natural causes and is extremely resilient to damage.
+- **Shadow Manipulation**: Vyrra can manipulate shadows to conceal her presence, create illusions, and transport herself short distances through darkness.
 
 ### Goals:
 - **Prevent Another Cataclysm**: Vyrra believes that by controlling key events and manipulating powerful individuals, she can prevent another world-ending catastrophe.
 - **Uncover Ancient Secrets**: She seeks to uncover and harness ancient powers and artifacts to strengthen her control over Mystara.
 - **Eliminate Threats**: Vyrra perceives any powerful beings or groups not under her control as potential threats to her plans and will seek to eliminate or manipulate them.
+- **Reclaim Her Past**: Deep down, Vyrra yearns to find a way to undo her transformation and reclaim her lost humanity, even if she never openly admits it.
 
 ### Relationships:
 - **Doppelgangers**: She commands a network of doppelgangers, using them as spies and agents to further her goals.
 - **Ancient Allies**: Vyrra has made pacts with other ancient beings, trading power and knowledge to secure their allegiance.
 - **Enemies**: She views the Archmage Elara and the Academy of Kylastrin as significant threats to her plans. She is also wary of any heroes or adventurers who seek to oppose her.
+- **Forgotten Friends**: Vyrra once had close friends among the Eldorans, some of whom she accidentally condemned to their doom. Their memories torment her.
 
 ### Redeeming Qualities:
-- **Genuine Concern**: Despite her twisted methods, Vyrra's primary motivation is to prevent another cataclysm and protect Mystara.
+- - **Genuine Concern**: Despite her twisted methods, Vyrra's primary motivation is to prevent another cataclysm and protect Mystara.
 - **Knowledge and Wisdom**: She possesses immense knowledge of Mystara's history and ancient magic, which could be invaluable if she could be persuaded to share it.
 - **Tragic Past**: Vyrra's transformation and descent into darkness were driven by her desperate attempt to save her people, adding depth and complexity to her character.
 

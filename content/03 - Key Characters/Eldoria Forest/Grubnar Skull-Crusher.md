@@ -1,5 +1,5 @@
 ---
-title: Krag Rock-Biter
+title: Grubnar Skull-Crusher
 draft: false
 tags:
   - Person

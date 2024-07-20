@@ -16,7 +16,7 @@ profile: elara-willowhart-dp.webp
 
 **Name**: Elara Willowhart  
 **Race**: Elf  
-**Age**: 150 years  
+**Age**: 224 years  
 **Occupation**: Proprietor of The Whispering Willow  
 **Siblings**: [[Lila Willowhart]] (younger sister), Fennian (youngest brother)
 

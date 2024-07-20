@@ -368,13 +368,13 @@ Just as the players start to feel the weight of the journey, they are suddenly s
 
 ### Scene 8 Thistle Confrontation 
 
-[[Posidonius, the Quantum Mage]], tired of [[Thistle the Kenku]]'s shenanigans began aggressively questioning Thistle after Thistle seemingly attacked him and [[Luke (Garos)]] unprovoked. 
+[[Posidonius, the Quantum Mage]], tired of [[Thistle the Kenku]]'s shenanigans began aggressively questioning Thistle after Thistle seemingly attacked him and [[Garos]] unprovoked. 
 
 After a long back and forth, they learn that Thistle is cursed and cannot speak. He can speak telepathically through his daggers though. Thistle was trying to speak to them each telepathically, but it looks aggressive. 
 
 They left that heated conversation knowing more about each other. 
 
-[[Luke (Garos)]] pointed out that the Barghests said that "you're not even from this world!" before attacking. Noticing that perhaps the antagonist knows that they are from Earth. It is here when the party revealed to one another that they were all from Earth. 
+[[Garos]] pointed out that the Barghests said that "you're not even from this world!" before attacking. Noticing that perhaps the antagonist knows that they are from Earth. It is here when the party revealed to one another that they were all from Earth. 
 
 ### Scene 9: Entering the Ruins
 
