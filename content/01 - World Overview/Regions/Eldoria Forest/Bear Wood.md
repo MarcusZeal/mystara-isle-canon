@@ -1,6 +1,6 @@
 ---
 title: Bear Wood
-draft: true
+draft: false
 order: 6
 tags:
   - Enchanted-Forest

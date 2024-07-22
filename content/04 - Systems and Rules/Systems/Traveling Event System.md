@@ -37,8 +37,10 @@ Events are the main component of the Traveling Event System. An event is anythin
 
 Once a party has encountered the number of events determined by the distance traveled, they arrive at their destination.
 
-TIP: It is important to note that you are welcome and encouraged to alter these numbers. As a matter of fact, the system itself encourages it.  
+**TIP**: It is important to note that you are welcome and encouraged to alter these numbers. As a matter of fact, the system itself encourages it.  
+
 If you feel like the distance they are traveling is long enough to merit 4 events because you want it to feel longer, you are more than welcome to tweak it to be so. Also, nothing is stopping you from adding another event to a short distance if the needs of the story dictate it. Plenty of events can happen on a short walk!  
+
 Rather than getting tangled up in specifics about distance, ask yourself what this journey will feel like. These numbers are just a guide.
 
 ### Type of Events

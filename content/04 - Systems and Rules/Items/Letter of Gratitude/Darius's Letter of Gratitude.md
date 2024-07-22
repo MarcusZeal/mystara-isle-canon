@@ -1,6 +1,6 @@
 ---
 title: Darius's Letter of Gratitude
-draft: true
+draft: false
 tags:
   - Item
   - Ironheart

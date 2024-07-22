@@ -1,6 +1,6 @@
 ---
 title: Miri's Letter of Gratitude
-draft: true
+draft: false
 tags:
   - Item
   - Dawnham
