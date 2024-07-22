@@ -1,13 +1,13 @@
 ---
 title: Darius's Letter of Gratitude
-draft: false
+draft: true
 tags:
   - Item
   - Ironheart
   - North-Lodge
 order: 2
 ---
-**Captain Thorne,**
+**Captain Borne,**
 
 I hope this letter finds you in good health and high spirits. It’s been a while since we last spoke, and I wanted to share some news that you might find of interest. Recently, our peaceful village of [[North Lodge]] faced an unexpected and dangerous threat—an invasion of changelings.
 
