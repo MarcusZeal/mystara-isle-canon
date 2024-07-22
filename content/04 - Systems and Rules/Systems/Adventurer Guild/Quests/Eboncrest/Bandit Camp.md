@@ -1,6 +1,6 @@
 ---
 title: Bandit Camp
-draft: true
+draft: false
 tags:
   - City
   - Quests

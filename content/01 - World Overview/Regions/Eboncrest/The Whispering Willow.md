@@ -9,11 +9,13 @@ tags:
 zoneMap:
 ---
 
-#### Setting the Scene
+### Setting the Scene
 
-> As you step into The Whispering Willow, a sense of calm and serenity washes over you. The soft glow of enchanted lanterns casts a warm, inviting light, illuminating the cozy and well-furnished interior. The air is filled with the soothing scents of herbal teas and freshly baked pastries. Shelves lined with books and curiosities stretch along the walls, while comfortable seating areas invite you to sit and relax. The soft murmur of conversations and the occasional sound of a page turning create an atmosphere of quiet reflection and comfort.
+> As you step into The Whispering Willow, a sense of calm and serenity washes over you. The soft glow of enchanted lanterns casts a warm, inviting light, illuminating the cozy and well-furnished interior. 
+> 
+> The air is filled with the soothing scents of herbal teas and freshly baked pastries. Shelves lined with books and curiosities stretch along the walls, while comfortable seating areas invite you to sit and relax. The soft murmur of conversations and the occasional sound of a page turning create an atmosphere of quiet reflection and comfort.
 >
-> Before you stands a tall, slender elf with long, flowing green hair and piercing emerald eyes. She wears flowing robes adorned with intricate leaf patterns, giving her an ethereal appearance.
+> Before you stands a tall, slender elf with long, flowing white hair and piercing emerald eyes. She wears flowing robes adorned with intricate leaf patterns, giving her an ethereal appearance.
 
 ###### Dialogue
 
@@ -21,16 +23,13 @@ zoneMap:
 
 ---
 
-#### Notable NPCs
+### Notable NPCs
+##### Eldara Willowhart
 
-**[[Elara Willowhart]]**:
+![[Elara Willowhart]]
 
-- **Appearance**: Elara is a tall, slender elf with long, flowing green hair and piercing emerald eyes. She wears flowing robes adorned with intricate leaf patterns, giving her an ethereal appearance.
-- **Personality**: Calm and wise, Elara exudes an air of tranquility. She is a great listener and provides sage advice to those who seek her counsel.
-- **Background**: Elara comes from a long line of herbalists and healers. She opened The Whispering Willow to share her knowledge and provide a sanctuary for those in need of healing and guidance. 
-- **Family**: She is [[Lila Willowhart]]'s and Fennian's eldest sister. 
 
-**Fennian Willowhart**:
+##### Fennian Willowhart:
 
 - **Appearance**: Fennian, Elara’s younger brother, is a short, stocky elf with a kind smile and bright blue eyes. He often wears simple, practical clothing suited for working in the shop.
 - **Personality**: Cheerful and outgoing, Fennian is always eager to help and make customers feel welcome. He has a passion for crafting and brewing.

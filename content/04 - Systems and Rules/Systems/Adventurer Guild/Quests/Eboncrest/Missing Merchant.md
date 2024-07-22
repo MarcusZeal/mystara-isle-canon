@@ -1,6 +1,6 @@
 ---
 title: Missing Merchant
-draft: true
+draft: false
 tags:
   - City
   - Quests

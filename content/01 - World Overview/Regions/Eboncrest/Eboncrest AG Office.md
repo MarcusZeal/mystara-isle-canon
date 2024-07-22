@@ -7,6 +7,7 @@ tags:
   - Eboncrest
 zoneMap:
 ---
+## First Time
 ### Setting the Scene
 
 > Nestled within the bustling heart of [[Eboncrest]], [[The Adventurers' Guild]] stands as a beacon of opportunity and camaraderie. The grand stone building is adorned with banners displaying the guild's emblem – a sword crossed with a staff, encircled by a wreath of laurel leaves. The entrance is flanked by two imposing statues of renowned adventurers from ages past, their expressions resolute and inspiring.
@@ -123,7 +124,7 @@ Once you have chosen and registered a quest, your party is ready to embark on yo
 The Adventurers Guild is not just a place to find work; it's a community of like-minded individuals striving to make their mark on the world. Here, you'll forge alliances, uncover mysteries, and write your own legendary tale.
 
 
-### Available Quests
+## Available Quests
 
 
 #### "Missing Merchant"
@@ -150,7 +151,7 @@ A well-known merchant, Orlin Silverweave, has gone missing on the trade route to
 
 
 #### "Haunted House"
-**Ranking**: Sil  
+**Ranking**: Silver  
 **Reward**: 250 Gold
 
 **...An abandoned house in the western district is said to be haunted. Discover the cause and eliminate any threats...**
