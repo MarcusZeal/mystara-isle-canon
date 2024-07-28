@@ -1,5 +1,5 @@
 ---
-title: Aubori, Goddess of nature and beauty
+title: Aubori
 draft: false
 tags:
   - Religion

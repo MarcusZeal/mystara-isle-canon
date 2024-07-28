@@ -1,5 +1,5 @@
 ---
-title: Sindri, Goddess of creativity and invention
+title: Sindri
 draft: false
 tags:
   - Religion

@@ -1,5 +1,5 @@
 ---
-title: Morto, God of necromancy and secrets
+title: Morto
 draft: false
 tags:
   - Religion

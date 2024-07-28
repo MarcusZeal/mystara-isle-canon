@@ -1,5 +1,5 @@
 ---
-title: Aerako, Mischievous god of wind
+title: Aerako
 draft: false
 tags:
   - Religion

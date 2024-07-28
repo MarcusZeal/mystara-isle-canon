@@ -1,5 +1,5 @@
 ---
-title: Istoro, God of wisdom and knowledge
+title: Istoro
 draft: false
 tags:
   - Religion

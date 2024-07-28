@@ -53,3 +53,7 @@ As you arrive in [[North Lodge]], you find the village in a state of quiet uneas
 
 
 ![[Mystara Isle - World Map]]
+
+
+
+**Update: 7/28/2024** - Mystara Isle is now just one isle in the vast ocean of Vodari. Source books can be found and bought here: https://www.tribality.com/store/product/the-seas-of-vodari/

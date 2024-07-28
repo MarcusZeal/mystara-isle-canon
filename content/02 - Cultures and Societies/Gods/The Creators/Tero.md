@@ -1,5 +1,5 @@
 ---
-title: Tero, God of light, love, and healing
+title: Tero
 draft: false
 tags:
   - Religion

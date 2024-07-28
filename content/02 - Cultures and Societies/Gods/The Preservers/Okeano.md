@@ -1,5 +1,5 @@
 ---
-title: Kalder, God of the sea and sea creatures
+title: Kalder
 draft: false
 tags:
   - Religion

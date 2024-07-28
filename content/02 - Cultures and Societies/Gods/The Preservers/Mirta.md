@@ -1,5 +1,5 @@
 ---
-title: Istoro, Goddess of birth and death
+title: Istoro
 draft: false
 tags:
   - Religion

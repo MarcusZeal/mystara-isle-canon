@@ -1,5 +1,5 @@
 ---
-title: Taeva, Goddess of civilization and war
+title: Taeva
 draft: false
 tags:
   - Religion

@@ -1,5 +1,5 @@
 ---
-title: Lupara, the Moon Huntress
+title: Lupara
 draft: false
 tags:
   - Religion

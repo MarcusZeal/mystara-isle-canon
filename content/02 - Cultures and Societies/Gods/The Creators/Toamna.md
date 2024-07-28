@@ -1,5 +1,5 @@
 ---
-title: Toamma, Goddess of agriculture and fertility
+title: Toamma
 draft: false
 tags:
   - Religion

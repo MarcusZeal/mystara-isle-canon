@@ -1,5 +1,5 @@
 ---
-title: Vesi, Goddess of chaos, storms, and darkness
+title: Vesi
 draft: false
 tags:
   - Religion

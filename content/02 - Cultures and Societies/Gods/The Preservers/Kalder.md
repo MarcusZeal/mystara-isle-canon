@@ -1,5 +1,5 @@
 ---
-title: Kalder, God of Winter, Survival, and Valor
+title: Kalder
 draft: false
 tags:
   - Religion

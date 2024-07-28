@@ -1,5 +1,5 @@
 ---
-title: Volkan, God of fire and destruction
+title: Volkan
 draft: false
 tags:
   - Religion

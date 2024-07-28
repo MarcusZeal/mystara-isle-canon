@@ -1,5 +1,5 @@
 ---
-title: Scatho, God of conquest and tyranny
+title: Scatho
 draft: false
 tags:
   - Religion

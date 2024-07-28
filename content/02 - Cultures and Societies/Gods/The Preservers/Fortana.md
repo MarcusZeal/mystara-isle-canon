@@ -1,5 +1,5 @@
 ---
-title: Fortana, Goddess of freedom and good fortune
+title: Fortana
 draft: false
 tags:
   - Religion

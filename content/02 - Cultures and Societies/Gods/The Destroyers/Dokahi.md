@@ -1,5 +1,5 @@
 ---
-title: "Dokahi\r, Goddess of the deep sea, epic poetry, and monsters"
+title: Dokahi
 draft: false
 tags:
   - Religion
