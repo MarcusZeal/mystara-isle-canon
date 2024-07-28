@@ -179,9 +179,9 @@ These stairs connect to the different floors of the castle. The way down leads t
 
 **Arcana Check (DC 12)** : The sword is giving off magical energy.
 
-**Strength Check (DC 20)** : You smash the statue, revealing [[The Gray]] inside.
+**Strength Check (DC 20)** : You smash the statue, revealing [[The Grey]] inside.
 
-![[The Gray]]
+![[The Grey]]
 
 **Monsters:**
 
