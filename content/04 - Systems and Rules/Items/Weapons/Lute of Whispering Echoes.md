@@ -1,6 +1,6 @@
 ---
 title: Lute of Whispering Echoes
-draft: true
+draft: false
 tags:
   - Item
 order:
