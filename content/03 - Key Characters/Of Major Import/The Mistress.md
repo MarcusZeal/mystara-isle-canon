@@ -21,10 +21,14 @@ order: 2
 
 ### Backstory:
 - **Ancient Eldoran**: Vyrra was once a revered mage of the Eldoran civilization, known for her wisdom and mastery of elemental magic. She was part of a council that sought to protect Mystara from external threats.
-- **The Cataclysm**: Vyrra discovered the impending cataclysm through her prophetic visions. Desperate to prevent it, she performed a forbidden ritual to gain the power needed to save her people. The ritual backfired, causing the very catastrophe she sought to prevent and transforming her into an ageless hag.
-- **Agelessness and Isolation**: Over centuries, Vyrra witnessed the rise and fall of civilizations. Her isolation and longevity twisted her mind, turning her once noble intentions into a relentless obsession to control and manipulate events to prevent another cataclysm.
-- **Twisted Transformation**: Vyrra's transformation into a hag was not just physical. Her once compassionate heart grew cold, and her mind became a labyrinth of paranoia and desperation. She still harbors the memories of her Eldoran self, which haunt her dreams.
-	- Vyrra uses magic to maintain her past appearance instead of the hag she truly is. 
+- **The Cataclysm**: Vyrra discovered the impending cataclysm through her prophetic visions. 
+	- Desperate to prevent it, she attempted to stop the Thorne family from killing another god to harvest their organs for power. In their confrontation, Vyra or Thorne struck Lupara's Heart, causing a massive explosion that eradicated the immediate area and created a catastrophic tidal wave that plunged all but the tallest mountains underwater.
+
+**Agelessness and Isolation**: Over centuries, Vyrra witnessed the rise and fall of civilizations. Her isolation and longevity twisted her mind, turning her once noble intentions into a relentless obsession to control and manipulate events to prevent another cataclysm.
+
+**Twisted Transformation**: Vyrra's transformation into a hag was not just physical. Her once compassionate heart grew cold, and her mind became a labyrinth of paranoia and desperation. She still harbors the memories of her Eldoran self, which haunt her dreams. Vyrra uses magic to maintain her past appearance instead of the hag she truly is.
+
+
 
 ### Personality:
 - **Driven and Obsessive**: Vyrra is driven by her desire to prevent another catastrophe, even if it means resorting to dark and ruthless methods. Her obsession has made her paranoid and distrustful.

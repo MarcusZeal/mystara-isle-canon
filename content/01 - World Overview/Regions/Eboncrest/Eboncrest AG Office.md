@@ -195,7 +195,7 @@ Recently, wolves have been attacking livestock in the farms surrounding [[Eboncr
 
 #### "Bandit Camp"
 **Ranking**: Silver  
-**Reward**: 250 Gold, 1 Uncommon Rarity Weapon
+**Reward**: 150 Gold, 1 Uncommon Rarity Weapon
 
 
 **...A bandit camp has been raiding caravans near the mountains. Disband the camp and bring the bandits to justice...**

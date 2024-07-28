@@ -30,7 +30,7 @@ Goblins live in tightly-knit communities that emphasize cooperation and survival
 
 Goblins have a rich spiritual life centered around deities that reflect their values and way of life. The most revered deity among goblins is Grumshar, the Anvil of Craft.
 
-- **[[Grumshar, the Goblin God of Craft]]**: The goblin deity of craftsmanship and creation. Grumshar is deeply respected by Goblins, symbolizing ingenuity and resourcefulness.
+- **[[Sindri]]**: The goblin deity of craftsmanship and creation. Grumshar is deeply respected by Goblins, symbolizing ingenuity and resourcefulness.
 - **[[Mask, the God of Thieves]]**: The god of stealth, trickery, and shadows. Mask is worshipped by thieves, spies, and those who value cunning and guile, guiding them to use their wits and stealth to achieve their goals.
 
 #### Habitat and Settlements

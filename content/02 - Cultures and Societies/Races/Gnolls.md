@@ -31,10 +31,10 @@ Gnolls are deeply spiritual, with a belief system centered around the worship of
 
 **Key Deities**:
 
-- **[[Lupara, the Moon Huntress]]**: The goddess of the moon, hunting, and the wilderness. Lupara is revered by those who respect her guidance in the balance of nature and the art of the hunt.
+- **[[Lupara]]**: The goddess of the moon, hunting, and the wilderness. Lupara is revered by those who respect her guidance in the balance of nature and the art of the hunt.
 - **[[Mask, the God of Thieves]]**: The god of stealth, trickery, and shadows. Mask is worshipped by thieves, spies, and those who value cunning and guile, guiding them to use their wits and stealth to achieve their goals.
-- **[[Gaeloria, Goddess of Earth]]**: The goddess of fertility, stability, and the natural world. Gaeloria is worshipped by those who seek her blessings for growth, harmony with nature, and the enduring strength of the earth.
-- **[[Gond, the God of Craft]]**: The god of invention, engineering, and craftsmanship. Gond is revered by inventors, artisans, and craftsmen for his guidance in creativity and innovation.
+- **[[Toamna, Goddess of agriculture and fertility]]**: The goddess of fertility, stability, and the natural world. Gaeloria is worshipped by those who seek her blessings for growth, harmony with nature, and the enduring strength of the earth.
+- **[[Sindri, Goddess of creativity and invention]]**: The god of invention, engineering, and craftsmanship. Gond is revered by inventors, artisans, and craftsmen for his guidance in creativity and innovation.
 
 #### Tribes and Lifestyles
 

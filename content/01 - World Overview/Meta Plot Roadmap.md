@@ -3,221 +3,210 @@ title: Meta Plot
 draft: true
 order: 0
 ---
+### Act 1: The Mistress's Influence
 
-### Act 1: The Hag's Influence
-
-#### 1. Introduction to the Hag's Influence
-
+#### 1. Introduction to the Mistress's Influence
 - **Initial Clues**: Players encounter strange occurrences and cryptic clues (e.g., torn notes) hinting at a hidden enemy manipulating events from the shadows.
 - **Goblin Attacks**: The goblin attacks on [[North Lodge]] are revealed to be the work of doppelgangers under The Mistress's control.
 
 #### 2. Investigation in the Hidden Cave
-
 - **Hidden Cave**: Players explore the goblin settlement and uncover more clues about the doppelgangers and their connection to The Mistress.
 - **Meeting Grubnar**: The Warchief provides additional context, sending the players to investigate [[Bear Wood]] and the deeper tunnels.
 - **Ancient Ruins of Eldoria**: The players venture into the ruins within Eldoria Forest, discovering the remnants of the ancient Eldoran civilization and the ancient threat tied to The Mistress.
 
 #### 3. First Confrontation
-
 - **Haunted Spirits and Constructs**: Players face the corrupted spirits and ancient constructs of the Eldorans, uncovering more about the ancient catastrophe.
 - **Discovering the Connection**: Clues within the ruins link the ancient catastrophe to The Mistress's current plans, hinting at a broader scheme.
+- **Defense of North Lodge**: The heroes defend North Lodge against an onslaught of Eldoran Changelings and Barghests, successfully protecting the village with the help of townspeople and allies.
+
+
+
+### Act 2: Journey to Balgaran and the Castle Thorne
+
+#### Plot Hook: Castle Thorne
+
+##### Session 1: Recognition and Rest
+
+- **Recognition and Celebration**: Heroes receive letters of recognition and 50 gold each from the residents of North Lodge, celebrating their victory at the inn.
+- **Journey to Eboncrest**: The adventurers travel to Eboncrest, encountering minor obstacles and making their way to the city.
+- **Introduction to Elara Willowhart**: The players meet Elara, who sends them on a quest to investigate Castle Thorne.
+- **Learn about the Adventurers Guild** : It is here they can become Adventurers. 
 
 ---
 
-### Act 2: Journey to Balgaran
+##### Session 2: Castle Thorne Investigation
 
-#### Plot Hook in Eboncrest
-
-- **Mysterious Disappearances**: Prominent merchants in Eboncrest have gone missing. The players are hired to investigate these disappearances, leading them into the heart of the city.
-- **Investigation and Allies**: Players navigate the diverse districts of Eboncrest, gathering information, and making alliances with the local rogue's guild and influential figures.
-- **Discovering the Shadowy Figures**: Players uncover that the kidnappings are the work of doppelgangers under the influence of the hags, further linking the events in Eboncrest to the broader threat.
-- **Discovering the Adventurer Guild.** Learn about how the AG works and how to use it to do what are essentially side quests to get gear. 
-
-#### Journey Through Dawnham
-
-**Arrival in Dawnham**:
-
-- **Budding Merchant Guild**: Upon arriving in Dawnham, the players are introduced to a budding merchant guild struggling to establish itself amid threats from bandits and rival merchants.
-- **Merchant Guild Leader**: They meet the guild leader, Alaric Thorn, who explains the challenges the guild faces and seeks the players' help in securing their trade routes and protecting their members.
-
-**Key Events in Dawnham**:
-
-- **Protecting Caravans**: Players are tasked with guarding merchant caravans traveling between Dawnham and neighboring settlements. This involves fending off bandit attacks and negotiating safe passage through contested areas.
-- **Investigating Sabotage**: The players investigate incidents of sabotage within the guild, uncovering a plot by rival merchants and possibly doppelgangers to undermine the guild's efforts.
-- **Negotiating Alliances**: The players help broker alliances between the merchant guild and local authorities or other factions, strengthening their position and securing mutual protection.
-
-**Clues and Discoveries**:
-
-- **Torn Note Fragments**: While investigating the sabotage, the players find more torn note fragments that reveal further details about the hags' plans and the connection to the ancient catastrophe.
-- **Ancient Relics**: Players uncover ancient relics being traded in the black market of Dawnham, hinting at their significance and linking them to the ruins of Eldoria.
-
-**Rewards and Alliances**:
-
-- **Merchant Guild Support**: The merchant guild pledges their support to the players, offering resources, safe passage, and trade opportunities.
-- **Ancient Knowledge**: The guild provides the players with valuable information about ancient trade routes and relics, aiding their journey west.
-
-#### Journey Through Sunfield
-
-**Arrival in Sunfield**:
-
-- **Friendly Gnolls**: The players arrive in Sunfield, a village inhabited by a race of friendly gnolls who are known for their agricultural prowess and communal spirit.
-- **Gnoll Chieftain**: They meet the Gnoll Chieftain, Tharak, who welcomes the players and shares the gnolls' concerns about increasing threats from the surrounding wilderness.
-
-**Key Events in Sunfield**:
-
-- **Defending the Village**: Players help defend Sunfield from attacks by marauding creatures and hostile factions, showcasing the gnolls' strength and resilience.
-- **Solving Mysteries**: The players investigate mysterious occurrences in the village, such as disappearing livestock and strange markings, eventually uncovering a plot by the hags to disrupt the gnolls' way of life.
-- **Cultural Exchange**: The players engage in a cultural exchange with the gnolls, learning about their traditions and forming bonds that strengthen their alliance.
-
-**Clues and Discoveries**:
-
-- **Doppelganger Spies**: Players discover doppelganger spies among the gnolls, revealing the hags' attempts to infiltrate and destabilize the community.
-- **Ancient Rituals**: The players learn about ancient gnoll rituals that have been passed down through generations, offering insight into the old world and potential countermeasures against the hags' magic.
-
-**Rewards and Alliances**:
-
-- **Gnoll Support**: The gnolls pledge their support to the players, offering warriors, scouts, and knowledge of the land to aid their journey.
-- **Ancient Ritual Knowledge**: The players gain access to powerful rituals and spells that can be used in their fight against the hags.
-
-#### Entering The Ruins of Balgaran
-
-**Journey to Balgaran**:
-
-- **Traveling West**: With the support of their new allies, the players travel west towards the ruins of Balgaran, navigating dangerous terrain and facing various challenges.
-- **Final Preparations**: Players gather supplies, reinforce their equipment, and make final preparations for the dangerous journey ahead.
-
-**Arrival at the Ruins**:
-
-- **City of Balgaran**: The players reach the ruined city of Balgaran, a once-great city now in ruins due to the catastrophic events orchestrated by The Mistress.
-- **Exploration and Danger**: As they explore the ruins, the players face powerful enemies and uncover the truth about the ancient catastrophe and The Mistress's goals.
-
-**Key Discoveries**:
-
-- **Ancient Catastrophe**: Players learn about the ancient catastrophe that led to the downfall of the Eldorans, drawing parallels to The Mistress's current plans.
-- **Hag's Influence**: The players uncover more evidence of The Mistress's influence, realizing the full extent of her plans and the danger she poses to Mystara.
-
-**Overwhelming Threat**:
-
-- **Unbeatable Foe**: Deep within the heart of Balgaran, the players encounter a formidable enemy they cannot defeat, showcasing the true power of The Mistress and her minions.
-- **Desperate Escape**: As the situation becomes dire, the players discover a circle of teleportation that transports them to the city of Kylastrin, saving them from certain doom.
+- **Travel to Castle Thorne**: They embark on the journey, facing a role-playing encounter with a lost traveler and a combat encounter with aggressive wildlife.
+- **Exploring Castle Thorne**: Players investigate the castle and discover it is cursed by The Mistress to punish the Thorne family for their past arrogance.
+- **Finding the Spell**: The party finds a scroll of Remove Curse, which can be added to the Wizard's spellbook.
 
 ---
 
-### Act 3: Uncovering the Truth in Kylastrin
+##### Session 3: Cleansing the Curse
 
-#### Arrival in Kylastrin
+- **Cleansing the Curse**: Players perform the ritual to cleanse the curse, facing resistance from cursed entities and environmental challenges. During this ritual they need to fight a big plant monster thingl 
+- **Discovery**: They find a snake-scale bound book detailing an ancient medusa family. 
+- **Aelorian's Insight**: Aelorian provides context about the book, leading the players to Glenthorp.
+- **Quest Board Alternative**: If players go back to the city, there's a quest that sends them to Glenthorp. 
+- **Lila Hook Alternative:** If players go back to Lila, Lila will send them to Glenthorp. 
+- **If Players Are Completionists .**... If players go off to kill wolves or some other quest, they do that first - but eventually the only thing left to do is go to Glenthorp. 
 
-**Rescue and Recovery**:
+==**L E V E L   U P**== 
 
-- **Narrative Setup**: The players, having barely escaped the overwhelming threat in Balgaran, find themselves suddenly teleported to the city of [[Kylastrin]], the fabled city of mages.
-- **Initial Impressions**: Kylastrin is a majestic city filled with towering spires, arcane symbols, and bustling academies. The air hums with magical energy.
-- **Welcoming Committee**: The players are met by members of the Arcane Council, who escort them to the Academy for recuperation.
+---
 
-**Academy Aid**:
+#### Journey to Glenthorp
 
-- **Meeting the Archmage**: Players are introduced to Archmage Madris, a powerful and wise mage who explains that she summoned them to Mystara to fulfill an ancient prophecy.
-- **Healing and Resources**: The players are given time to heal and are provided with magical resources, including potions, scrolls, and enchanted items.
-- **Training Sessions**: The Academy offers advanced training sessions in various schools of magic and combat, helping the players to improve their skills.
+##### Session 1: Travel to Glenthorp
 
-#### Learning About the Old World
+- **Journey Begins**: Players travel to Glenthorp, encountering role-playing challenges like navigating through difficult terrain and helping villagers with local problems.
+- **Combat Encounter**: They face a pack of wild beasts or bandits attacking a caravan.
 
-**Ancient Mystara**:
+---
 
-- **Library of Ages**: The players are given access to the Library of Ages, a vast repository of ancient knowledge. Here, they can research the history of Mystara and the Eldoran civilization.
-- **Interactive Tomes**: Players discover interactive tomes that display holographic images and reenactments of historical events, providing a visual and immersive learning experience.
+##### Session 2: Ruins Exploration (Mother Medusa Part 1)
 
-**Connection to the Hag**:
+- **Entering Glenthorp**: Players arrive to find the town partially destroyed by Vrael cultists. They meet the town cryer. They explain what happened and ask for help. 
+- **Exploring the Ruins**: They delve into the ruins, finding clues and fighting off cultist patrols as well as mind controlled paladins. 
 
-- **Ancient Catastrophe**: Players uncover detailed records of the ancient catastrophe that befell the Eldorans. They learn that the event was caused by a dark ritual gone wrong, which The Mistress seeks to replicate.
-- **Prophecy and Portents**: The players learn about a prophecy that foretells their arrival in Mystara to stop The Mistress and prevent another catastrophe. They see references to the Archmage's role in bringing them to this world.
-- **The Mistress's Plan**: Detailed documents reveal that The Mistress aims to recreate the ancient ritual to gain ultimate power and plunge Mystara into eternal chaos. The players must stop her before she succeeds.
+---
 
-**Exploration and Mystical Locations**:
+##### Session 3: Confronting Mazerisha (Mother Medusa Part 2)
 
-- **Arcane Laboratories**: Players explore the arcane laboratories where magical experiments and research are conducted. They find valuable artifacts and magical tools that can aid their quest.
-- **Elemental Chambers**: The Academy has chambers dedicated to each of the four elements (earth, air, fire, water). Players can visit these chambers to gain unique elemental powers and insights.
-- **Astral Observatory**: The players visit the Astral Observatory, a place where they can commune with celestial beings and gain prophetic visions about their journey.
+- **Mazerisha's Story**: Players confront Mazerisha and learn her story through ancient texts and environmental storytelling.
+- **Combat and Curse Removal**: They battle Mazerisha and her minions, eventually breaking her curse by removing her bracers and casting Remove Curse.
 
-#### Preparing for the Final Confrontation
+---
 
-**Strategic Planning**:
+##### Session 4: Kai's Letter
 
-- **Council of Allies**: The players convene a council of their allies, including representatives from the goblins, gnolls, rogue's guild, merchant guild, and the mages of Kylastrin.
-- **Formulating a Plan**: Together, they devise a strategy to infiltrate The Mistress's stronghold and disrupt her ritual. They allocate roles and responsibilities to each faction.
-- **Gathering Resources**: The players gather magical items, potions, and weapons. They also secure the assistance of powerful spellcasters and warriors from their allied factions.
+- **Receiving the Letter**: Kai receives a letter from Erisol Shyx, urging them to travel to Undertow for a treasure hunt. **LEVEL UP** to level 6.
+- **Preparation**: The party prepares for their next adventure, gathering supplies and information.
+- **Travel To Dawnham or Undertow** : Begin traveling to Dawnham or Undertow. 
+- **3 Encounters** (1 Combat, 2 RP).
 
-**Final Truths**:
+==**L E V E L   U P**== 
 
-- **Vision of the Future**: The Archmage performs a powerful divination spell, showing the players a vision of what will happen if The Mistress's plan succeeds. The vision is dire and motivates the players to act swiftly.
-- **Discovering Hidden Secrets**: The players uncover hidden secrets about their own abilities and potential, realizing that they are more powerful than they initially thought. They find ancient artifacts and relics that are crucial to their success.
-- **Emotional Farewells**: The players and their allies share emotional moments, reflecting on their journey and the bonds they've formed. They vow to protect Mystara and each other, no matter the cost.
-- **The Prophesy**: The players were summoned to Mystara by Archmage Madris of the Academy in Kylastrin.
+---
 
-###### Summoning of the Players
+#### Sailing Mission and Were Krab Campaign
 
-**The Prophecy**
+##### Session 1: Treasure Hunt in Undertow
 
-- Long ago, the ancient civilization of the Eldorans received a prophecy foretelling the rise of a great evil that would threaten the world of Mystara. The prophecy also spoke of heroes from another world who would come to Mystara's aid, bringing with them unique abilities and knowledge to counter this impending doom. The Eldorans recorded this prophecy in their most sacred texts, preserving it through the ages.
+- **Setting Sail**: The party embarks on their sailing mission, facing a role-playing encounter with a mysterious seafarer and a combat encounter with pirates.
 
-**The Archmage's Vision**
+---
 
-- Archmage Madris, a powerful and wise mage, discovered these ancient texts while studying the history of Mystara and the downfall of the Eldorans. As she delved deeper into the prophecy, she experienced visions of the approaching threat and the heroes from another world destined to save Mystara. Understanding the gravity of the situation, she dedicated herself to finding a way to bring these prophesied heroes to Mystara.
+##### Session 2: Were Krab Campaign
+
+- **Arrival at Undertow**: They arrive at Undertow, discovering the town's plight with the Were Krabs.
+- **Investigating the Curse**: Players investigate the source of the curse, encountering both role-playing and combat challenges.
+
+---
+
+##### Session 3: Sealing Ylgramoxillian
+
+- **Confrontation with Ylgramoxillian**: The party confronts and seals the Ylgramoxillian, deciding the fate of the Were Krab people.
+- **Mistress's Disapproval**: The Mistress approved of the release of Ylgramoxillian. It would have slowed progress. The heroes have earned her ire now. 
+
+
+==**L E V E L   U P**== 
+
+
+---
+
+##### Session 4: Confrontation with The Mistress
+
+- **Meeting The Mistress**: The party encounters The Mistress at an inn, where she begins by thanking them for sealing Ylgramoxillian. But it is later revealed what he plan really is and combat begins.
+- This session will be RP in the local Inn with a cloaked figure until she eventually reveals who she is and attacks. 
+- **Final Battle**: The Mistress attempts to kill the players. They are teleported to Kylastrin before she can finish them off.
+
+
+
+### Act 3: Uncovering the Truth 
+
+#### Session 1: Teleportation to Kylastrin
+
+**Introduction and Rescue**
+- Players are teleported to Kylastrin, saving them from certain death at the hands of The Mistress.
+- Archmage Madris explains that this teleportation used the last of the magic from an ancient relic, making it a one-time event.
+
+**The Full History**
+- Madris provides a comprehensive history of Mystara, the Eldoran civilization, and The Mistress's true intentions.
+- Explanation of the ancient catastrophe and how The Mistress's actions aim to prevent another similar event.
+- Madris reveals that she summoned the players to this world based on a prophecy foretelling their arrival and eventual victory over The Mistress.
+
+**The Dragonspire Ritual**
+- Madris instructs the players that they need to journey to the Dragonspire Mountains to perform a ritual that will imbue them with unparalleled power, necessary to defeat The Mistress.
+
+
+
+#### Session 2: Journey to Dragonspire Mountains
+
+**The Quest Begins**
+- Players set out on their journey to the Dragonspire Mountains, navigating treacherous terrain and facing various challenges.
+
+**Complications and Encounters**
+- **RP Encounter 1**: Players come across a tribe of reclusive mountain dwellers who provide cryptic guidance and warnings about the dangers ahead.
+- **Combat Encounter 1**: The party faces a group of territorial mountain trolls blocking their path.
+- **RP Encounter 2**: Players find an ancient shrine dedicated to a forgotten deity, where they must solve puzzles to gain blessings for their journey.
+
+**The Dragon's Lair**
+- Players encounter a powerful dragon guarding the path to the ritual site.
+- **Combat Encounter 2**: Epic battle against the dragon. The players must use strategy and teamwork to overcome this formidable foe.
+- Upon defeating the dragon, players gain access to the ritual site.
+
+
+
+#### Session 3: Performing the Ritual
+
+**The Ritual Site**
+- Players arrive at the ancient ritual site atop the Dragonspire Mountains, a place of immense magical energy.
 
 **The Ritual**
+- Madris guides the players through the steps of the ritual, which involves invoking the elements and channeling the ancient magic.
+- The ritual is a dramatic and intense process, with the environment reacting to the powerful energies being unleashed.
+- Upon completion, the players are supercharged, gaining extraordinary abilities and power (refrain from using game mechanics terms like "level up" in the narrative).
 
-- Using her extensive knowledge of arcane arts and the resources of the Academy, Archmage Madris devised a complex summoning ritual. This ritual required rare magical components, precise alignment of celestial bodies, and the combined power of the Academy's most skilled mages. The ritual aimed to pierce the veil between worlds and draw the chosen heroes into Mystara.
+**Return to Kylastrin**
+- Players return to Kylastrin, where they are celebrated by the mages and the Arcane Council.
+- Madris advises the players to gather support from their allies across Mystara before confronting The Mistress.
 
-**The Summoning**
 
-- At the height of the ritual, a powerful surge of magic enveloped the summoning chamber. The players, who were living their ordinary lives on Earth, suddenly found themselves caught in this magical energy. Each player experienced a brief moment of disorientation as they were transported across dimensions. When the magic subsided, the players found themselves in new, unfamiliar bodies, standing in the mystical land of Mystara.
 
-**Arrival in Mystara**
+#### Session 4: Gathering Allies
+**Rallying Support**
+- Players travel to various locations to rally their allies:
+  - **North Lodge**: Convincing Darius, Miri, and the townsfolk to join their cause.
+  - **Eboncrest**: Seeking the aid of Elara and other influential figures.
+  - **Grukthar Hollow**: Gaining the support of Grubnar and his goblin warriors.
+  - **Glenthorp**: Enlisting the help of any surviving resistance or allies from their previous encounters.
 
-- The players initially appeared scattered across Mystara but were quickly located and brought to the Academy in Kylastrin. There, Archmage Madris explained their purpose and the dire situation facing Mystara. She revealed that their summoning was guided by the prophecy and that they were the world's best hope against the rising threat of The Mistress.
+**Preparations for the Final Battle**
+- Players strategize with their allies, planning the assault on The Mistress's stronghold.
+- They gather resources, reinforce their equipment, and mentally prepare for the upcoming confrontation.
 
-**Infiltrating The Mistress's Stronghold**:
 
-- **Journey to the Stronghold**: The players and their allies travel to The Mistress's stronghold, facing various challenges and ambushes along the way.
-- **Stealth and Deception**: Using their skills and magical abilities, the players infiltrate the stronghold, avoiding detection and setting up strategic positions.
-- **Confronting Minions**: The players face off against The Mistress's most powerful minions, including doppelgangers, corrupted creatures, and dark spellcasters.
 
-**Final Battle with The Mistress**:
+#### Session 5: Confronting The Mistress
 
-- **Epic Showdown**: The players finally confront The Mistress in her ritual chamber. The battle is intense, with powerful spells and devastating attacks being exchanged.
-- **Disrupting the Ritual**: The players must disrupt the ritual while fighting off The Mistress and her minions. They need to use their knowledge of ancient magic and the artifacts they've gathered.
-- **Defeating The Mistress**: With their combined strength and the aid of their allies, the players defeat The Mistress, preventing the catastrophic ritual from being completed.
+**Journey to the Stronghold**
+- Players and their allies travel back to the Dragonspire Mountains, where The Mistress's stronghold is located.
+- Along the way, they face various challenges, ambushes, and moral dilemmas.
 
-**Aftermath and Resolution**:
+**The Moral Conflict**
+- Players learn more about The Mistress's motivations: she seeks to prevent another catastrophe like the one caused by the Eldoran's hubris.
+- The Mistress believes that slowing down progress and keeping people in a medieval state is the only way to protect Mystara from future disasters.
+- Players must grapple with the moral implications of her plan, questioning whether her methods, though extreme, might be justified.
 
-- **Restoring Balance**: With The Mistress defeated, the players and their allies work to restore balance to Mystara. They heal the land, rebuild communities, and strengthen their alliances.
-- **Honoring the Fallen**: The players and their allies honor those who fell in battle, creating memorials and holding ceremonies to remember their sacrifice.
-- **Future Adventures**: The players reflect on their journey and the new world they've helped to create. They are celebrated as heroes, but new challenges and adventures await them in Mystara.
+**Final Confrontation**
+- Players infiltrate The Mistress's stronghold, navigating through traps, minions, and dark magic.
+- The final battle against The Mistress is intense and challenging, with players needing to use all their newfound powers and allies' support to prevail.
 
-### Key Themes and Motifs
+**Resolution**
+- Upon defeating The Mistress, players must decide the fate of her plans and the future direction of Mystara.
+- The campaign concludes with the players reflecting on their journey, the choices they've made, and the impact they've had on the world of Mystara.
 
-- **Deception and Trust**: The doppelgangers' presence highlights themes of deception and the importance of trust and discernment.
-- **Chaos vs. Order**: The Mistress's goal of sowing chaos contrasts with the players' efforts to restore order and protect the land.
-- **Ancient Secrets**: The players uncover ancient secrets and forgotten lore that reveal the true nature of the threat and the history of Mystara.
 
-### Major NPCs
 
-- **The Mistress**: The central antagonist, a powerful hag orchestrating the chaos across Mystara.
-- **Grubnar**: The Warchief of the goblins, an ally who provides critical information and support.
-- **Lila the Herbalist**: The local alchemist of North Lodge, who first suspects the truth behind the goblin attacks.
-- **Captain Arlen Grey**: The head of the city guard in Eboncrest, seeking capable adventurers to investigate the disappearances.
-- **Lady Seraphina**: A noblewoman and influential merchant in Eboncrest, who hires the players to find her missing business partner.
-- **The Whispering Broker**: An enigmatic informant in Eboncrest with valuable information about the disappearances.
-- **Archmage of Kylastrin**: The powerful mage who summoned the players to Mystara and provides crucial aid and information.
-
-### Important Locations
-
-- **North Lodge**: The starting point of the adventure and the initial site of the goblin attacks.
-- **Hidden Cave and Grukthar Hollow**: The goblin settlement where players uncover the first major clues.
-- **Bear Wood**: The site of ambushes and ancient ruins connected to the doppelgangers.
-- **Eboncrest**: A major city where players investigate mysterious disappearances and make key alliances.
-- **Dawnham**: A budding merchant guild that allies with the players.
-- **Sunfield**: Home to a race of friendly gnolls who become valuable allies.
-- **Balgaran**: The ruined city, a testament to The Mistress's destructive power and the site of major revelations.
-- **Kylastrin**: The city of mages where players uncover deeper truths about Mystara and their own purpose.
-
-**The End.** Campaign done. Roll new characters. Maybe don't write your own campaign next time dummy.
+The end. 

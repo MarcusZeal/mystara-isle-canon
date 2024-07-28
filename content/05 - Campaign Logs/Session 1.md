@@ -20,7 +20,7 @@ As the players complete their character creation and background discussions at T
  As the players enter the Enchanted Glade, they hear the distant howls of wolves. The dense foliage and eerie, perpetual twilight of the glade provide ample cover for predators. Suddenly, a pack of wolves emerges from the underbrush, circling the players.
  
 The party defeated the wolves and found 20 silver pieces and a torn piece of cloth with a mysterious symbol near the wolves' den. 
-  - The symbol was discovered to be for a religious diety. [[Grumshar, the Goblin God of Craft]]
+  - The symbol was discovered to be for a religious diety. [[Sindri]]
   - [[Thistle the Kenku]] uses animal handling and convinces one to stay close by as a pet. He named it [[Squak]].
 
 ---

@@ -31,7 +31,7 @@ Triton spirituality revolves around the worship of deities associated with the s
 
 **Key Deities**:
 
-- **[[Aquara, Goddess of Water]]**: The goddess of water, life, and healing. Aquara is venerated by those who live by or rely on water for sustenance and healing.
+- **[[Okeano, God of the sea.]]**: The goddess of water, life, and healing. Aquara is venerated by those who live by or rely on water for sustenance and healing.
 - **[[Panzuriel, the Writhing One]]**: The god of oceans, secrets, and the deep. Panzuriel is primarily worshipped by those who dwell near or rely on the sea for their livelihoods, seeking his protection and guidance in the waters.
 
 #### Primary Settlements

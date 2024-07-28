@@ -32,9 +32,9 @@ Kobolds worship a pantheon of draconic deities, revering dragons as the ultimate
 **Key Deities**:
 
 - **[[Ignis, the Platinum Dragon]]**: The god of fire, justice, and protection. Ignis embodies the virtues of strength, honor, and the transformative power of fire.
-- **[[Gond, the God of Craft]]**: The god of invention, engineering, and craftsmanship. Gond is revered by inventors, artisans, and craftsmen for his guidance in creativity and innovation.
-- **[[Aerion, God of Air]]**: The god of winds, freedom, and exploration. Aerion is honored by travelers, adventurers, and those who value the boundless skies and the spirit of adventure.
-- **[[Gaeloria, Goddess of Earth]]**: The goddess of fertility, stability, and the natural world. Gaeloria is worshipped by those who seek her blessings for growth, harmony with nature, and the enduring strength of the earth.
+- **[[Sindri, Goddess of creativity and invention]]**: The god of invention, engineering, and craftsmanship. Gond is revered by inventors, artisans, and craftsmen for his guidance in creativity and innovation.
+- **[[Aerako]]**: The god of winds, freedom, and exploration. Aerion is honored by travelers, adventurers, and those who value the boundless skies and the spirit of adventure.
+- **[[Toamna, Goddess of agriculture and fertility]]**: The goddess of fertility, stability, and the natural world. Gaeloria is worshipped by those who seek her blessings for growth, harmony with nature, and the enduring strength of the earth.
 
 
 #### Tribes and Lifestyles

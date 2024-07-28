@@ -33,7 +33,7 @@ Kenku spirituality is varied, reflecting their diverse experiences and adaptabil
 
 **Key Deities**:
 - **[[Mask, the God of Thieves]]**: The god of stealth, trickery, and shadows. Mask is worshipped by thieves, spies, and those who value cunning and guile, guiding them to use their wits and stealth to achieve their goals.
-- **[[Gond, the God of Craft]]**: The god of invention, engineering, and craftsmanship. Gond is revered by inventors, artisans, and craftsmen for his guidance in creativity and innovation.
+- **[[Sindri, Goddess of creativity and invention]]**: The god of invention, engineering, and craftsmanship. Gond is revered by inventors, artisans, and craftsmen for his guidance in creativity and innovation.
 
 #### Primary Settlements
 

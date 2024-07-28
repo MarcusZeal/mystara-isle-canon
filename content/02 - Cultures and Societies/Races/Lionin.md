@@ -34,8 +34,8 @@ Leonin spirituality is centered around a pantheon of deities that embody the nat
 **Key Deities**:
 
 - **[[Mask, the God of Thieves]]**: Kenku often revere Mask, the god of thieves and shadows, seeking his favor for their clandestine endeavors.
-- **[[Gond, the God of Craft]]**: The god of invention, engineering, and craftsmanship. Gond is revered by inventors, artisans, and craftsmen for his guidance in creativity and innovation.
-- **[[Lupara, the Moon Huntress]]**: The goddess of the moon, hunting, and the wilderness. Lupara is revered by those who respect her guidance in the balance of nature and the art of the hunt.
+- **[[Sindri, Goddess of creativity and invention]]**: The god of invention, engineering, and craftsmanship. Gond is revered by inventors, artisans, and craftsmen for his guidance in creativity and innovation.
+- **[[Lupara]]**: The goddess of the moon, hunting, and the wilderness. Lupara is revered by those who respect her guidance in the balance of nature and the art of the hunt.
 - **[[Ignis, the Platinum Dragon]]**: The god of fire, justice, and protection. Ignis embodies the virtues of strength, honor, and the transformative power of fire.
 
 #### Primary Settlements

@@ -34,8 +34,8 @@ Dragonborn spirituality is closely tied to their draconic heritage. They worship
 **Key Deities**:
 
 - **[[Ignis, the Platinum Dragon]]**: The god of fire, justice, and protection. Ignis embodies the virtues of strength, honor, and the transformative power of fire.
-- **[[Gond, the God of Craft]]**: The god of invention, engineering, and craftsmanship. Gond is revered by inventors, artisans, and craftsmen for his guidance in creativity and innovation.
-- **[[Aerion, God of Air]]**: The god of winds, freedom, and exploration. Aerion is honored by travelers, adventurers, and those who value the boundless skies and the spirit of adventure.
+- **[[Sindri, Goddess of creativity and invention]]**: The god of invention, engineering, and craftsmanship. Gond is revered by inventors, artisans, and craftsmen for his guidance in creativity and innovation.
+- **[[Aerako]]**: The god of winds, freedom, and exploration. Aerion is honored by travelers, adventurers, and those who value the boundless skies and the spirit of adventure.
 
 
 #### Primary Settlements
