@@ -1,6 +1,6 @@
 ---
 title: Session 4
-draft: true
+draft: false
 order: 4
 ---
 ### Narrative Recap
@@ -70,8 +70,6 @@ order: 4
 **Darius**:
 
 > **Azzika**, in my years of service, I came across many strange and powerful artifacts. These Astral Gauntlets are one such find. They were gifted to me by a master monk from a distant land. I see in you the discipline and strength that these gauntlets require. Take them, and may they enhance your connection to the Astral Plane and aid you in your battles."
-
-
 
 
 
