@@ -13,8 +13,10 @@ These ethereal gloves are woven from the fabric of the Astral Plane itself. They
 **Properties:**
 - **Enhanced Strikes:** While wearing these gauntlets, the monk's unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 - **Astral Empowerment:** The wearer gains a +1 bonus to attack and damage rolls with unarmed strikes and the arms of the astral self.
+	- This becomes +2 bonus to attack and damage rolls at level 6. 
 - **Phasing Strike:** Once per short rest, the wearer can make a special unarmed strike that phases partially through the Astral Plane. This strike allows the monk to bypass any nonmagical armor, shields, or natural defenses, effectively ignoring the target's AC for that attack.
-- **Meditative Focus:** The gauntlets help the wearer maintain their focus. The monk has advantage on Constitution saving throws made to maintain concentration on their astral self abilities.
+- **Astral Pulse:** Once per long rest, the monk can release a burst of astral energy in a 30-foot radius centered on themselves. Each creature in the area must make a DC 15 Dexterity saving throw. On a failed save, a creature takes **6d4 force damage** and is knocked prone. On a successful save, the creature takes half damage and isn't knocked prone.
+
 
 **Attunement:** Yes
 

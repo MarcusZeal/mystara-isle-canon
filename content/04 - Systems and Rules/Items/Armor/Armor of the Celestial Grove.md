@@ -15,7 +15,7 @@ Crafted from the bark of ancient trees and imbued with the power of the stars, t
 **Weight:** 20 lbs
 
 **Properties:**
-- **Starry Guidance:** Once per long rest, the wearer can use the armor to cast the *Guiding Bolt* spell at 2nd level without expending a spell slot.
+- **Starry Guidance:** Once per long rest, the wearer can use the armor to cast any known druid spell at 2nd level without expending a spell slot.
 - **Silent Footsteps:** The armor makes no sound when the wearer moves, granting advantage on Dexterity (Stealth) checks made to move silently.
 
 **Attunement:** Yes

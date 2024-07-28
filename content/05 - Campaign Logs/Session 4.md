@@ -33,6 +33,48 @@ order: 4
 
 > "You've shown courage and strength in the face of great danger. On behalf of North Lodge, we present you with these letters of recognition and 50 gold pieces each. You've earned it. Tonight, we celebrate!"
 
+
+#### Rewards
+
+**Lila Willowhart**
+
+> "**Sylvain**! It was so good to see you. Thank you so much for helping last night! Here, I have something special for you. 
+>  
+> This Armor of the Celestial Grove is crafted from ancient trees and imbued with celestial power. It reflects your deep connection to nature and the stars. Wear it with pride and may it protect you on your journeys."
+
+
+**Brom the Innkeeper:**
+
+> **Eldric**, thank you so much! You've been here for some time and I don't think I've ever even paid you for performing. Your music has brightened our lives and your help last night may have save them. I've seen how your music lifts spirits and inspires others. This Lute of Whispering Echoes has been in my family for generations. It's said to carry the songs and stories of many travelers. I believe it's meant for you. Use it to weave your magic and tell your tales."
+
+
+**Gareth the Blacksmith:**
+
+> **Garos**, your strength and bravery remind me of the fires that forge the strongest steel. This maul, imbued with the essence of fire, is a weapon I crafted myself. May it serve you well in battle."
+
+> **Kai**, I found this Scythe of the Abyssal Depths in a shipwreck and reforged it. It harnesses the power of the deep sea. For someone with your potential, I believe it will be a formidable weapon. Wield it wisely.
+
+
+**Elder Thalia:**
+
+> **Thistle**, you've been with us now for a few months and I've grown to look forward to seeing you around the town with the kiddos. I've watched you struggle with the curse of silence, and it pains me to see such a vibrant spirit muted. This Amulet of the Echoing Voice is a relic I've safeguarded for many years. I believe it can lift your curse and restore your voice. May it bring you the freedom you deserve."
+
+> **Ren**, your courage and strength have been pivotal in defending our home. I have something that belongs with you. This greatsword, Leviathan's Fury, was forged from the depths of the ocean, embodying the raw power of the sea and the untamed wild. May it serve you well in your battles and enhance the magic within you. Wield it with the honor and ferocity that you have shown.
+
+
+**Finn the Fisherman:**
+
+> This book washed up on shore just the other day. I was going to sell it in [[Eboncrest]] the next time I got down that way, but without you I wouldn't be making it down that way again! It's filled with the knowledge of the ocean and the arcane.  [[Posidonius, the Quantum Mage]], you have a thirst for knowledge that matches the vastness of the sea. I believe this tome is meant for you.
+
+
+**Darius**:
+
+> **Azzika**, in my years of service, I came across many strange and powerful artifacts. These Astral Gauntlets are one such find. They were gifted to me by a master monk from a distant land. I see in you the discipline and strength that these gauntlets require. Take them, and may they enhance your connection to the Astral Plane and aid you in your battles."
+
+
+
+
+
 **Celebration**
 
 > The evening is filled with laughter, music, and gratitude. The villagers express their thanks, and the inn buzzes with merriment.
