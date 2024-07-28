@@ -634,17 +634,3 @@ Cannon can move 15feet.
    1. [[Eboncrest]] (And maybe eventually [[Ironheart]]) **or**
    2. [[Dawnham]] **or**
    3. [[Copper Hill]]
-
-> I'd love to know where you guys are planning on going for next week so I can get the session ready. As I see it, your characters would probably want to hit Eboncrest, Dawnham, or Copper Hill next - but LMK and I'll write something up for wherever you're going. 
-
-
-Next Session will be... **Travel Montage.** See [[Traveling Event System]]. 
-
-
-4. Begin traveling down that way.
-   1. [[Enchanted Glade]]
-   2. [[Bear Wood]]
-   3. [[Whispering Glade]]
-   4. [[Copper Rise]], [[Eboncrest Hollow]], or [[Dawnham Passage]]
-   5. The map where they fight the owlbear.
-   6. The city or village they planned on heading to.

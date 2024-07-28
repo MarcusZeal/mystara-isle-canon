@@ -110,13 +110,12 @@ order: 4
 
 
 **Mysterious Traveler**: 
-*Realizing his mistake, the traveler quickly composes himself.* 
-"Never mind me, just the ramblings of an old man. If you do happen upon any, remember, they can be quite valuable... to the right people."
+"Never mind me, just the ramblings of an old man. If you do happen upon any, remember, they can be quite valuable... to the right people. "
 
 *He stands, adjusting his cloak.*
 
 **Mysterious Traveler**: 
-"Thank you for the warmth of your fire. Safe travels, friends."
+"Thank you for the warmth of your fire. It's been a pleasure, but I must continue my journey. Remember, the seas are vast and full of secrets. Don't spend your whole lives on this small isle when there is a whole world of Vodari out there for you to explore."
 
 *With that, he vanishes into the night, leaving the adventurers with more questions than answers.*
 
