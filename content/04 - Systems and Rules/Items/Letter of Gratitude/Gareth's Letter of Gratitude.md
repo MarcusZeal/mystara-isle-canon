@@ -3,7 +3,6 @@ title: Gareth's Letter of Gratitude
 draft: false
 tags:
   - Item
-  - Copper-Hill
   - North-Lodge
 order: 2
 ---
@@ -13,7 +12,7 @@ I hope this letter finds you well. I have some news that I think you’d be inte
 
 These brave souls stood their ground and fought with such tenacity and skill that they managed to turn the tide in our favor. Their courage and strength were a sight to behold, and I feel incredibly fortunate that they came to our aid.
 
-I know you’d appreciate their story, and I thought you might want to extend your hospitality to them if they ever make their way to [[Regions/Copper Hill/Copper Hill]]. You’d be proud to hear what they’ve done for us. 
+I know you’d appreciate their story, and I thought you might want to extend your hospitality to them if they ever make their way to you. You’d be proud to hear what they’ve done for us. 
 
 Looking forward to seeing you again soon,
 
