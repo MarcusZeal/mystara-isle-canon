@@ -1,6 +1,6 @@
 ---
 title: Crit Hits + Fails
-draft: true
+draft: false
 order: 0
 ---
 
