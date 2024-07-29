@@ -21,4 +21,4 @@ order:
 
 **Lore:** Leviathan's Fury was said to be crafted by a pirate lord who struck a bargain with a powerful sea deity. This greatsword embodies the untamed fury of the ocean, enhancing the wild magic within its wielder. It is a symbol of the unrelenting power of the sea and the chaos it can bring. The weapon’s connection to water and wild magic makes it perfect for a Path of the Wild Magic Barbarian, particularly one who thrives in aquatic environments.
 
-![[Pasted image 20240728185704.png]]
+![[sword.png]]

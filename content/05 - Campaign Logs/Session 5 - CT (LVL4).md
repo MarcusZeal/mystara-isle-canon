@@ -3,14 +3,33 @@ title: Session 5
 draft: true
 order: 5
 ---
+### Narrative Recap 
+
+> During your celebrating in North Lodge, you were each gifted an item of extreme power from the villagers of North Lodge. These were your reward and you got the impression that they weren't all that impressive to the townspeople themselves. Curious since each weapon or item  is stronger than anything any of you could have imagined from your life on earth.
+> 
+> Once well rested and attuned to your new items, you set out towards Eboncrest. 
+> 
+> On the road you interacted with [[Aelorian's Essence]], the sentient necklace. The necklace told you of the [[01. The Golden Age of the Eldorans]] as well as a little bit about these Lunashards. 
+> 
+> Later, you met a shifty traveler. He started asking about Lunashards and if you've seen any. You thought Ren might have eaten one. You guys got a bit murderhobo-y on him and sent him away terrified of the other travelers on this road.
+> 
+> When entering Eboncrest, you met a little girl who had lost her mom. Without any coaxing whatsoever you helped her find her way back to her mom at the Minotaur's Milk, the only Inn in the city. 
+> 
+> At the Inn, you met up with [[Elara Willowhart]], where Sylvain told her about all that had transpired. Elara didn't seem to be particularly worried about the situation, but did ask them to come over to her shop to discuss it further. 
+> 
+> At her shop, [[The Whispering Willow]], you met her little brother and learned a bit more about how Vyrra was just a ghost story the elves used to tell their children. She seemed concerned and relieved about the events that transpired at North Lodge and asked you to investigate the Curse of Castle Thorn shortly. 
+> 
+> She also mentioned you should stop by the Adventurers Guild to register as adventurers on your way out of town. Sylvain was not interested at all. The party begrudgingly registered at the interest of Garos. You didn't all use your real names here... And now those fake names, if you used them, are magically inscribed onto these adventurer badges. 
+> 
+> You rested for the night and headed out to Castle Thorn early the next morning. You left at roughly 6am. It's just about noon now. What do you do?
+
+
 
 ### Quest Hook: The Curse of Castle Thorne
 
 **Introduction at The Whispering Willow:**
 
 As the adventurers converse with Elara Willowhart at The Whispering Willow, she leans in, her voice dropping to a conspiratorial whisper.
-
----
 
 **Elara Willowhart:**
 
@@ -19,8 +38,6 @@ As the adventurers converse with Elara Willowhart at The Whispering Willow, she 
 She pauses, her eyes filled with concern.
 
 > _“The curse has begun to spread outward like weeds, overtaking the small village outside the castle. I don’t know why this has happened, but the curse now threatens to engulf the surrounding lands. Will you investigate and destroy the cause of this curse?”_
-
----
 
 **Objective:**
 

@@ -18,7 +18,9 @@ order: 4
 > 
 > The adventurers spread throughout North Lodge, urging the villagers to arm themselves and prepare for battle. They explained the threat of the Changelings and Barghests, convincing even the skeptical to take action. Darius and Miri fortified the walls, setting up defensive positions. Miri, with a hint of mischief, revealed a flamethrower turret she had been working on with Gareth, promising it would "heat things up." Gareth joined forces with Azzika, Garos, and Syrain at a different outpost, ready to fend off the attackers.
 > 
-> As night fell, the changeling forces, led by Barghests, began their assault on North Lodge. The villagers, now armed and prepared, fought valiantly alongside the adventurers. Darius demonstrated his combat prowess, leading the trainees by example. The flamethrower turret, manned by Miri, proved to be a game-changer, scorching the attacking forces. Garos, now fully embracing his new form and abilities, fought fiercely, protecting his newfound home. The battle was intense, but the combined efforts of the townspeople and adventurers led to a hard-fought victory, ensuring the safety of North Lodge and thwarting the Mistress's plans... at least for now.
+> As night fell, the changeling forces, led by Barghests, began their assault on North Lodge. The villagers, now armed and prepared, fought valiantly alongside the adventurers. Darius demonstrated his combat prowess, leading the trainees by example. The flamethrower turret, manned by Miri, proved to be a game-changer, scorching the attacking forces. Garos, now fully embracing his new form and abilities, fought fiercely, protecting his newfound home. 
+> 
+> The battle was intense, but the combined efforts of the townspeople and adventurers led to a hard-fought victory, ensuring the safety of North Lodge and thwarting the Mistress's plans... at least for now.
 
 
 
@@ -87,7 +89,7 @@ order: 4
 
 **Departure**
 
-> The next morning, you gather your supplies and set off towards Eboncrest. The road ahead is long, spanning three days of travel through varied terrain.
+> Three days later, you gather your supplies and set off towards Eboncrest. The road ahead is long, spanning three days of travel through varied terrain.
 
 #### Day 1:  Aelorian Speaks
 
@@ -99,29 +101,27 @@ order: 4
 ![[01. The Golden Age of the Eldorans]]
 
 
-**When Asked About Their Role:**
-> "Listen, yous are the prophesied heroes, alright? Summoned here to set things right. It ain’t just about your strength; it’s about workin’ together, understandin’ the big picture. You gotta stop Vyrra and save Mystara from another disaster. No pressure, right?"
+
 
 **When Asked About the Necklace:**
 > "I’m Aelorian, bound to this here necklace by some powerful ancient magic. I got all the knowledge and memories of the Eldorans. Use what I know wisely, cause the fate of Mystara might just depend on it. Now, let’s get to work, huh?"
 
+
 **When Asked About the Mistress:**
 > "Ah, Vyrra, yeah? She was one of us, a real hotshot mage back in the day. She tried to stop some big catastrophe, but it all went sideways, ya know? Now she’s this twisted hag, thinkin’ she’s gotta control everything to keep the world from fallin’ apart again. Her heart's in the right place sure, but her methods? Fuhgeddaboudit."
+
 
 **"How many questions will you answer in a day?"**
 >  "Look, I got my limits, alright? I can handle a few questions a day, but don’t go overboard. Too much jabberin’ wears me out."
 
+
 **"Why are you so talkative right now?"**
 >  "Heh, I’m in a good mood, I guess. You’ve been doin’ some good work, and I figured it’s time you learned a bit more about what’s goin’ on."
 
-**"What should we know about the Dragonspire Mountains?"**
-> "Those mountains are no joke. Dangerous creatures, ancient ruins, and harsh weather. But you’ll find some powerful magic up there eventually, if you’re brave enough to seek it out. Stay away from there for now though."
 
 **"Can you tell us anything else about the blue crystals**
 > Ah, the Lunashards, eh? Those crystals ain't just any old rocks, lemme tell ya. They were the heart of our power, pulsin' with raw, pure magic. Had to be mighty careful with them though or they'd bite ya. Maybe I'll tell you why we called them Lunashards someday, but today is not that day. 
 
-**"What’s the best way to prepare for our journey?"**
-> "Stay sharp, stick together, and always have a plan. Don’t be afraid to ask for help from the folks you along the way. They might surprise ya."
 
  **When he's done talking.**...
 > Alright, folks, that's enough chit-chat for now. I’m gonna take a little break, you know, recharge my essence or whatever. Don't go gettin' into too much trouble without me. I’ll be around when you need me again, but for now, I’m goin’ back to... well, not exactly sleep, but you get the idea.
@@ -129,6 +129,9 @@ order: 4
 #### Day 1, Evening
 
 ##### RP Encounter: The Mysterious Traveler
+
+
+###### Ondo, the Traveler. 
 
 > As you are resting at a campfire by the road, night has fallen, and the forest around them is quiet except for the occasional rustle of leaves. 
 > 
@@ -144,45 +147,34 @@ order: 4
 
 . . . 
 
+This caused the party to start questioning him about his whereabouts and why he had been following them. 
+
 
 **Mysterious Traveler**: 
 "Ah, perhaps I am mistaken. These are rare, indeed. Some isles know them as Lunashards."
 
 
+
 **Mysterious Traveler**: 
 "Never mind me, just the ramblings of an old man. If you do happen upon any, remember, they can be quite valuable... to the right people. "
 
-*He stands, adjusting his cloak.*
+*He stands, adjusting his cloak. Scared and realizing that these adventurers might be a bit crazy, he attempts to dash into the woods to escape. *
 
-**Mysterious Traveler**: 
-"Thank you for the warmth of your fire. It's been a pleasure, but I must continue my journey. Remember, the seas are vast and full of secrets. Don't spend your whole lives on this small isle when there is a whole world of Vodari out there for you to explore."
+[[Posidonius, the Quantum Mage]] casts levitate on him and he's revealed to now be a squirrel. He floats back towards the fire for more questioning. 
 
-*With that, he vanishes into the night, leaving the adventurers with more questions than answers.*
+After being questioned about who he is and what he's doing, the party learns that he's a guy that acquires rare goods and try to sell them for money. He's currently interested in these blue crystals. 
+
+The party later learns that he was a **Voda**. 
+
+*After being allowed to leave, he vanishes into the night, leaving the adventurers with more questions than answers.*
 
 ##### What does he look like? 
-**Perception or Insight Checks**
-
-###### DC 10 Check - Slight Recognition
-
-As you observe the traveler, you notice his cloak's subtle aquatic motifs and ancient runes. There's something oddly familiar about the small, glowing blue crystals embedded in his staff, though you can't quite place their significance. His voice carries the calm steadiness of the sea.
-
-###### DC 15 Check - More Details
 
 The adventurer appears to be a race of amphibious humanoids. He has a lean, sinewy build, standing at about six feet tall. 
 
 You realize that the traveler's cloak and staff are adorned with intricate carvings and runes that seem to be of ancient, aquatic origin. The blue crystals in his staff catch your eye, as they resemble descriptions of rare magical artifacts from ancient times. His voice, with its wave-like cadence, suggests a deep connection to the sea.
 
 
-###### DC 25 Check (or nat20) - Most Details
-The adventurer appears to be a race of amphibious humanoids. He is *not* a Triton. He has a lean, sinewy build, standing at about six feet tall. His skin has a slight blue-green hue, reminiscent of ocean depths, and is textured like sharkskin. His eyes are deep and dark, reflecting a wealth of untold stories and a hint of mystery. 
-
-He wears a long, weathered cloak that seems to blend seamlessly with his surroundings, giving him an almost ethereal presence. The cloak is adorned with subtle aquatic motifs and ancient runes, hinting at his deep connection to the sea and his knowledge of ancient lore. Underneath, he dons practical, yet well-worn leather armor, designed for both protection and mobility.
-
-His movements are fluid and graceful, betraying his aquatic heritage. When he speaks, his voice carries the cadence of the waves, calm and steady, but with an undertone of deep currents and hidden depths. The traveler carries a staff carved from driftwood, with intricate carvings and embedded with small, glowing blue crystals, similar to Lunashards. His demeanor is calm and composed, but there is an air of urgency and purpose in his eyes.
-
-###### Failed Check
-
-You notice that the traveler seems out of place, his attire and demeanor different from the usual travelers you encounter. However, nothing specific stands out about him, and you are left with a sense of curiosity but no concrete details.
 
 
 #### Day 2: Combat Encounter - Owlbear Blocking the Road
@@ -261,6 +253,14 @@ You notice that the traveler seems out of place, his attire and demeanor differe
 - **Skill Check: Investigation (DC 14)**: To figure out that she means [[The Minotaur's Milk]], a well-known inn in the city.
 - **Outcome**: Successfully reuniting Anya with her mother will earn you their gratitude and buys each of you dinner at the Minotaur's Milk where you will meet other adventurer patrons who speak of the Adventurer's Guild. 
 
+The party takes Selina to a guard who gives them directions to The Minotuar's Milk. Here, they find Selina's mom who was overjoyed and gave him a free meal. This is also where they find Elara.
+
+After speaking with Elara, they agree that they should talk more privately at her shop across the street. They leave the Inn and go to her shop to discuss further. 
+
+At the same time as this is happening, Garos meets Sarah - a large burly man at the [[The Silver Anvil]]. Sarah says that he doesnt have anything that's better than that mace Garos already got, but he can offer him **a 50% discount on anything they buy from him.** As a thanks for helping North Lodge. 
+
+
+
 ### The Whispering Willow
 
 ![[The Whispering Willow#Setting the Scene]]
@@ -291,11 +291,6 @@ You notice that the traveler seems out of place, his attire and demeanor differe
 
 
 
-### Choosing Your Next Steps...
 
-From here the players could decide to ... 
-- Pick up one of the quests and begin that chain.
-- They could look for more leads to Vyra, they currently have no leads. A quest should give them some.
-- Look for the seedy underbelly of Eboncrest, although they have no reason to believe there is one yet. A quest should give them some. 
 
-Either way, this is likely all the time we have for Session 4. Session 5 will begin with wherever they decide to go. 
+
