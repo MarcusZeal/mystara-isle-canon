@@ -1,5 +1,5 @@
 ---
-title: Crit Hits + Fails
+title: Crafting Potions
 draft: false
 order: 0
 ---
