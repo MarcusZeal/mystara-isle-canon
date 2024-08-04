@@ -1,6 +1,6 @@
 ---
 title: Ophiocordyceps Unilateralis Infection
-draft: true
+draft: false
 order:
 ---
 
