@@ -6,7 +6,7 @@ tags:
   - Fighter
   - Dragonborn
   - Drag
-order: 2
+order: 
 profile: Garos.png
 ---
 #### Background: Garos, the Green Dragonborn

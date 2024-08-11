@@ -6,7 +6,7 @@ order:
 
 #### Overview
 
-You've has been infected with a deadly virus that will kill him in 2 hours (IRL Time) if not cured. Every 10 minutes, roll a dice to determine the virus's progression and apply the corresponding effects. The effects will gradually worsen, causing you to become more sluggish and impairing his abilities.
+You've has been infected with a deadly virus that will kill you in 2 hours (IRL Time) if not cured. Every 10 minutes, roll a dice to determine the virus's progression and apply the corresponding effects. The effects will gradually worsen, causing you to become more sluggish and impairing his abilities.
 
 #### Infection Stages and Effects
 
@@ -68,11 +68,11 @@ The infection progresses through several stages, each with its own effects. Use 
 | 150-180 minutes | Final Stage: Near Death     | 1 HP remaining, incapacitated, can only move 5 feet per turn.                                           |
 | ~               | Death                       | The infection has run its course. You are now a plant zombie.                                           |
 
-- [ ] Initial Stage
-- [ ] Stage 1
-- [ ] Stage 2
-- [ ] Stage 3
-- [ ] Stage 4
+- [x] Initial Stage
+- [x] Stage 1
+- [x] Stage 2
+- [x] Stage 3
+- [x] Stage 4
 - [ ] Stage 5
 - [ ] Stage 6
 - [ ] Dead.

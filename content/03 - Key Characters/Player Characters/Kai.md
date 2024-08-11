@@ -5,7 +5,7 @@ tags:
   - Player
   - Warlock
   - Humans
-order: 2
+order: 
 profile: "[[kai.png]]"
 ---
 

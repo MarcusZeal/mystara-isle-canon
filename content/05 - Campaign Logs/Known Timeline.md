@@ -93,3 +93,6 @@ order: 0
 	- **Snappy's Arrival:** [[Ren 'Snappy' Hamasaki]], while in the middle of his science class, is transported to Mystara Isle and realizes he's a turtle man. Paralyzed with fear, he hides in his shell for hours until he meets the other adventurers. 
 	- **North Lodge Defended:** The adventurers and Goblins successfully defend North Lodge against an onslaught of Eldoran Changelings and Barghests, rallying the townspeople and their allies.
 	- **Goblins x North Lodge Friendly Relations:** The effects of North Lodge has caused the [[Goblins]] to be friendly with [[North Lodge]]. They have an open trading community now. The alliance is tenuous, but with the compassion of [[Lila Willowhart]] and the wisdom of [[Elder Thalia]], they should be alright! 
+- **3224 A.C. (August)** :
+	- **Thistle Dies** to Ophiocordyceps Unilateralis Infection
+	- The team meet **Zephyr.** 

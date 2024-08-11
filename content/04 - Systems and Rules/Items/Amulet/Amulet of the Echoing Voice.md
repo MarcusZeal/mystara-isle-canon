@@ -1,10 +1,12 @@
 ---
 title: Amulet of the Echoing Voice
-draft: false
+draft: true
 tags:
   - Item
 order:
 ---
+**Lost Forever.** 
+
 **Type:** Wondrous Item (Amulet)
 
 **Description:**

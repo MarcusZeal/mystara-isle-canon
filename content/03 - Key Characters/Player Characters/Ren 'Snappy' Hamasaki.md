@@ -5,7 +5,7 @@ tags:
   - Player
   - Barbarian
   - Tortle
-order: 10
+order: 
 profile: "[[toortle2.webp]]"
 ---
 

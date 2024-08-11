@@ -1,6 +1,6 @@
 ---
 title: Scythe of the Abyssal Depths
-draft: false
+draft: true
 tags:
   - Item
 order:

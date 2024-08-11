@@ -5,9 +5,11 @@ tags:
   - Player
   - Rogue
   - Kenku
-order: 2
+order: 
 profile: "[[thistle.png]]"
 ---
+
+
 
 #### Background: Life on Earth
 
@@ -43,3 +45,8 @@ Thistle also hopes to uncover the mystery of his transformation and arrival in t
 Thistle quickly formed bonds with the villagers of North Lodge, especially those who appreciate his crafting skills. He often collaborates with Miri the Carpenter, sharing techniques and ideas. He has also become friends with Gareth the Blacksmith, assisting him with intricate metalwork and repairs.
 
 Thistle's presence in the village has brought a new dynamic to the community, blending his Earthly ingenuity with the magical possibilities of Mystara Isle. As he embarks on adventures with other players, Thistle's unique perspective and abilities will undoubtedly play a crucial role in their journey.
+
+
+### Death
+
+Died to ... ![[ Ophiocordyceps Unilateralis Infection]]

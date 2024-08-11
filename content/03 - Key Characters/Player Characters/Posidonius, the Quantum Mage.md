@@ -5,7 +5,7 @@ tags:
   - Player
   - Wizard
   - Triton
-order: 2
+order: 
 profile: "[[redhorn.png]]"
 ---
 

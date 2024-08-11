@@ -6,7 +6,7 @@ tags:
   - Bard
   - Elves
   - Humans
-order: 2
+order: 
 profile: "[[eldric.png]]"
 ---
 On earth, I was a failed musican. All I wanted to do was sing, dance, and make beautiful song to make those around me happy. However, all I did was disgust those around me with how awful I sounded. 
