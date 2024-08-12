@@ -1,6 +1,6 @@
 ---
 title: The Rise and Fall of the Vrael
-draft: true
+draft: false
 tags:
   - Item
 ---

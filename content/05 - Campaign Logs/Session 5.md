@@ -174,6 +174,9 @@ As they explore the castle, they'll find Rose Guards and Rose Mages  and **Gas S
 - Any creature using an action to drink from it regains 2d8+5 hit points.
 - **3 charges**, replenishing at the start of each round.
 
+
+
+
 #### Rose Knights (Collectively CR 7?)
 
 **Shared Health Pool**: 225 HP  
@@ -181,6 +184,9 @@ As they explore the castle, they'll find Rose Guards and Rose Mages  and **Gas S
 **Speed**: 30 ft.  
 **Multiattack**: Two longsword attacks (+7 to hit, 1d8+4 slashing damage).  
 **Change Of Season:** Once per day, the Rose Knight can change its elemental affinity.
+
+
+
 
 ### Elemental Affinity
 

@@ -1,7 +1,7 @@
 ---
 title: Session 5
-draft: true
-order: 5
+draft: false
+order: 6
 ---
 
 ### Encounter 4: The Verdant Tyrant
@@ -66,11 +66,13 @@ abilitiesUsed = {
 }
 
 **Abilities Available:**
-- [ ] **PoisonBreath** 
+- [x] **PoisonBreath** 
 	- [ ] The Verdant Tyrant exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (8d6) poison damage on a failed save, or half as much damage on a successful one.
-- [ ] **EntanglingRoots**
-	- [ ] The Verdant Tyrant causes vines and roots to burst from the ground in a 20-foot radius. This area becomes difficult terrain, and any creature in the area must succeed on a DC 14 Strength saving throw or be restrained. A creature can use its action to make a DC 14 Strength check to free itself or another creature within reach.
-- [ ] **RegenerativeBurst**
+- [x] **EntanglingRoots**
+	- [ ] The Verdant Tyrant causes vines and roots to burst from the ground in a 20-foot radius. 
+	      Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain. 
+	      A creature in the area when you cast the spell must succeed on a Strength saving throw or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
+- [x] **RegenerativeBurst**
 	- [ ]  The Verdant Tyrant taps into the life force of the castle, regaining 15 (3d8 + 2) hit points.
 
 
