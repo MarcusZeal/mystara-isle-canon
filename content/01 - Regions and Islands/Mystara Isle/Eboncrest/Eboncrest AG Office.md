@@ -129,7 +129,7 @@ The Adventurers Guild is not just a place to find work; it's a community of like
 
 #### "Missing Merchant"
 **Ranking**: Silver  
-**Reward**: 250 Gold, 1 Common Rarity Magic Ring or Armor
+**Reward**: 250 Gold
 
 **...A well-known merchant has gone missing on the trade route to Dawnham. Find and rescue him...**
 
@@ -217,7 +217,7 @@ A notorious bandit camp has been raiding caravans and travelers near the mountai
 
 ####  "Underground Menace"
 **Ranking**: Gold  
-**Reward**: 500 Gold, 1 Rare Magic Item
+**Reward**: 500 Gold
 
 ##### Overview
 

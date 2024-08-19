@@ -7,13 +7,25 @@ order: 0
 
 #### Ancient Times (Approx. 5000 years ago)
 - **5000 B.C. (Before Cataclysm)**: The Eldoran civilization thrives, known for its advanced mastery of elemental magic and profound wisdom. 
+- **500 B.C.**: Elder Thorne was borne. 
+- **300 B.C.**: Vyrra is born into this era, becoming a revered mage and eventually a member of the Eldoran council.
+- **160 B.C.**:: Vyrra receives prophetic visions of a great cataclysm threatening. She begins researching forbidden rituals to prevent the disaster.
 
 
 #### Post-Cataclysm Era (Approx. 0 B.C. - 3000 A.C.)
 - **0 B.C.**: The Cataclysm occurs, marking the collapse of the Eldoran civilization. 
-- **1000 A.C. (After Cataclysm)**: The first humans arrive on Mystara Isle, establishing small settlements and gradually expanding their presence.
+- **15 A.C.:** Rowan Thorne leaves his homeland by ship, seeking a new world.
+- **50 A.C.:** Thomas Thorne begins his journey to find his brother, Rowan.
+- **500 A.C.:** Rowan Thorne settles temporarily in the elven city of Silvertree.
+- **800 A.C.:** Rowan Thorne moves on to Mystara Isle.
+- **805 A.C.:** Rowan Thorne establishes Castle Thorne and a small village outside of it on Mystara Isle.
+- **1000 A.C.:** The first humans arrive on Mystara Isle, establishing small settlements and gradually expanding their presence.
 - **1200 A.C.**: Dragonborn clans arrive, seeking new territories after the fall of their ancient homeland.
 - **1400 A.C.**: Kobolds follow the Dragonborn to Mystara Isle, often serving as their minions but also establishing their own hidden communities.
+- **1500 A.C.:** Vyrra curses Castle Thorne.
+- **1500 A.C.:** Thomas Thorne arrives in Silvertree, learns Rowan moved to Mystara Isle.
+- **1500 A.C.:** Rowan abandons Castle Thorne, moving west on Mystara Isle.
+- **1500 A.C.:** Thomas Thorne returns to Castle Thorne and meets his fate.
 - **1600 A.C.**: Kenku migrate to Mystara Isle, bringing their unique culture and skills as scouts and spies.
 - **1800 A.C.**: Leonin tribes arrive, driven by a quest for new hunting grounds and territories.
 - **2000 A.C.**: Tritons emerge from the depths of the ocean, establishing coastal settlements and forging alliances with land dwellers.
