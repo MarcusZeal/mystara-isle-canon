@@ -1,8 +1,9 @@
 ---
-title: Session 5
-draft: true
-order: 10
+title: Sessions 8 - 9
+draft: false
+order: 8
 ---
+## Why Are We Here
 ### Quest Hook: From Castle Thorne to Mother Medusa
 
 **Introduction through Aelorian Memories:**
@@ -49,32 +50,58 @@ As the adventurers explore the depths of Castle Thorne, they stumble upon an anc
 
 ---
 
-**Objective:**
 
-Travel to the village of Glenthorp, uncover the secrets of the awakened medusa, and prevent her cult from spreading chaos across the land.
 
-**Key Challenges:**
-- **Cultists**: Infected villagers turned into loyal servants of the medusa.
-- **Vrael**: Serpentine protectors of the medusa, newly created and fiercely loyal.
-- **Ruins Exploration**: Navigate the ancient dwarven ruins, filled with traps and dark magic.
-- **Mazerisha**: Confront the cursed medusa and find a way to either defeat or redeem her.
+## Session 8
 
-**Rewards:**
-- Access to ancient Eldoran and dwarven artifacts.
-- Potential allies in the form of freed villagers and scholars.
-- Knowledge and lore about the ancient civilizations of Mystara Isle.
+> Between the Tomb you found in Castle Thorne, the notes and directions you received from the Elves, you made your way to Glenthorp Island. 
+> 
+> Here, you found the town had been ravaged by Vrael, snake-like people. 
+> 
+> You learned that the attacks have been going on for some time (about 10 days), and that any villagers who went missing, sometimes would come back to help attack. 
+> 
+> You learned that there was an excavation site where all these vrael appear to be coming from. 
+> 
+> When you reached the excavation site, there was no sign of life anymore. The crew either dead or gone. 
+> 
+> You began to enter the old excavated well....
 
-**Notes:**
-- The tome hints at a ritual that might cure Mazerisha of her curse.
-- Players will need to gather specific components and perform the ritual within the ruins.
-- The connection between the curses on Castle Thorne and Mazerisha suggests a broader plot by the Mistress of Shadows.
 
 ---
 
-With Elara’s guidance and the mysterious tome as their map, the adventurers set out for Glenthorp. Their journey will lead them into the depths of ancient ruins, where they must face the horrors awakened by the excavation and unravel the secrets of the medusa’s curse.
+
+### The Tomb of Mother Medusa 
+During sessions 8 and 9, you found yourself in the tomb of Mazerisha. 
+
+**Exploring this tomb, you found:**
+- 1 Unidentified chest piece
+- 1 Unidentified spear with a goblin made of stone attached
+- Leveled up to level 6.
+- 16 Rubies worth 50GP each
+- 3 Casks of Dwarvan Ale worth 100GP each
+- 5 Scimitars worth PHB values
+
+**You solved:**
+- a puzzle involving blood pools. 
+- a basic light-the-torch for door puzzle
+
+**You killed:**
+- roughly 30 Vrael
+- 7 Zealots
+
+**You rescued:**
+- 2 Zealots (Samantha and Susan)
+- Mazerisha, aka Mother Medusa 
+
+**You cleansed the curse on Mazerisha and purified the bracers with Remove Curse.** 
 
 
 
+### Notable Moments:
 
-
+- **Garos** did most of the draining of the blood wells, which is what opened the final boss room door. 
+- **Posidonius** found the un-trapped waterway to explore the boss room. 
+- **Snappy** and **Zephyr** slayed a lot of Vrael. 
+- **Sylvain** summoned a possy of bears and it was incredible.
+- **Eldric** used the most value Long Strider combat spell ever. 
 
