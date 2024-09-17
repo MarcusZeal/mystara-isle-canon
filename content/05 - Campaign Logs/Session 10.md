@@ -1,6 +1,6 @@
 ---
 title: Session 10
-draft: true
+draft: false
 order: 10
 ---
 ### Recap
