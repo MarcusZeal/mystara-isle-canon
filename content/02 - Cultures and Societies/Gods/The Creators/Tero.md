@@ -21,4 +21,6 @@ Followers of Tero pray for good health, true love, reconciliation with friends, 
 - Reconcile differences and make peace whenever you can.
 - Bring light and love to places of darkness by showing compassion and compromise.
 
+**Tero is the brother of Lupara.**
+
 ![[Tero-Symbol.png]]

@@ -118,6 +118,3 @@ On initiative count 20 (losing initiative ties), Vyrra takes a lair action to ca
 **Reactions**:
 - **Unnerving Dodge**: When a creature Vyrra can see attacks her with an attack roll, she can use her reaction to impose disadvantage on the attack roll.
 
-### Key Plot Points
-
-1. **Initial Encounters**: Players encounter her doppelgangers and dark magic early in their adventure, gradually uncovering the true extent of her

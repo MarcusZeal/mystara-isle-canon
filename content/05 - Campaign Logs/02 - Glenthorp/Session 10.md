@@ -241,22 +241,3 @@ Posidinous and Sylvain talk for a bit about magic.
  
 - They can sale to **Saru** in 3 days. From there, **Undertow** is a harbor village on the coast. 
 
-
-
----
-
-
-
-### Undertow
-- The people here are friendly, but cautious. 
-- You notice there are very few races here *other* than elves. You all stand out as travelers. **But** there are many travelers here for the same event you are. 
-- You're able to walk freely in the small harbor town. There are all the vendors you would expect there to be. 
-  
-  
-### Teppa Tapp. 
-  
->  The sun is setting as you traverse the long boardwalk on the seafront of Undertow. The smell of the sea air hits your face as you see several fishing boats starting to bring in their hauls As you walk along, you can hear the calls of several market stalls as they hawk fresh scallops, smoked haddock, and other local delicacies.
-> 
->  As you pass by a tavern, you see a pair of young, smiling half-orcs walk away from a tiefling woman. As you look over, she turns to match your gaze, then grasps her satchel and begins to approach. She bows slightly with one hand on her top hat fascinator perched between her swept-back horns and introduces herself.
-> 
-> **“Teppa Tapp at your service! You seem like the kind of people who are looking for an adventure!”**

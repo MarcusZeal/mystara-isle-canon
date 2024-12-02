@@ -29,6 +29,8 @@ Despite her silence, Lupara's influence lingers. Hunters still whisper prayers t
 
 **Legends and Myths:** Many stories are told about Lupara's departure. Some say she mourns the loss of a great love, others believe she retreated to prevent a cataclysmic event tied to the moon's power. There are those who quest to find her, believing that if she can be persuaded to return, the nights will once again be filled with her protective presence.
 
+**She is the Sister of Tero.** 
+
 Lupara's legacy endures, a testament to her once vital role in the balance of the night and the hunt. Her silence is a mystery, but her impact on Vodari remains undeniable.
 
 

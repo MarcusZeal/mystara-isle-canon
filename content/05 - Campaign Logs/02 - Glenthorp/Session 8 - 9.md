@@ -1,5 +1,5 @@
 ---
-title: Sessions 8 - 9
+title: Session 8 - 9
 draft: false
 order: 8
 ---

@@ -11,7 +11,7 @@ profile: "[[redhorn.png]]"
 
 #### Background: Life on Earth
 
-Before his arrival in Mystara Isle, Posidonius was a highly respected quantum physics professor. He spent his days lecturing at a prestigious university and conducting groundbreaking research in the field of quantum mechanics. Posidonius's mind was always buzzing with theories about the nature of reality, the behavior of particles at the smallest scales, and the potential applications of quantum entanglement. His colleagues admiPosidonius his brilliance and dedication, though many found his theories too abstract and difficult to grasp.
+Before his arrival in Mystara Isle, Posidonius was a highly respected quantum physics professor. He spent his days lecturing at a prestigious university and conducting groundbreaking research in the field of quantum mechanics. Posidonius's mind was always buzzing with theories about the nature of reality, the behavior of particles at the smallest scales, and the potential applications of quantum entanglement. His colleagues admired Posidonius his brilliance and dedication, though many found his theories too abstract and difficult to grasp.
 
 #### Transformation: Arrival in Mystara Isle
 

@@ -6,6 +6,8 @@ order: 0
 ### Timeline Recap
 
 #### Ancient Times (Approx. 5000 years ago)
+- **5750 B.C. (Before Cataclysm)**: - The Eldorans, a race of elves who worshipped the elements struck down their moon god, [[Lupara]]. **Lupara is dead**, which is why she has been silent for millennia. The Eldorans harvested Lupara's heart, a dense, magic infused crystal that regenerates even after Lupara's passing. 
+- **5500 B.C.:** The Eldorans' master use of these blue crystals, called **Lunashards**, harvested from Lupara's heart. This lead to the Eldoran civilization expanding across the world. Their constructs and magic paved the way for thousands of years of prosperity. 
 - **5000 B.C. (Before Cataclysm)**: The Eldoran civilization thrives, known for its advanced mastery of elemental magic and profound wisdom. 
 - **500 B.C.**: Elder Thorne was borne. 
 - **300 B.C.**: Vyrra is born into this era, becoming a revered mage and eventually a member of the Eldoran council.
@@ -13,6 +15,9 @@ order: 0
 
 
 #### Post-Cataclysm Era (Approx. 0 B.C. - 3000 A.C.)
+- **0 B.C.**: Vyrra confronts the Thorne family, who are attempting to kill another god to harvest its power. During their battle, Lupara's Heart is struck, causing a massive explosion. The explosion eradicates the immediate area and causes a catastrophic tidal wave that plunges all but the tallest mountains underwater.
+	- The explosion split the heart into 5 chambers. The chipped off shards used for other tasks (the things powering the Eldoran civilization) were all scattered throughout the world as well. 
+	- This event marks the collapse of the Eldoran civilization. Vyrra is transformed into an ageless Eldoran shapeshifter, and the surviving Eldorans scatter, becoming a lost legend.
 - **0 B.C.**: The Cataclysm occurs, marking the collapse of the Eldoran civilization. 
 - **15 A.C.:** Rowan Thorne leaves his homeland by ship, seeking a new world.
 - **50 A.C.:** Thomas Thorne begins his journey to find his brother, Rowan.
@@ -102,9 +107,20 @@ order: 0
 	- **Encounter with North Lodge**: [[Garos]], now with the memories and consciousness of Luke, arrives at North Lodge. He meets other adventurers with mysterious origins and decides to join them in investigating the threats facing Mystara Isle.
 	- **Adventurers Meet:** Kai, Garos, Azzika, Posidonius, Eldric, and Thistle meet. Upon hearing the situation from the people at [[The Resting Stag]] decide to help them with their goblin problem. Lila urges them not to kill the goblins. 
 	- **Separate from the other adventurers**, Sylvain ventures into the Hidden Ruins at Grubnar's request, encountering the party of adventurers from Earth near the Spirit Riddle trial. Vyrra's manipulations and the true extent of her plans are gradually uncovered by the adventurers.
+		- **Sylvain is murdered by Vyra.**
+			- **Vyra** takes the form of Sylvain and takes his place in his life. 
 	- **Snappy's Arrival:** [[Ren 'Snappy' Hamasaki]], while in the middle of his science class, is transported to Mystara Isle and realizes he's a turtle man. Paralyzed with fear, he hides in his shell for hours until he meets the other adventurers. 
 	- **North Lodge Defended:** The adventurers and Goblins successfully defend North Lodge against an onslaught of Eldoran Changelings and Barghests, rallying the townspeople and their allies.
 	- **Goblins x North Lodge Friendly Relations:** The effects of North Lodge has caused the [[Goblins]] to be friendly with [[North Lodge]]. They have an open trading community now. The alliance is tenuous, but with the compassion of [[Lila Willowhart]] and the wisdom of [[Elder Thalia]], they should be alright! 
 - **3224 A.C. (August)** :
 	- **Thistle Dies** to Ophiocordyceps Unilateralis Infection
 	- The team meet **Zephyr.** 
+- **3224 A.C. (October)** :
+	- **Renny** betrays the party and is put down swiftly.
+- **3224 A.C. (November):
+	- **Sylvain** is revealed to have been **Vyra** for months.
+	- **The true nature of Lunashards is revealed to the party by Vyra.** 
+	- **Percy enters the world of Vodari and befriends the god Taros.** 
+	- Percy is given the mission to resurrect [[Lupara]], Tero's sister.
+	- The party learns of the chambers of Lupara's heart. This is their best lead forward.
+	- The party follows the visions and tugs towards the next chamber - in a mountain monastery. 
